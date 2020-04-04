@@ -1,0 +1,31 @@
+<flame name="Blue Claire" version="JWildfire 1.50 (30.03.2014)" size="457 343" center="0.0 0.0" scale="100.00014619799492" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" estimator_enabled="0" estimator_radius="0.7" estimator_minimum="0.0" estimator_curve="0.36" estimator_kernel="GAUSSIAN" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" bubbleT3D="1.0" bubbleT3D_number_of_stripes="0" bubbleT3D_ratio_of_stripes="1.0" bubbleT3D_angle_of_hole="0.0" bubbleT3D_exponent_z="1.0" bubbleT3D_symmetry_z="0" bubbleT3D_modus_blur="0" coefs="1.0 0.0 0.0 1.0 0.0 -0.5" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="4.0" color="0.0" symmetry="0.0" julian="1.4" julian_power="-6" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 -1.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.5" symmetry="0.0" julia3Dz="1.05" julia3Dz_power="6" coefs="1.81730096893568 0.0 0.0 1.81730096893568 0.009569808941579227 -1.4816622507321155" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.1" color="0.0" opacity="0.0" symmetry="0.0" nBlur="1.01" nBlur_numEdges="20" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.99" nBlur_circumCircle="1" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" post_circlecrop="0.0" post_circlecrop_radius="1.0" post_circlecrop_x="0.0" post_circlecrop_y="0.0" post_circlecrop_scatter_area="0.0" post_circlecrop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" lissajous="0.5" lissajous_tmin="0.0" lissajous_tmax="2.99" lissajous_a="2.25" lissajous_b="3.0" lissajous_c="-0.145" lissajous_d="0.0" lissajous_e="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+1879DF1B7ADF1E7BDE217CDE247DDD277EDD2A7FDD2D80DC3081DC3382DB3683DB3984DB
+3C85DA3F86DA4287DA4588D9488AD94B8BD84E8CD8518DD8548ED7578FD75A90D65D91D6
+6092D66393D56694D56995D46C96D46F97D47298D37599D3789AD37B9BD27E9CD2819DD1
+849ED1879FD18AA0D08DA1D090A2CF93A3CF96A4CF99A5CE9CA6CE9FA7CDA2A8CDA5A9CD
+A8ABCCABACCCAEADCBB1AECBB4AFCBB7B0CABAB1CABDB2CAC0B3C9C3B4C9C6B5C8C9B6C8
+CCB7C8CFB8C7D2B9C7D5BAC6D8BBC6D6BBC4D4BAC1D2BABFD0BABDCEB9BACCB9B8CAB8B6
+C9B8B3C7B8B1C5B7AFC3B7ACC1B7AABFB6A8BDB6A5BBB5A3B9B5A1B7B59EB5B49CB3B49A
+B1B497AFB395ADB393ABB290AAB28EA8B28CA6B189A4B187A2B185A0B0829EB0809CAF7E
+9AAF7C98AF7996AE7794AE7592AE7290AD708EAD6E8CAC6B8BAC6989AC6787AB6485AB62
+83AB6081AA5D7FAA5B7DA9597BA95679A95477A85275A84F73A84D71A74B6FA7486DA646
+6CA6446AA64168A53F66A53D64A53A62A43860A4365EA3335CA3315EA2335FA13661A038
+639F3B659E3D669D40689C426A9B446B9A476D99496F984C71974E729650749553769455
+78935879925A7B915D7D905F7E8F61808E64828D66848C69858B6B878A6E8989708A8872
+8C87758E867790857A91847C93837F958181968083987F869A7E889C7D8B9D7C8D9F7B8F
+A17A92A27994A47897A67799A8769CA9759EAB74A0AD73A3AF72A5B071A8B270AAB46FAD
+B56EAFB76DB1B96CB4BB6BB6BC6AB9BE69BBC068BDC167C0C366C2C565C5C764C7C863CA
+CA62CCC963C9C764C6C665C3C566BFC367BCC269B9C06AB6BF6BB3BE6CB0BC6DACBB6EA9
+BA6FA6B870A3B771A0B5729DB4749AB37596B17693B07790AF788DAD798AAC7A87AA7B83
+A97C80A87D7DA67E7AA58077A48174A28270A1836D9F846A9E85679D86649B87619A885E
+99895A978A57968C54948D51938E4E928F4B9090478F91448E92418C933E8B943B899538
+88973587983185992E849A2B839B28819C25809D227E9E1E7D9F1B7CA0187AA11579A312
+78A40F76A50B75A60873A705</palette>
+</flame>

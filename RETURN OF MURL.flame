@@ -1,0 +1,32 @@
+<flame name="RETURN OF MURL" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="187.61458638526756" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="120.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.9" bipolar="1.0" bipolar_shift="0.0" coefs="1.5625 0.0 0.0 0.390625 0.0 0.0" post="6.123233995736766E-17 3.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="0.0 1.0 1.0 1.0 0.0 1.0"/>
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" splits="1.0" splits_x="0.0" splits_y="0.2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 1.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.5" cylinder="1.0" pre_blur="0.5" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="6.123233995736766E-17 0.18 -4.0 6.123233995736766E-17 0.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" gaussian_blur="5.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" splits="1.0" splits_x="1.0" splits_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 1.0 1.0 0.0 1.0"/>
+  <xform weight="0.2" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.5" cylinder="1.0" pre_blur="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="4.0 0.0 0.0 4.0 0.0 0.0" post="6.123233995736766E-17 0.18 -1.0 6.123233995736766E-17 0.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 1.0"/>
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" murl="1.0" murl_c="0.15" murl_power="2" coefs="0.7061325268359028 0.7080796950515827 -0.7080796950515827 0.7061325268359028 -0.08983111749910166 -1.5026296018031555" chaos="1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+D2180ACA170BC2160BBA150CB2140DAA140DA2130E9A120E92110F8A1010820F107A0E11
+720D126A0C12620B135A0B13530A144B09154308153B07163306172B05172304181B0318
+1302190B021A07011A0902190B03180E04171005161206151407141608131909121B0A12
+1D0B111F0C10220D0F240E0E260F0D280F0C2B100B2D110A2F1209311309331408361507
+3816063A17053C18043F1903411A03451A03481B034B1B044E1C04511D04541D04571E04
+5A1F045D1F056020056320056721056A22056D22057023057324067624067925067C2506
+7F26068227068527078828078C29078F2A07932F0997350B9B3A0D9F3F0EA34410A74A12
+AB4F14AF5415B35A17B75F19BC641BC0691CC46F1EC87420CC7922D07E23D48425D88927
+DC8E29E0942BE4992CE89E2EECA330F0A932F4AE33F3AE33EFAC31EAA92FE5A62EE1A32C
+DCA12AD79E28D39B26CE9825C99623C59321C0901FBB8E1DB78B1CB2881AAD8518A98316
+A48014A07D139B7A1196780F92750D8D720B886F0A846D087F6A067E68067D65067C6306
+7C61067B5E067A5C06795A06785806775506765306765106754E06744C05734A05724705
+7145057043057041056F3E056E3C056D3A056C37056B35056A33056A30056B3005713105
+7633067B34068136068638078C3907913B07973C089C3E08A14008A74109AC4309B24409
+B7460ABD480AC2490AC74B0ACD4C0BD24E0BD8500BDD510CE3530CE8540CED560DF3580D
+F4590FF45B11F45D13F45F15F46017F46219F5641BF5651DF56720F56922F56B24F56C26
+F56E28F5702AF5712CF5732EF57530F57733F57835F67A37F67C39F67D3BF67F3DF6813F
+F68341F68443F68143F67F43F67C43F67A43F67743F67543F67242F67042F66D42F66B42
+F66842F66642F66442F66142F65F42F65C42F65A42F65742F65542F65241F65041F64D41
+F64B41F64841F64641F04340E7413EDD3E3CD43B3ACA3938C03636B73334AD3132A42E30
+9A2C2E91292C87262A7D24287421266A1E24611C225719204E161E44141C3A111A310E18
+270C161E09141406120B0410  </palette>
+</flame>

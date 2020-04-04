@@ -1,0 +1,30 @@
+<flame name="Thatched Spiral" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="170.0" rotate="90.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="10.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" linear3D="1.0" post_crop="1.0" post_crop_left="-0.9" post_crop_right="0.9" post_crop_top="-10000.0" post_crop_bottom="10000.0" post_crop_scatter_area="0.01" post_crop_zero="0" pre_curl="1.0" pre_curl_c1="0.34" pre_curl_c2="0.0" coefs="0.5295469341884881 0.3594162551855068 -0.3594162551855068 0.5295469341884881 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.5" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" pre_blur="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 2.0 1.0 0.0" chaos="1.0 1.0 1.0 10.0 10.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.5" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" pre_blur="0.3" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 2.0 -1.0 0.0" chaos="1.0 1.0 1.0 10.0 10.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.5 2.2 0.0" chaos="5.0 1.0 1.0 10.0 0.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.5 -2.2 0.0" chaos="5.0 1.0 1.0 0.0 10.0" />
+  <palette count="256" format="RGB" >
+763E2677402878422979432B7B452D7C472E7D49307E4B317F4D33804E35825036835238
+84543A85563B86573D87593E895B408A5D428B5F438C60458D62478E64488F664A91684B
+926A4D936B4F946D50956F529671549873559974579A76589B785A9C7A5C9D7C5D9E7D5F
+A07F61A18162A28364A38565A48767A58869A78A6AA88C6CA98E6EAA906FAB9171AC9372
+AE9574AF9776B09977B19A79B29C7BB39E7CB4A07EB6A27FB7A481B8A583B9A784BAA986
+BBAB88BDAD89BEAE8BBFB08CC0B28EBEB08CBDAF8ABBAD88B9AC86B7AA84B6A882B4A780
+B2A57EB1A47CAFA27AADA077AC9F75AA9D73A89B71A69A6FA5986DA3976BA19569A09367
+9E92659C90639B8F61998D5F978B5D958A5B9488599287579085558F83538D82518B804F
+8A7F4D887D4A867B48847A468378448176427F75407E733E7C723C7A703A786E38776D36
+756B34736A3272683070662E6E652C6D632A6B6228696026675E24665D22645B1F62591D
+61581B5F56195D55175C53155A5113585011564E0F554D0D534B0B544D0E544F12555215
+56541956561C575820575B23585D27595F2A59612E5A64315B66355B68385C6A3C5C6D3F
+5D6F435E71465E734A5F754D607851607A54617C58617E5B62815F638362638566648769
+658A6D658C70668E7466907767937B68957E6897816999856A9B886A9E8C6BA08F6BA293
+6CA4966DA79A6DA99D6EABA16FADA46FB0A870B2AB70B4AF71B6B272B8B672BBB973BDBD
+74BFC074C1C475C4C775C6CB76C8CE77CAD277CDD578CFD979D1DC79D3E07AD6E37AD8E7
+7BDAEA79D9E978D7E876D6E675D4E573D3E472D1E370D0E16FCFE06DCDDF6CCCDE6ACADC
+69C9DB67C8DA66C6D964C5D763C3D661C2D560C0D45EBFD35DBED15BBCD05ABBCF58B9CE
+57B8CC55B6CB54B5CA52B4C951B2C74FB1C64EAFC54CAEC44BADC349ABC147AAC046A8BF
+44A7BE43A5BC41A4BB40A3BA3EA1B93DA0B73B9EB63A9DB5389BB4379AB23599B13497B0
+3296AF3194AE2F93AC2E91AB2C90AA2B8FA9298DA7288CA6268AA52589A42388A22286A1
+2085A01F839F1D829D1C809C</palette>
+</flame>

@@ -1,0 +1,30 @@
+<flame name="To Be Tame" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="671 503" center="0.0 0.0" scale="268.4526690391459" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="10.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="2.220446049250313E-16 1.0 -1.0 2.220446049250313E-16 0.0 0.0" chaos="0.0 1.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" julian="1.0" julian_power="-2" julian_dist="1.0" coefs="0.5 0.0 0.0 0.5 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.98" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-0.2" linear3D="0.3" radial_blur="0.1" radial_blur_angle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.01" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" scry="0.1" coefs="2.0 0.0 0.0 2.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.005" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bubble="0.1" pre_blur="0.5" coefs="2.0 0.0 0.0 2.0 0.0 -3.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+ECCEB0E7CEAEE5CEADE3CEACE0CDABDECDAADDCDA9DCCDA9D7CDA7D4CDA6D2CDA5CFCCA4
+CDCCA3CBCCA2C9CCA1C7CCA0C6CCA0C1CB9EC3CAA0C5C9A3C7C8A5C9C8A8CAC7A9CBC7AA
+CFC6AFD1C5B1D3C4B4D5C3B6D7C3B8D8C2B9D9C2BBDBC1BDDDC0C0E1BFC4E3BEC7E6BDCA
+E2BFCDDFC1D0DDC2D1DCC3D3D4C7D8D1C9DBCECBDECACDE1C6CFE4C4D0E5C3D1E7C0D3EA
+BCD5EDB5D9F3B1DBF5AEDDF8AADFFBA6E2FFA8E1FDAAE1FBB1DFF2B5DEEDB9DDE9BDDBE5
+C1DAE1C3D9DEC5D9DCC8D8D8CCD7D4D4D5CBD8D4C7DCD3C3DDD2C0DFD2BEE3D0BAE7CFB6
+ECCEB0ECCDB1ECCCB3EBCBB4EBCAB6EBC9B6EBC9B7EAC8B9EAC7BAE9C5BDE9C4BEE9C3C0
+E8C3C0E8C3C1E8C2C2E8C1C4E7BFC7E6BEC8E6BDCAE5BDC9E4BEC8E2BEC5E0BFC3DEC0C0
+DCC1BED8C2B9D6C3B6D4C4B4D3C4B3D2C5B2D0C5B0CEC6ADCAC8A8C8C8A6C6C9A4C5C9A2
+C4CAA1C1CB9EC3CBA0C5CAA3C7C9A5CBC7AACCC7ABCDC7ACCFC6AFD1C5B1D3C4B4D5C4B6
+D9C2BBDBC1BDDDC1C0DEC0C1DFC0C2E1BFC4E3BEC7E6BDCAE2BFCDDCC3D3DAC4D4D8C5D6
+D4C7D8D1C9DBCECBDECACDE1C3D1E7BFD3EABCD5EDBAD6EEB8D7F0B5D9F3B2DBF5AEDDF8
+AADFFBA6E2FFA6E1FCA7E1FAA9DFF4AADEEFACDDEAADDCE4B0D9DAB1D8D7B2D8D5B3D7CF
+B5D5CAB6D4C5B8D3BFB9D2BABBD0B5BECEAABECDA7BFCDA5C1CB9EC3CB9FC6CBA0C8CBA1
+CDCBA3CECBA3CFCCA4D1CCA5D4CCA6D6CCA7D9CCA8DBCCA9DDCDAAE0CDABE2CDACE4CDAD
+E7CDAEE9CDAFECCEB0E8CFB4E1D1BDDFD1BFDDD2C1D9D3C6D5D5CAD1D6CECDD7D3CAD8D7
+C6D9DBC2DAE0BEDBE4BADCE8B6DDECB3DEF1AFE0F5ABE1F9A7E2FEA6E2FFA7E1FAA9DFF4
+AADEEFACDDEAADDCE4AFDADFB0D9DAB2D8D5B3D7CFB5D5CAB6D4C5B8D3BFB9D2BABBD0B5
+BCCFAFBECEAABFCDA5C1CB9EC3CAA0C5CAA3C7C9A5C9C8A8CBC7AACDC6ACCFC6AFD1C5B1
+D3C4B4D5C3B6D7C3B8D9C2BBDBC1BDDDC0C0DFC0C2E1BFC4E3BEC7E6BDCAE6BEC9E6BFC7
+E7C0C6E7C0C4E7C1C3E8C2C1E8C3C0E8C4BFE9C5BDE9C6BCE9C7BAEAC8B9EAC9B8EACAB6
+EBCBB5EBCCB3EBCDB2ECCEB0</palette>
+</flame>

@@ -1,0 +1,31 @@
+<flame name="Copper Strips" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="1260 980" center="0.0 0.0" scale="427.96998274929587" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="10.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="2.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.3" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="1.0" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" lazysusan="1.0" lazysusan_space="0.01" lazysusan_twist="0.96" lazysusan_spin="0.2" lazysusan_x="0.34" lazysusan_y="0.05" coefs="0.41271930936535534 0.3672705555460759 -0.3672705555460759 0.41271930936535534 0.0514385652069545 -0.01714618840231813" chaos="0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.9" splits="1.0" splits_x="0.0" splits_y="0.65" coefs="2.0 0.0 0.0 2.0 0.0 0.0" chaos="1.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" radial_blur="0.2" radial_blur_angle="0.0" post_crop="1.0" post_crop_left="-1000.0" post_crop_right="1000.0" post_crop_top="-0.55" post_crop_bottom="0.55" post_crop_scatter_area="0.0" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.05" color="0.48" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="0.1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="6.123233995736766E-17 0.03 -1.0 6.123233995736766E-17 0.0 -0.6" chaos="1.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.05" color="0.48" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="0.1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="6.123233995736766E-17 0.03 -1.0 6.123233995736766E-17 0.0 0.6" chaos="1.0 0.0 0.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" eMotion="1.0" eMotion_move="0.5" eMotion_rotate="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+DD7F0ADE810FDF8315E0851AE2861FE38825E48A2AE58C2FE68E35E7903AE89140E99345
+EB954AEC9750ED9955EE9B5AEF9C60F09E65F1A06AF3A270F4A475F5A67AF6A780F7A985
+F8AB8AF9AD90F7AB94EFA596E89F98E0989AD8929CD08B9EC985A0C17EA1B978A3B271A5
+AA6BA7A265A99B5EAB9358AD8B51AF834BB17C44B3743EB56C37B76531B95D2BBB5524BD
+4E1EBF4617C13E11C3370AC5370ABF3A0AB83C0BB03F0CA9420CA1440D9A470E92490E8B
+4C0F834F107C51117454116D57126659135E5C13575E144F611548641640661639691731
+6B182A6E182271191B731A13761A0C791C077E230B83290F882F138D3617923C1B97421F
+9C4923A14F27A6562BAB5C2FB06233B56937BA6F3BBF753FC47C43C98247CE894BD38F4F
+D89553DD9C56E2A25AE7A85EECAF62F1B566F6BB6AF6BE6FF3BD75F0BD7BEEBC80EBBC86
+E8BC8BE5BB91E2BB96DFBA9CDCBAA2D9B9A7D6B9ADD4B9B2D1B8B8CEB8BECBB7C3C8B7C9
+C5B6CEC2B6D4BFB6D9BCB5DFBAB5E5B7B4EAB4B4F0B1B3F5AEB3FBB1AEF3B4A9EBB6A3E2
+B99EDABC99D2BF94CAC18EC2C489B9C784B1CA7FA9CD79A1CF7499D26F90D56A88D86480
+DA5F78DD5A70E05567E3505FE54A57E8454FEB4047EE3B3EF13536F3302EF52D29F52E29
+F52F2AF5302AF5312AF5322AF5332BF5342BF5352BF5352BF5362BF5372CF5382CF5392C
+F53A2CF53B2DF53C2DF53D2DF53E2DF53E2EF53F2EF5402EF5412EF5422EF5432FF5442F
+F3452EF1472CEF482BED4929EB4B28E94C26E74E25E54F23E35022E15220DF531FDD551D
+DB561CD8571BD65919D45A18D25C16D05D15CE5E13CC6012CA6110C8630FC6640DC4650C
+C2670ABF6809BC6709B86609B46509B06508AD6408A96308A56208A261089E60089A6007
+965F07935E078F5D078B5C07885C07845B06805A067C59067958067557067157066E5606
+6A55056654056253056556096B5C0F71621677671C7D6D238373298978308F7E3695833C
+9B8943A18F49A79450AD9A56B3A05DB9A563BFAB6AC5B070CBB676D1BC7DD7C183DDC78A
+E3CD90E9D297EFD89DF5DDA4</palette>
+</flame>

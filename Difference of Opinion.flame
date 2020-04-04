@@ -1,0 +1,29 @@
+<flame name="Difference of Opinion" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="1260 980" center="0.0 0.0" scale="286.95783569818053" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="10.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.0025" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.3" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.41" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.998" eCollide="1.0" eCollide_num="2" eCollide_a="0.66" post_crop="1.0" post_crop_left="-2.0" post_crop_right="2.0" post_crop_top="-10000.0" post_crop_bottom="10000.0" post_crop_scatter_area="0.1" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 2.0 1.0 5.0" />
+  <xform weight="0.5" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.222" splits="1.0" splits_x="2.0" splits_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 2.0 0.0 0.0" chaos="0.0 0.0 1.0 0.0" />
+  <xform weight="200.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.98" spherical="1.0" eyefish="-0.015" coefs="0.7106813301301212 0.0 0.0 0.7106813301301212 0.0 0.0" chaos="1.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="0.908" radial_blur="0.2" radial_blur_angle="0.0" coefs="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="0.0 1.0 1.0 0.0" />
+  <palette count="256" format="RGB" >
+CCF968CEF766CFF564D1F362D3F160D4EF5ED6ED5CD8EB5AD9E958DBE756DDE554DEE353
+E0E151E2DF4FE4DD4DE5DB4BE7D949E9D747EAD545ECD343EED141EFCF3FF1CD3DF3CB3B
+F4C939F6C737F4C337EDBC3BE6B43FDFAD43D8A546D19E4ACB964EC48F51BD8755B68059
+AF785DA87160A169649A6268935A6B8C536F854B737E4477773C7A70357E692D82622685
+5B1E8954178D4D0F914608944709914A0C8B4C0F854F128052157A541974571C6F591F69
+5C22645F255E612958642C53672F4D6932476C35426E393C713C37743F3176422B794526
+7B49207E4C1A814F1583520F86550A8858058957058956058A55058A53058B52058C5105
+8C50058D4F058D4E058E4D058F4C058F4B05904A06904806914706914606924506934406
+934306944206944106954006963F06963E06973C0699410A9C48119F5017A2571EA45F24
+A7662BAA6E32AD7538B07D3FB38445B68C4CB99353BC9B59BFA260C2AA66C5B16DC8B974
+CBC07ACDC881D0CF87D3D78ED6DE95D9E69BDCEDA2DFF5A8E2FCAFE3F9ACE4F6A9E5F3A6
+E6F0A4E6EEA1E7EB9EE8E89BE9E598EAE295EBDF92ECDC90EDD98DEED68AEFD487EFD184
+F0CE81F1CB7FF2C87CF3C579F4C276F5BF73F6BC70F7BA6DF8B76BF8B468F8B365F4B664
+F0B963ECBB61E9BE60E5C15FE1C45EDDC65CDAC95BD6CC5AD2CE58CED157CBD456C7D754
+C3D953BFDC52BCDF50B8E24FB4E44EB0E74CADEA4BA9ED4AA5EF48A1F2479EF5469AF744
+9AF2429BEA409CE23D9DDA3B9ED2399FCA36A0C234A1BA31A2B22FA3AA2DA4A22AA59A28
+A69226A78A23A88221A97A1EAA721CAB6A1AAC6217AD5A15AE5212AF4A10B0420EB13A0B
+B23209B32C07B32A07B22907B22807B22607B22507B22407B12207B12107B12007B11E07
+B01D07B01C07B01A07B01907AF1807AF1607AF1507AF1407AF1307AE1107AE1007AE0F07
+AE0D07AD0C07AD0B07AD0B07AE0C07AF0E07B00F07B11107B21307B21407B31607B41707
+B51907B61A07B71C07B71D07B81F07B92007BA2207BB2307BB2507BC2607BD2807BE2907
+BF2B07C02C07C02E07C12F07</palette>
+</flame>

@@ -1,0 +1,35 @@
+<flame name="Seal of Three Seals" version="JWildfire 1.90 (24.08.2014)" size="415 311" center="0.0 0.0" scale="25.000044892026963" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" bubble2="1.0" bubble2_x="1.0" bubble2_y="1.0" bubble2_z="0.0" pre_blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.5" linear3D="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -2.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.5" linear3D="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 2.0 -2.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.5" linear3D="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -2.0 -2.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 1.2246467991473532E-16 -1.2246467991473532E-16 -1.0 0.0 0.0" chaos="1.0 0.0 0.0 0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.96" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.124" pre_blur="1.0" spherical="0.324" coefs="1.0 0.0 0.0 5.0 0.0 0.0" post="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bipolar="1.0" bipolar_shift="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bipolar="20.0" bipolar_shift="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 -14.0" chaos="1.0 0.0 0.0 0.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cpow="1.0" cpow_r="1.0" cpow_i="0.0" cpow_power="1.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" tanh="1.0" coefs="0.22673282882569196 0.0 0.0 0.22673282882569196 -0.3871086669329322 2.377953239730866" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FCDD99FDDF9BFDDD9AFDDA97FBCF8EF5C480EFB871E7AB61E1A257DA954BD3883FCC7C32
+C67227C26D22BE6820B96324B75D25B35625B15424AE5323A85026A350289E4E2A9B502A
+9A5329975429955427935526925726945C25965E26965C25955A259157248F57238C5824
+8A5723875625845426825023804D23804A1F7F481F824823854B238C502897582C9F6132
+A86B3BA97240AB7444AD7545AC7045AC6943A65F3EA053399B4D349848319A472F9E4533
+A44537AD4C3CB75942BF6945B46743A65F3F94533A844633844C346E3E2665391F5D3419
+6C42227C502B885A3294643ABD8754C88D58D3945CD5905BD78D5AD17E54CC704FC9694A
+C66246B24D2FAB4626A43F1DA33F1BA23F1AA040199E42189449199144198F401A8B3617
+872D14852A1384281382281386291797351BA2431CAE521EBB6327C97430CF7D37D6873E
+E6A951EAB05AEFB763EEB96AEDBB71EABA73E7BA75E5B875E2B271E6A860E2A157DF9B4F
+DA9244D58A39D38533D1802DBC7125B0671FA55E19975215894612814211793E116A3510
+5D2E0B52220952210952210A5422095624085E290A6B310B8B460E974D13A45519AB571E
+B25924B35823B55823B15421AC4A1F9B301F90261A861C168219147E1612761211711311
+6E1A1472211877281D7A2D207E3224883D2B91452E95472F99462D9A3C28953826913424
+8D32228A3021802C1E7C291A7D2C1D8336228941288D482A924F2D9A5831A15F34A76332
+AE622FB05729AE5327AC4F26A2461F9B3F189336158D2A1282160D80140B7E130A7E120A
+7F120B800E0A870B08940D059E1005AA190BAA1A0DAA1C0FAC220FAD2511AB2814A42A18
+8B271A7D24176F2115691E14641C13601A115E150F5F110C6311087210047810047E1104
+8716048C1F03902203902303971F049220058E2107842008741D0A6C19086A140967140C
+6A1A1077321F7C39238141288D5130996034A66D3AB37841BF854CC0854BC1854BC28644
+C5833EC07E3BBE793ABE773CC47C41D08546D9904FDF9858E3A160E8AC6CEFBA78F6C884
+FBD996FBDA97FCDC98FBDD9A</palette>
+</flame>

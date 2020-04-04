@@ -1,0 +1,29 @@
+<flame name="Through the Thicket" version="JWildfire 2.00 R2 (12.10.2014)" size="375 281" center="-1.5 0.0" scale="100.0" rotate="90.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="1.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" glynnia="1.0" post_crop="1.0" post_crop_left="-10000.0" post_crop_right="0.0" post_crop_top="-1000.0" post_crop_bottom="1000.0" post_crop_scatter_area="0.0" post_crop_zero="0" coefs="-0.5 6.123233995736766E-17 -6.123233995736766E-17 -0.5 -0.9 0.0" chaos="0.0 10.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -1.5 0.0" chaos="1.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.95" bubble="1.0" pre_blur="1.0" post_crop="1.0" post_crop_left="0.0" post_crop_right="1000.0" post_crop_top="-1.0" post_crop_bottom="1000.0" post_crop_scatter_area="0.0" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="4.25 0.0 0.0 2.0 0.5 0.0" chaos="0.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" elliptic="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 0.0" />
+  <palette count="256" format="RGB" >
+0F53EA0F55E80F56E70F58E50F59E30F5BE20F5CE00F5EDE0F60DD0F61DB0F63D90F64D8
+0F66D60F68D40F69D30F6BD10F6CCF0F6ECE0F6FCC0F71CA0F73C80F74C70F76C50F77C3
+0F79C20F7BC00F7CBE0F7EBD0F7FBB0F81B90F82B80F84B60F86B40F87B30F89B10F8AAF
+0F8CAE0F8EAC0F8FAA0F91A90F92A70F94A50F95A41097A21099A0109A9F109C9D109D9B
+109F9A10A19810A29610A49510A59310A79110A89010AA8E10AC8C10AD8A10AF8910B087
+10B28510B48410B58210B78010B87F10BA7D10BB7B10BD7A10BF7810C07610C27510C373
+10C57110C67010C86E10CA6C10CB6B10CD6910CE6710D06610D26410D36210D56110D65F
+10D85D10D95C11D95C13D85E15D65F16D56118D4621AD2641CD1651ECF671FCE6821CD6A
+23CB6B25CA6D26C96E28C7702AC6712CC5732DC3742FC27631C07733BF7935BE7A36BC7C
+38BB7E3ABA7F3CB8813DB7823FB58441B48543B38744B18846B08A48AF8B4AAD8D4CAC8E
+4DAA904FA99151A89353A69454A59656A49758A2995AA19A5CA09C5D9E9E5F9D9F619BA1
+639AA26499A46697A56896A76A95A86B93AA6D92AB6F90AD718FAE738EB0748CB1768BB3
+788AB47A88B67B87B77D85B97F84BA8183BC8281BE8480BF867FC1887DC28A7CC48B7AC5
+8D79C78F78C89176CA9275CB9474CD9672CE9871D09970D19B6ED39D6DD49F6BD6A16AD7
+A269D9A467DAA666DCA766DCA567DAA469D7A36AD5A26CD2A16DD0A06FCD9F70CB9D72C8
+9C73C59B75C39A76C09978BE9879BB977BB9957CB6947EB4937FB19281AF9182AC9084AA
+8F86A78D87A58C89A28B8AA08A8C9D898D9B888F9886909685929384939183958E82968C
+8198898099867E9B847D9C817C9E7F7B9F7C7AA17A79A27778A47576A57275A77074A96D
+73AA6B72AC6871AD666FAF636EB0616DB25E6CB35C6BB5596AB65769B85467B95266BB4F
+65BC4D64BE4A63BF4862C14561C2425FC4405EC53D5DC73B5CC9385BCA365ACC3359CD31
+57CF2E56D02C55D22954D32753D52452D62250D81F4FD91D4EDB1A4DDC184CDE154BDF13
+4AE11048E20E47E40B46E509</palette>
+</flame>

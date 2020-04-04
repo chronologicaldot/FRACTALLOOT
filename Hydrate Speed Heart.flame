@@ -1,0 +1,38 @@
+<flame name="Hydrate Speed" version="JWildfire 1.40 (15.03.2014)" size="412 309" center="0.0 0.0" scale="25.751758715755972" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" estimator_enabled="0" estimator_radius="0.7" estimator_minimum="0.0" estimator_curve="0.36" estimator_kernel="GAUSSIAN" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" quality_profile="High quality" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" >
+  <xform weight="1.0" color="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 1.15 0.0" chaos="10.0 1.0 1.0 1.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="1.0" color="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -0.5 0.0" chaos="0.0 10.0 1.0 1.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="1.0" color="0.0" symmetry="0.0" parabola="0.86" parabola_width="1.0" parabola_height="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="10.0 10.0 0.0 0.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="2.0" color="0.83" symmetry="0.0" cylinder="1.5" pre_spin_z="1.45" post_spin_z="-1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 10.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" linear3D="0.4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -1.0 4.0" chaos="0.0 0.0 1.0 0.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" linear3D="0.4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -1.0 4.0" chaos="0.0 0.0 1.0 0.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.53" symmetry="0.0" linear3D="0.4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -3.2747236104800863 -4.267710351327295" chaos="0.0 0.0 1.0 0.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.53" symmetry="0.0" linear3D="0.4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 4.5 -3.5" chaos="0.0 0.0 1.0 0.0 0.0 1.0 1.0 1.0 1.0 1.0 0.0 0.0" />
+  <xform weight="0.5" color="0.53" symmetry="0.0" linear3D="0.4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 2.7755575615628914E-16 -2.7755575615628914E-16 -1.0 5.733656418799528 1.8183412744122736" chaos="0.0 0.0 1.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0" />
+  <xform weight="0.5" color="0.53" symmetry="0.0" mobius="0.4" mobius_re_a="0.1" mobius_re_b="0.2" mobius_re_c="-0.15" mobius_re_d="0.21" mobius_im_a="0.2" mobius_im_b="-0.12" mobius_im_c="-0.15" mobius_im_d="0.1" radial_blur="0.22" radial_blur_angle="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 2.7755575615628914E-16 -2.7755575615628914E-16 -1.0 0.16611136352162548 -3.188465364678778" chaos="0.0 0.0 1.0 0.0 0.0 1.0 0.0 1.0 0.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.53" symmetry="0.0" linear3D="0.4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 2.7755575615628914E-16 -2.7755575615628914E-16 -1.0 -6.9032762885557135 3.7765589821456618" chaos="0.0 0.0 1.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.73" symmetry="0.0" linear3D="0.4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 2.7755575615628914E-16 -2.7755575615628914E-16 -1.0 -7.171462466555609 -3.511126236975758" chaos="0.0 0.0 1.0 0.0 0.0 1.0 0.0 0.0 0.0 1.0 0.0 0.0" />
+  <finalxform weight="0.0" color="0.0" symmetry="0.0" xheart="4.0" xheart_angle="0.0" xheart_ratio="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+5A9273588E72568A715486715282704F7E6F4D7A6E4B756E49716D476D6C45696B43656A
+41616A3F5D693C59683A5567385167364D663449653245643040642E3C632C3862293461
+273060252C6023285F21245E1F205D1F215E22265F242B602730612935622C3A632E3F64
+314465334966364E673853693B586A3D5D6B40626C42676D456C6E47716F4A76704C7B71
+4F8072518573548A74568F765994775B99785E9E7960A37A63A87B65AC7C69A9776CA673
+6FA36F73A16B769E67799B637D995F80965B8393578690538A8E4F8D8B4B908847948542
+97833E9A803A9E7D36A17A32A4782EA7752AAB7226AE6F22B16D1EB56A1AB86716BB6412
+BF620DC25F09BF5E0DB85E14B25E1BAC5E22A55E289F5E2F995E36925F3D8C5F44855F4B
+7F5F52795F59725F606C5F67665F6E5F5F75595F7C535F834C5F8A465F913F5F9839609F
+3360A62C60AD2660B42060BB1960C21360C90F61CD1466C7196BC11E71BB2376B5287BAF
+2D80A93285A3378A9D3C9098419592469A8C4B9F8650A48056AA7A5BAF7460B46E65B968
+6ABE626FC35C74C95779CE517ED34B83D84588DD3F8DE23992E83397ED2D9CF2279FEF2B
+A2E932A5E338A9DD3FACD846AFD24CB2CC53B5C659B8C160BBBB67BEB56DC1B074C4AA7A
+C7A481CA9E88CD998ED09395D38D9CD687A2D982A9DD7CAFE076B6E370BDE66BC3E965CA
+EC5FD0EF5AD7F254DEF152E0E958D8E15ED1D864CAD06AC3C870BCC076B4B77CADAF82A6
+A7889F9F8E989695908E9B8986A1827EA77B75AD736DB36C65B9655DBF5E54C5574CCB4F
+44D1483BD74133DD3A2BE33323E92B1AEF2412F51D0AFB1610FB1A17F9211EF82726F62D
+2DF43335F3393CF13F44F0454BEE4B52ED515AEB5861EA5E69E86470E76A77E5707FE376
+86E27C8EE08295DF899DDD8FA4DC95ABDA9BB3D9A1BAD7A7C2D6ADC9D4B3D0D2B9D8D1C0
+D9CFC3D4CBC3CEC8C2C8C5C2C3C2C2BDBFC1B7BBC1B2B8C1ACB5C0A6B2C0A1AFC09BABBF
+95A8BF8FA5BF8AA2BE849FBE7E9BBE7998BD7395BD6D92BD688FBD628BBC5C88BC5685BC
+5182BB4B7FBB457BBB4078BA</palette>
+</flame>

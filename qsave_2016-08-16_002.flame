@@ -1,0 +1,35 @@
+<flame name="Golden Clover" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="188.23529411764704" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="200.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" hemisphere="0.9" pre_blur="1.0" coefs="0.5 0.0 0.0 0.5 0.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0 0.0 1.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" nBlur="1.0" nBlur_numEdges="300" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.9" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0 0.0 1.0"/>
+  <xform weight="1.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 2.0 0.0 0.0" chaos="1.0 1.0 0.0 1.0 0.0 0.0 1.0"/>
+  <xform weight="3.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" wedge="1.0" wedge_angle="0.0" wedge_hole="1.0" wedge_count="1" wedge_swirl="0.0" coefs="0.25 0.0 0.0 0.25 0.0 0.0" chaos="1.0 1.0 10.0 0.0 10.0 0.0 1.0"/>
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" glynnia="1.0" pre_curl="1.0" pre_curl_c1="1.0" pre_curl_c2="0.0" coefs="0.5 0.0 0.0 0.5 -0.5 0.0" post="2.0 0.0 0.0 2.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 0.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" splits="1.0" splits_x="1.1" splits_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 1.0 0.0 0.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="0.3" coefs="-1.0 1.2246467991473532E-16 -1.2246467991473532E-16 -2.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0 0.0 1.0"/>
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" squish="1.0" squish_power="2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cross="3.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julian="2.0" julian_power="-1" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+803E05853E06893E068E3F07923F08973F089B3F09A03F0AA5400AA9400BAE400CB2400C
+B7400DBB410EC0410EC5410FC94110CE4110D24211D74212DB4212E04213E54214E94214
+EE4315F24316F34617EF4D19EB541AE75B1CE3621EDF6920DB7022D67723D27E25CE8527
+CA8C29C6932AC29A2CBEA12EB9A830B5AF32B1B633ADBD35A9C437A5CB39A1D23B9CD93C
+98E13E94E84090EF428CF64489F14287EA4085E23D83DB3B81D4387FCC367DC5337BBD31
+79B62E77AF2C75A72973A0277199246E91226C8A1F6A821D687B1A667418646C15626513
+605D105E560E5C4F0B5A4709584006563B04573F04574304574704584B04584F05595305
+5957055A5B055A5F055A63055B67055B6B055C6F065C73065D77065D7B065D7F065E8306
+5E87065F8A065F8E06609207609607609A07619E07619D076098075F93075E8E065E8A06
+5D85065C80065C7B065B76065A71065A6C05596705586205575E05575905565405554F04
+554A04544504534004533B04523704513203502D035028034F23034C2203492003461F03
+431E03401C033C1B033919033618033317033015032D14032A1303271102241002210E02
+1E0D021B0C02170A021409021108020E06020B050208040205020202010201000402000A
+04010F06011407011A09011F0B02250C022A0E022F10023511023A13033F15034517034A
+1803501A04551C045A1D04601F046521056B22057024057526057B2705802906862B068B
+2D0988300C83320F7D3512783715733A196D3D1C683F1F6342225E442558472953492C4E
+4C2F494F324351353E543939563C33593F2E5B42295E452461491E634C19664F1468520E
+6B55096C580668550D64531460501B5C4E22584B295549305146374D443D494144453F4B
+413C523D3A5939376035356731326E2D3074292D7B252B822128891D269019239715219E
+111EA50E1CAB0A19B20C1DB41226B1182FAF1E38AD2340AA2949A82F52A6355BA33B64A1
+416C9F47759D4D7E9A5387985990965F989365A1916BAA8F71B38C77BB8A7DC48883CD86
+89D6838FDF8195E77F9BF07C  </palette>
+</flame>

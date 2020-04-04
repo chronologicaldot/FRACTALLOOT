@@ -1,0 +1,32 @@
+<flame name="Metallic Super Freeze - When Stars Fall" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="43.916666666666664" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="10.0" saturation="1.0" gamma="2.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="0.9" epispiral="0.1" epispiral_n="6.0" epispiral_thickness="0.0" epispiral_holes="1.0" pre_blur="0.1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0" />
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" scry2="1.0" scry2_sides="8" scry2_star="0.0" scry2_circle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 0.0" />
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="-1.0 1.2246467991473532E-16 -1.2246467991473532E-16 -1.0 2.0 0.0" chaos="1.0 0.0 0.0 100.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-4.9789962505147994E-17 1.0 -1.0 -4.9789962505147994E-17 0.0 0.0" chaos="1.0 0.0 5.0 10.0 0.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" scry2="0.4" scry2_sides="4" scry2_star="0.0" scry2_circle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.7071067811865476 0.7071067811865475 -0.7071067811865475 0.7071067811865476 1.0 -1.0" chaos="1.0 0.0 0.0 1.0 0.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" waves2="1.0" waves2_scalex="0.25" waves2_scaley="0.5" waves2_freqx="5.0" waves2_freqy="0.7853981633974483" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" eMotion="1.0" eMotion_move="0.84" eMotion_rotate="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+0096FF0298FF0499FF069BFF089DFF099EFF0BA0FF0DA1FF0FA3FF11A5FF13A6FF15A8FF
+17AAFF18ABFF1AADFF1CAFFF1EB0FF20B2FF22B4FF24B5FF26B7FF27B8FF29BAFF2BBCFF
+2DBDFF2FBFFF31C1FF33C2FF35C4FF36C6FF38C7FF3AC9FF3CCBFF3ECCFF40CEFF42CFFF
+44D1FF45D3FF47D4FF49D6FF4BD8FF4DD9FF4FDBFF51DDFF53DEFF54E0FF56E1FF58E3FF
+5AE5FF5CE6FF5EE8FF60EAFF62EBFF63EDFF65EFFF67F0FF69F2FF6BF4FF6DF5FF6FF7FF
+71F8FF72FAFF74FCFF76FDFF78FFFF7AFFFF7CFFFF7EFFFF80FFFF83FFFF85FFFF87FFFF
+89FFFF8BFFFF8DFFFF8FFFFF91FFFF93FFFF96FFFF98FFFF9AFFFF9CFFFF9EFFFFA0FFFF
+A2FFFFA4FFFFA6FFFFA9FFFFABFFFFADFFFFAFFFFFB1FFFFB3FFFFB5FFFFB7FFFFB9FFFF
+BCFFFFBEFFFFC0FFFFC2FFFFC4FFFFC6FFFFC8FFFFCAFFFFCCFFFFCEFFFFD1FFFFD3FFFF
+D5FFFFD7FFFFD9FFFFDBFFFFDDFFFFDFFFFFE1FFFFE4FFFFE6FFFFE8FFFFEAFFFFECFFFF
+EEFFFFF0FFFFF2FFFFF4FFFFF7FFFFF9FFFFFBFFFFFDFFFFFFFFFFFBFDFFF7FCFFF3FAFF
+EFF8FFEBF7FFE7F5FFE3F4FFDFF2FFDBF0FFD7EFFFD3EDFFCFEBFFCBEAFFC7E8FFC3E6FF
+BFE5FFBBE3FFB7E1FFB3E0FFAFDEFFABDDFFA7DBFFA3D9FF9FD8FF9BD6FF97D4FF93D3FF
+8FD1FF8BCFFF87CEFF83CCFF80CBFF7CC9FF78C7FF74C6FF70C4FF6CC2FF68C1FF64BFFF
+60BDFF5CBCFF58BAFF54B8FF50B7FF4CB5FF48B4FF44B2FF40B0FF3CAFFF38ADFF34ABFF
+30AAFF2CA8FF28A6FF24A5FF20A3FF1CA1FF18A0FF149EFF109DFF0C9BFF0899FF0498FF
+0096FF0498FF0899FF0C9BFF109DFF149EFF18A0FF1CA1FF20A3FF24A5FF28A6FF2CA8FF
+30AAFF34ABFF38ADFF3CAFFF40B0FF44B2FF48B4FF4CB5FF50B7FF54B8FF58BAFF5CBCFF
+60BDFF64BFFF68C1FF6CC2FF70C4FF74C6FF78C7FF7CC9FF80CBFF83CCFF87CEFF8BCFFF
+8FD1FF93D3FF97D4FF9BD6FF9FD8FFA3D9FFA7DBFFABDDFFAFDEFFB3E0FFB7E1FFBBE3FF
+BFE5FFC3E6FFC7E8FFCBEAFFCFEBFFD3EDFFD7EFFFDBF0FFDFF2FFE3F4FFE7F5FFEBF7FF
+EFF8FFF3FAFFF7FCFFFBFDFF</palette>
+</flame>

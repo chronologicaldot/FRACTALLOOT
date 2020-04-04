@@ -1,0 +1,30 @@
+<flame name="Perfect Knot" version="JWildfire 1.70 (06.07.2014)" size="440 330" center="0.0 0.0" scale="150.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" nBlur="0.5" nBlur_numEdges="300" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.9" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bipolar="1.0" bipolar_shift="0.0" coefs="2.220446049250313E-16 1.0 -1.0 2.220446049250313E-16 0.0 0.0" post="2.220446049250313E-16 -1.0 1.0 2.220446049250313E-16 0.0 0.0" chaos="1.0 0.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" ortho="1.0" ortho_in="1.0" ortho_out="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.7071067811865476 0.7071067811865475 -0.7071067811865475 0.7071067811865476 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.3" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" nBlur="0.5" nBlur_numEdges="300" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.99" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.3" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" nBlur="0.45" nBlur_numEdges="300" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.99" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FBEFB8F4EAB1EDE5AAE6E0A3DFDA9CD8D595D1D08ECACB87C3C680BCC179B5BB72AFB66B
+A8B164A1AC5D9AA75693A24F8C9D488597417E923A778D3370882C698325627E1E5B7817
+5473104D6E094C6C0853700F5A731661771E687A256F7E2C7681347D843B8488428B8B49
+928F51999258A0965FA79966AE9D6EB5A075BCA37CC3A783CAAA8BD1AE92D8B199DFB5A0
+E6B8A8EDBBAFF4BFB6FBC2BEFCC3BFFCC4BFFCC4BEFCC4BEFCC5BEFCC5BEFCC5BEFCC6BD
+FCC6BDFCC6BDFCC7BDFCC7BDFCC8BDFCC8BCFCC8BCFCC9BCFCC9BCFCC9BCFCCABBFCCABB
+FCCABBFCCBBBFCCBBBFCCBBAFCCCBAFBCBB9F6C6B2F1C1ABEBBCA4E6B79CE1B395DCAE8E
+D7A987D1A480CC9F79C79A72C2956BBD9064B78C5DB28756AD824FA87D48A378419D733A
+986E3393692C8E642589601E835B177E5610795109794D067C4B067F4806824607844307
+8740078A3E078D3B079038079336089633089931089C2E089F2B08A22908A52608A82409
+AB2109AD1E09B01C09B31909B61609B9140ABC110ABF0F0AC20C0AC4140FC61C14C82319
+CB2B1ECD3323CF3B28D1422DD34A32D55237D75A3CDA6241DC6946DE714CE07951E28156
+E4885BE79060E99865EBA06AEDA76FEFAF74F1B779F3BF7EF6C783F8CE88F9D18AF9CB87
+F9C583F8C080F8BA7DF8B47AF8AF77F8A974F8A370F89E6DF7986AF79267F78D64F78761
+F7815DF77C5AF67657F67054F66B51F6654EF65F4AF65A47F65444F54E41F5493EF5433B
+F5473BF54D3CF5533EF5583FF55E40F56442F66A43F67044F67646F67C47F68248F6884A
+F68E4BF6934CF6994EF69F4FF6A550F6AB52F6B153F7B754F7BD56F7C357F7C858F7CE5A
+F7D45BF7D85BF5D358F4CE55F3C952F1C44FF0BF4BEEBA48EDB445EBAF42EAAA3FE9A53B
+E7A038E69B35E49632E3912FE28C2BE08728DF8225DD7D22DC781FDB721BD96D18D86815
+D66312D55E0ED4590BD0570ACC580AC75909C35A09BE5A09B95B09B55C09B05C09AC5D08
+A75E08A35E089E5F089960089561079061078C62078763078363077E6406796506756506
+7066066C6706676805636805</palette>
+</flame>

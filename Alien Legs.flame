@@ -1,0 +1,30 @@
+<flame name="Alien Legs" version="JWildfire 2.00 R2 (12.10.2014)" size="375 281" center="0.0 0.0" scale="23.427130230554283" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="1.0" coefs="0.5 0.0 0.0 0.5 0.0 0.0" post="1.0 0.0 0.0 2.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" splits="1.0" splits_x="1.1" splits_y="0.0" pre_disc3d="1.0" pre_disc3d_pi="3.141592653589793" coefs="0.7071067811865476 0.7071067811865475 -0.7071067811865475 0.7071067811865476 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="2.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" cylinder="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 2.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.3" color="0.74" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" blur3D="0.01" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.548678028874181 1.045917492541408" chaos="1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" hypertile="1.0" hypertile_p="3" hypertile_q="7" hypertile_n="1" coefs="0.6778584426226029 -0.7351924453945777 0.7351924453945777 0.6778584426226029 1.0116251157367717 0.6344089708857719" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+65B30865B30865B30865B30865B30865B30865B30865B30865B30865B30865B30865B308
+65B30865B30865B30865B30865B30865B30865B30865B30865B30865B30865B30865B308
+65B30865B30865B30865B30865B30865B30865B30865B30865B30865B30865B30865B308
+65B30865B30865B30865B30865B30865B30865B30865B30865B30865B30865B30865B308
+65B30865B30865B30865B30865B30865B30865B30865B30865B30865B30865B30865B308
+65B30865B30865B30865B308C8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97C
+C8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97C
+C8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97C
+C8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97C
+C8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97C
+C8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CC8F97CFCC4B3FCC4B3FCC4B3FCC4B3
+FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3
+FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3
+FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3
+FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3
+FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3FCC4B3
+F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618
+F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618
+F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618
+F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618
+F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618F5C618
+F5C618F5C618F5C618F5C618</palette>
+</flame>

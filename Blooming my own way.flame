@@ -1,0 +1,33 @@
+<flame name="Blooming My Own Way" version="JWildfire 1.50 (30.03.2014)" size="457 343" center="0.0 0.0" scale="76.55456606119967" rotate="26.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" estimator_enabled="0" estimator_radius="0.7" estimator_minimum="0.0" estimator_curve="0.36" estimator_kernel="GAUSSIAN" temporal_samples="1.0" cam_zoom="0.676" cam_pitch="1.0471975511965976" cam_yaw="0.2617993877991494" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="-0.0794" cam_pos_y="0.15" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" resolution_profile="1024x768" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" splits="1.0" splits_x="0.1" splits_y="0.1" cross="0.001" zcone="0.3" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0 0.0 0.0" />
+  <xform weight="1.0" color="1.0" symmetry="0.0" linear3D="2.0" zcone="0.42" ztranslate="0.23" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.7670968186813396 0.6415313482355856 -0.6415313482355856 0.7670968186813396 0.0 0.0" chaos="1.0 0.0 0.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" hexnix3D="0.2" hexnix3D_majp="1.0" hexnix3D_scale="0.25" hexnix3D_zlift="0.0" hexnix3D_3side="0.67" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 1.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" linear3D="0.01" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.7" symmetry="0.0" bubbleT3D="5.0" bubbleT3D_number_of_stripes="0" bubbleT3D_ratio_of_stripes="1.0" bubbleT3D_angle_of_hole="0.0" bubbleT3D_exponent_z="1.0" bubbleT3D_symmetry_z="0" bubbleT3D_modus_blur="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.7104457279247037 1.2939850323060478" chaos="1.0 0.0 1.0 1.0 1.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" pRose3D="100.0" pRose3D_l="1.0" pRose3D_k="3.0" pRose3D_c="0.0" pRose3D_z1="1.0" pRose3D_z2="1.0" pRose3D_refSc="1.0" pRose3D_opt="1.0" pRose3D_optSc="1.0" pRose3D_opt3="0.0" pRose3D_transp="0.5" pRose3D_dist="1.0" pRose3D_wagsc="0.0" pRose3D_srvsc="0.0" pRose3D_f="3.0" pRose3D_wigsc="0.0" pRose3D_offset="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 0.0 0.0 0.0 0.0" />
+  <finalxform weight="0.0" color="0.0" symmetry="0.0" julia3D="2.0" julia3D_power="-2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+8AA71E8BA7208CA8218DA8238EA9258EA9268FA92890AA2A91AA2B92AA2D93AB2E94AB30
+95AC3296AC3397AC3597AD3798AD3899AD3A9AAE3C9BAE3D9CAF3F9DAF419EAF429FB044
+A0B046A0B047A1B149A2B14BA3B24CA4B24EA5B24FA6B351A7B353A8B354A9B456A9B458
+AAB559ABB55BACB55DADB65EAEB660AFB662B0B763B1B765B2B867B2B868B3B86AB4B96B
+B5B96DB6B96FB7BA70B8BA72B9BB74BABB75BBBB77BBBC79BCBC7ABDBC7CBEBD7EBFBD7F
+C0BE81C1BE83C2BE84C3BF86C4BF88C4BF89C5C08BC6C08CC7C18EC8C190C9C191CAC293
+CBC295CCC296CCC398CDC39ACEC49BCFC49DD0C49FD1C5A0D2C5A2D3C5A4D4C6A5D5C6A7
+D5C7A8D6C7AAD7C7ACD8C8ADD9C8AFDAC8B1DBC9B2DCC9B4DDCAB6DECAB7DECAB9DFCBBB
+E0CBBCE1CBBEE2CCC0E3CCC1E4CDC3E5CDC4E6CDC6E7CEC8E7CEC9E8CECBE9CFCDEACFCE
+EBD0D0ECD0D2EDD0D3EED1D5EFD1D7F0D1D8F0D2DAF1D2DCF2D3DDF3D3DFF4D3E1F5D4E2
+F6D4E4F7D4E5F8D5E7F9D5E9F9D6EAFAD6ECFBD6EEFCD7EFFDD7F1FCD6F0FBD4F0FAD3EF
+FAD2EEF9D0EEF8CFEDF7CEEDF6CCECF5CBEBF4C9EBF3C8EAF3C7E9F2C5E9F1C4E8F0C3E7
+EFC1E7EEC0E6EDBFE5EDBDE5ECBCE4EBBBE4EAB9E3E9B8E2E8B7E2E7B5E1E6B4E0E6B3E0
+E5B1DFE4B0DEE3AEDEE2ADDDE1ACDDE0AADCE0A9DBDFA8DBDEA6DADDA5D9DCA4D9DBA2D8
+DAA1D7D9A0D7D99ED6D89DD5D79CD5D69AD4D599D4D497D3D396D2D395D2D293D1D192D0
+D091D0CF8FCFCE8ECECD8DCECC8BCDCC8ACCCB89CCCA87CBC986CBC885CAC783C9C682C9
+C681C8C57FC7C47EC7C37CC6C27BC5C17AC5C078C4BF77C4BF76C3BE74C2BD73C2BC72C1
+BB70C0BA6FC0B96EBFB86CBEB86BBEB76ABDB668BCB567BCB465BBB364BBB263BAB261B9
+B160B9B05FB8AF5DB7AE5CB7AD5BB6AC59B5AB58B5AB57B4AA55B4A954B3A853B2A751B2
+A650B1A54EB0A54DB0A44CAFA34AAEA249AEA148ADA046AC9F45AC9E44AB9E42AB9D41AA
+9C40A99B3EA99A3DA8993CA7983AA79839A69738A59636A59535A49433A39332A39231A2
+912FA2912EA1902DA08F2BA0</palette>
+</flame>

@@ -1,0 +1,31 @@
+<flame name="Furry Forest" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="150.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="10.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="1.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.98" hemisphere="1.0" coefs="0.5845487298543453 -0.34095120659007033 0.34095120659007033 0.5845487298543453 -0.8116883116883117 0.155778564869474" post="1.0 0.0 0.0 1.0 1.0 0.0" chaos="0.0 0.0 1.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.73" hemisphere="1.0" coefs="0.8229567276109674 0.0 0.0 0.8229567276109674 0.1229830775285321 0.2131706677161222" post="1.0 0.0 0.0 1.0 -1.0 0.0" chaos="0.0 0.0 0.0 1.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" curl="1.0" curl_c1="-0.5" curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.1 0.0" chaos="0.0 0.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" curl="1.0" curl_c1="0.5" curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -0.1 0.0" chaos="0.0 0.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" mobius="1.0" mobius_re_a="0.22" mobius_re_b="0.22" mobius_re_c="0.03" mobius_re_d="0.41" mobius_im_a="0.2" mobius_im_b="-0.12" mobius_im_c="-0.15" mobius_im_d="0.1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.03" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.12" cos="1.0" pre_blur="0.2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 1.0 0.0" />
+  <palette count="256" format="RGB" >
+72F0BB74F0BA75EFBA77EFBA79EFBA7BEFB97DEEB97EEEB980EEB982EDB884EDB886EDB8
+88EDB889ECB78BECB78DECB78FEBB691EBB692EBB694EAB696EAB598EAB59AEAB59BE9B5
+9DE9B49FE9B4A1E8B4A3E8B4A4E8B3A6E8B3A8E7B3AAE7B3ACE7B2ADE6B2AFE6B2B1E6B2
+B3E6B1B5E5B1B6E5B1B8E5B1BAE4B0BCE4B0BEE4B0BFE4B0C1E3AFC3E3AFC5E3AFC7E2AE
+C8E2AECAE2AECCE2AECEE1ADD0E1ADD1E1ADD3E0ADD5E0ACD7E0ACD9DFACDBDFACDCDFAB
+DEDFABE0DEABE2DEABE4DEAAE5DDAAE7DDAAE9DDAAEBDDA9EDDCA9EEDCA9F0DCA9F2DBA8
+F4DBA8F6DBA8F7DBA8F9DAA7FBDAA7F9D9A6F8D8A4F6D7A3F5D6A2F3D5A1F2D49FF0D39E
+EFD29DEDD19CECD19AEAD099E9CF98E7CE97E6CD95E4CC94E3CB93E1CA91E0C990DEC88F
+DDC78EDBC68CDAC58BD8C48AD7C389D5C287D4C186D2C085D1C084CFBF82CEBE81CCBD80
+CBBC7FC9BB7DC7BA7CC6B97BC4B879C3B778C1B677C0B576BEB474BDB373BBB272BAB171
+B8B06FB7AF6EB5AF6DB4AE6CB2AD6AB1AC69AFAB68AEAA66ACA965ABA864A9A763A8A661
+A6A560A5A45FA3A35EA2A25CA0A15B9FA05A9D9F599C9E579A9E56989D55979C53959B52
+949A5192995091984E8F974D8E964C8C954B8B9449899348889247869146859044838F43
+828E42808D407F8C3F7D8C3E7C8B3D7A8A3B79893A778839768738748636738535718434
+7083336E82316D81306B802F6A7F2E687E2C667D2B657C2A637B28627B27607A265F7925
+5D78235C77225A762159752057741E56731D54721C53711B517019506F184E6E174D6D15
+4B6C144A6B13486A12476A1045690F44680E42670D41660B3F650A3E64093C63083B6206
+14FFC816FFC818FEC719FEC71BFEC71DFEC71FFDC621FDC622FDC624FCC626FCC528FCC5
+2AFCC52BFBC52DFBC42FFBC431FAC433FAC434FAC336FAC338F9C33AF9C33CF9C23EF8C2
+3FF8C241F8C243F7C145F7C147F7C148F7C14AF6C04CF6C04EF6C050F5BF51F5BF53F5BF
+55F5BF57F4BE59F4BE5AF4BE5CF3BE5EF3BD60F3BD62F3BD63F2BD65F2BC67F2BC69F1BC
+6BF1BC6CF1BB6EF1BB70F0BB</palette>
+</flame>

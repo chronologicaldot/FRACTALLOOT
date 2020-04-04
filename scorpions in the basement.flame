@@ -1,0 +1,30 @@
+<flame name="Scorpions in the basement" version="JWildfire 1.80 ALPHA (18.07.2014)" size="412 309" center="0.0 0.0" scale="100.00078804897464" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="10.0 10.0 5.0 5.0" />
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" csc="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 3.5 0.0" chaos="10.0 10.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="6.123233995736766E-18 0.1 -1.0 6.123233995736766E-17 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julian2="1.0" julian2_power="-2" julian2_dist="1.0" julian2_a="1.0" julian2_b="0.0" julian2_c="0.0" julian2_d="1.0" julian2_e="0.0" julian2_f="0.0" coefs="0.3500784759735676 -0.5802359770565527 0.5802359770565527 0.3500784759735676 0.3410243018218685 -0.18433746044425325" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+DFCA00DEC801DDC701DBC502DAC402D9C203D8C103D7BF04D6BD04D4BC05D3BA05D2B906
+D1B706D0B507CEB407CDB208CCB108CBAF09CAAE09C8AC0AC7AA0AC6A90BC5A70BC4A60C
+C3A40CC1A30DC0A10DBF9F0EBE9E0EBD9C0FBB9B0FBA9910B99810B89611B79411B59312
+B49112B39013B28E13B18C14B08B14AE8915AD8815AC8616AB8516AA8317A88117A78018
+A67E18A57D19A47B19A27A1AA1781AA0761B9F751B9E731C9D721C9B701D9A6E1D996D1E
+986B1E976A1F95681F9467209365209263219162218F60228E5F228D5D238C5C238B5A24
+8A5824885725875525865426855226845027824F27814D28804C287F4A297E49297C472A
+7B452A7A442B79422B78412C773F2C753E2D743C2D733A2E72392E71372F6F362F6E3430
+6D33306C31316B2F31692E32682C32672B33662933652734642634622435612335602136
+5F20365E1E375C1C375B1B385A193859183958163956153A55133A54113B53103B520E3C
+510D3C4F0B3D4E093D4D083E4C063E4B053F49033F480240470040460241460442450544
+450745440946440B47430D49430F4A42104B41124C41144D40164F4018503F19513F1B52
+3E1D543E1F553D21563C23573C24583B265A3B285B3A2A5C3A2C5D392E5E392F60383161
+373362373563363765363866353A67353C68343E6934406B33426C32436D32456E314770
+314971304B72304C732F4E742F50762E52772D54782D56792C577B2C597C2B5B7D2B5D7E
+2A5F7F2A6081296282286483286684276885276A87266B88266D89256F8A25718C24738D
+24758E23768F227890227A92217C93217E94207F952081971F83981F85991E879A1D899B
+1D8A9D1C8C9E1C8E9F1B90A01B92A21A93A31A95A41997A51899A6189BA8179DA9179EAA
+16A0AB16A2AC15A4AE15A6AF14A7B013A9B113ABB312ADB412AFB511B1B611B2B710B4B9
+10B6BA0FB8BB0EBABC0EBBBE0DBDBF0DBFC00CC1C10CC3C20BC5C40BC6C50AC8C609CAC7
+09CCC908CECA08D0CB07D1CC07D3CD06D5CF06D7D005D9D104DAD204DCD303DED503E0D6
+02E2D702E4D801E5DA01E7DB</palette>
+</flame>

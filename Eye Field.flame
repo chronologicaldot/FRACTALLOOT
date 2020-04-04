@@ -1,0 +1,34 @@
+<flame name="Eye Field" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="150.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.2 0.0 0.2" bg_transparency="0" brightness="10.0" saturation="1.0" gamma="2.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="2.0" color="0.0" mod_gamma="-0.5" mod_gamma_speed="-1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" pre_blur="10.0" truchet="1.0" truchet_extended="0" truchet_exponent="2.0" truchet_arc_width="0.8" truchet_rotation="0.0" truchet_size="1.0" truchet_seed="52.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.74" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.5" bubble="0.27" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.01 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 1.0 0.0" chaos="1.0 1.0 10.0 5.0 5.0 0.0 1.0 1.0" name="shift right" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -1.0" chaos="1.0 1.0 5.0 10.0 0.0 5.0 1.0 1.0" name="shift up" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 1.0" chaos="1.0 1.0 5.0 0.0 10.0 5.0 1.0 1.0" name="shift down" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -1.0 0.0" chaos="1.0 1.0 0.0 5.0 5.0 10.0 1.0 1.0" name="shift left" />
+  <xform weight="2.0" color="1.0" mod_gamma="-0.5" mod_gamma_speed="-1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" pre_blur="10.0" truchet="1.0" truchet_extended="0" truchet_exponent="2.0" truchet_arc_width="0.2" truchet_rotation="0.0" truchet_size="1.0" truchet_seed="52.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.1 -0.1" chaos="1.0 1.0 0.0 0.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.3" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" nBlur="0.3" nBlur_numEdges="300" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.9" nBlur_circumCircle="1" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" foci="1.0" pre_crop="1.0" pre_crop_left="-100000.0" pre_crop_right="100000.0" pre_crop_top="-10000.0" pre_crop_bottom="0.0" pre_crop_scatter_area="1.0E-5" pre_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+D03609D1390CD13C0ED23E11D34114D34416D44719D5491CD64C1FD64F21D75224D85427
+D85729D95A2CDA5D2FDA5F31DB6234DC6537DC6839DD6B3CDE6D3FDE7041DF7344E07647
+E1784AE17B4CE27E4FE38152E38354E48657E5895AE58C5CE68F5FE79162E79464E89767
+E99A6AE99C6CEA9F6FEBA272ECA575ECA777EDAA7AEEAD7DEEB07FEFB282F0B585F0B887
+F1BB8AF2BE8DF2C08FF3C392F4C695F4C997F5CB9AF6CE9DF7D1A0F7D4A2F8D6A5F9D9A8
+F9DCAAFADFADFBE1B0FBE4B2FCE7B5FCE7B4FCE7B2FCE7B1FCE6B0FCE6AEFCE6ADFCE6AB
+FCE6AAFBE6A9FBE6A7FBE5A6FBE5A5FBE5A3FBE5A2FBE5A1FBE59FFBE59EFBE49DFBE49B
+FBE49AFBE498FBE497FBE496FBE494FAE393FAE392FAE390FAE38FFAE38EFAE38CFAE38B
+FAE38AFAE288FAE287FAE285FAE284FAE283FAE281FAE280FAE17FF9E17DF9E17CF9E17B
+F9E179F9E178F9E176F9E075F9E074F9E072F9E071F9E070F9E06EF9E06DF9DF6CF9DF6A
+F9DF69F8DF68F8DF66F8DF65F8DF63F8DE62F8DE61F8DE5FF8DE5EF8DB5DF8D85BF8D55A
+F8D258F9CF57F9CC55F9C954F9C653F9C351F9C050F9BD4EF9BA4DF9B74BFAB44AFAB148
+FAAE47FAAB46FAA844FAA543FAA241FA9F40FA9C3EFB993DFB963CFB933AFB9039FB8D37
+FB8A36FB8734FB8433FB8131FC7E30FC7B2FFC782DFC752CFC722AFC6F29FC6C27FC6926
+FC6625FC6323FD6022FD5D20FD5A1FFD571DFD541CFD511AFD4E19FD4B18FD4816FE4515
+FE4213FE3F12FE3C10FE390FFE360EFE330CFE300BFE2D09FF2A08FF2706FF2405FF2103
+FF1E02FC1F06F9210AF6220DF32311F02515ED2619EA271DE72921E42A24E12B28DE2C2C
+DB2E30D82F34D53038D2323BCF333FCC3443C93647C6374BC3384FC03A52BD3B56BA3C5A
+B73E5EB43F62B14066AE4169AB436DA84471A54575A247799F487D9C4980994B84964C88
+934D8C904F908D50938A519787539B84549F8155A37E56A77B58AA7859AE755AB2725CB6
+6F5DBA6C5EBE6960C16661C56362C96064CD5D65D15A66D55768D85469DC516AE04E6BE4
+4B6DE8486EEC456FEF4271F3</palette>
+</flame>

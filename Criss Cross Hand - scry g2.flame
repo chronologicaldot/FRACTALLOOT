@@ -1,0 +1,29 @@
+<flame name="Criss Cross Hand - scry" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="800 600" center="0.0 0.0" scale="89.44099930965622" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="10.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="10.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" post_crop="1.0" post_crop_left="-1.0" post_crop_right="1.0" post_crop_top="-10000.0" post_crop_bottom="10000.0" post_crop_scatter_area="1.0E-5" post_crop_zero="0" radial_blur="1.0" radial_blur_angle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 2.0 0.0 0.0" chaos="1.0 1.0 1.0" />
+  <xform weight="1.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.7" splits="1.0" splits_x="1.0" splits_y="0.0" coefs="0.7071067811865475 0.7071067811865475 -0.7071067811865475 0.7071067811865475 0.0 0.0" chaos="1.0 5.0 1.0" />
+  <xform weight="1.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" post_crop="1.0" post_crop_left="-1.0" post_crop_right="1.0" post_crop_top="-10000.0" post_crop_bottom="10000.0" post_crop_scatter_area="1.0E-5" post_crop_zero="0" coefs="0.7071067811865476 0.7071067811865475 -0.7071067811865475 0.7071067811865476 0.0 0.0" chaos="1.0 1.0 5.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" scry2="6.0" scry2_sides="4" scry2_star="0.0" scry2_circle="0.0" coefs="0.29629629629629617 0.0 0.0 0.29629629629629617 0.0 0.0" chaos="1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+F76733F76733F76833F76833F76833F76833F76933F76933F76933F76933F76A33F76A33
+F76A33F76A33F76B33F76B33F76B33F76B33F76C33F76C33F76C33F76C33F76D33F76D33
+F76D33F76D33F76E32F76E32F76E32F76E32F76F32F76F32F76F32F77032F77032F77032
+F77032F77132F77132F77132F77132F77232F77232F77232F77232F77332F77332F77332
+F77332F77432F77432F77432F77432F77532F77532F77532F77532F77632F77632F77632
+F77632F77732F77732F77732F77832F77832F77832F77832F77932F77932F77932F77932
+F77A32F77A32F77A32F77A32F77B32F77B31F77B31F77B31F77C31F77C31F77C31F77C31
+F77D31F77D31F77D31F77D31F77E31F77E31F77E31F77E31F77F31F77F31F77F31F77F31
+F78031F78031F78031F78131F78131F78131F78131F78231F78231F78231F78231F78331
+F78331F78331F78331F78431F78431F78431F78431F78531F78531F78531F78531F78631
+F78631F78631F78631F78731F78731F78731F78731F78831F78831F78830F78930F78930
+F78930F78930F78A30F78A30F78A30F78A30F78B30F78B30F78B30F78B30F78C30F78C30
+F78C30F78C30F78D30F78D30F78D30F78D30F78E30F78E30F78E30F78E30F78F30F78F30
+F78F30F78F30F79030F79030F79030F79130F79130F79130F79130F79230F79230F79230
+F79230F79330F79330F79330F79330F79430F79430F79430F79430F79530F79530F79530
+F7952FF7962FF7962FF7962FF7962FF7972FF7972FF7972FF7972FF7982FF7982FF7982F
+F7992FF7992FF7992FF7992FF79A2FF79A2FF79A2FF79A2FF79B2FF79B2FF79B2FF79B2F
+F79C2FF79C2FF79C2FF79C2FF79D2FF79D2FF79D2FF79D2FF79E2FF79E2FF79E2FF79E2F
+F79F2FF79F2FF79F2FF79F2FF7A02FF7A02FF7A02FF7A02FF7A12FF7A12FF7A12FF7A22F
+F7A22FF7A22FF7A22FF7A32EF7A32EF7A32EF7A32EF7A42EF7A42EF7A42EF7A42EF7A52E
+F7A52EF7A52EF7A52EF7A62EF7A62EF7A62EF7A62EF7A72EF7A72EF7A72EF7A72EF7A82E
+F7A82EF7A82EF7A82EF7A92E</palette>
+</flame>

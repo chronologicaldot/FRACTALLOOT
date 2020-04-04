@@ -1,0 +1,33 @@
+<flame name="To Speak of the Cross" version="JWildfire 1.70 (06.07.2014)" size="440 330" center="0.0 0.0" scale="150.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" splits="1.0" splits_x="0.4" splits_y="0.3" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.0" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 0.5" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.63" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" nBlur="2.0" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.8" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 0.9 0.0 0.5" chaos="0.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 4.5 0.0" chaos="0.0 1.0 1.0 1.0 0.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -4.5 0.0" chaos="0.0 1.0 1.0 0.0 1.0 1.0 1.0 0.0" />
+  <xform weight="2.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="5.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 1.0 1.0 1.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.0" bipolar="1.2" bipolar_shift="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 0.75 0.0 0.1" chaos="0.0 1.0 1.0 1.0 1.0 0.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="0.032" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 0.096" chaos="1.0 1.0 1.0 0.0 0.0 0.0 1.0 0.0" />
+  <palette count="256" format="RGB" >
+FFC2A6FFB6A0FFAC9CFFA096FF9692FF8A8CFF7F88FF7582FF697DFF5F79FF5373FF496F
+FF3D69F63365EC295FE01D5BD61355CA0751BE004BB20047A600419C003D900037840033
+79002D6D00276900236B001F6F001B73001775000F79000B7D00077F0003820000840000
+8800008C00009000009200009603009809009C0D00A01500A21B00A62100A82700AC2F00
+B03500B23900B64100BA4700B84700B84300B64100B43F00B43B00B23900B03500B03500
+AE3100AC2F00AA2B00AA2900A82700A62300A62100A41D00A21B00A01700A015009E1300
+9C11009C0D009A0B009809009805009403008C01008400007F00007700006F0000670000
+5F00005700005100004900004100003900003300002B00002300001B00001300000D0000
+050000000000000000000000000000000000000000000000000000000000050000130B00
+231D00312D003F3F004D4F005D61006B710079820086940594A20FA2B419B0C623BED82D
+CCE837DAF841E8FF49F6FF55FFFF5DFFFF69FFFF71FFFF7BFFFF84FFFF82FFFF7FFFFF7D
+FFFF7BFFFF77FFFF75FFFF73FFFF6FFFF26DFFE46BFFD667FFC865FFBA63FFAC5FFF9E5D
+FF925BFF8457FF7753FF6951FF5B4DFF4D4BFF3F49FF3145FF2343FF1541FF1145FF1B4F
+FF275DFF3169FF3973FF457FFF4F8CFF5996FF63A2FF6FAEFF79BAFF80C6FF8CD2FF96E0
+FFA2EAFFAAF6FFB6FFFFC0FFFFCAFFFFD4FFFFDEFFFFEAFFFFF4FFFFFEFFFFFFFFFFFFFF
+FFFFFFFFFAFFFFEAFFFFDEFFFFCEFFFFC0FFFFB2F8FFA2E6FF94D4FA84C2EE77B2E067A0
+D4598EC84B7DBC3D6BB02F5BA41F499811378A01257D00137100016500005900004D0000
+4100003900003D00004300004900004D00005300005900005D00006300006700006B0000
+7100007700007D00008000008600008C00009003009609009C1100A01700A61B00AC2100
+B22700B62D00BC3300BC3D00B84700B45300B25D00AC6900AA7500A67F00A28A009E9400
+9CA00096AC0094B8008EC2008CCE0088D80084E40080EE007FFA0179FF0777FF0B73FF11
+6FFF156BFF1B69FF1F63FF23</palette>
+</flame>

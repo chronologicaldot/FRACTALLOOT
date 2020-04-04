@@ -1,0 +1,33 @@
+<flame name="Flower Top of Red Lintangia" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="188.23529411764704" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="20.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.5" cam_pitch="1.0471975511965976" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" preserve_z="1" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" blur="0.9" flatten="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 1.0 0.0 1.0 0.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" spherical="1.0" post_ztranslate_wf="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 1.0 0.0 0.0 1.0 0.0 1.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.99" linear3D="1.0" cross="0.046" butterfly="0.332" pre_zscale="0.5" post_ztranslate_wf="-3.0" zcone="3.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.9484554393918072 0.4511334621866088 -0.4511334621866088 1.9484554393918072 0.13938082119900286 0.04099435917617733" chaos="0.0 0.0 1.0 0.0 1.0 1.0 0.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" nBlur="1.0" nBlur_numEdges="500" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.9" nBlur_circumCircle="1" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="0.0" flatten="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 0.0 1.0 0.0 1.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" julia3D="2.0" julia3D_power="-2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.8885992751909111 0.45868434476248177 -0.45868434476248177 0.8885992751909111 0.0 0.0" chaos="1.0 0.0 0.0 1.0 0.0 1.0 0.0 1.0"/>
+  <xform weight="0.1" color="1.0" mod_gamma="1.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" arch="0.3" flatten="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.2246467991473532E-16 -1.5 1.0 6.123233995736766E-17 0.0 0.0" yzPost="6.123233995736766E-17 -1.0 1.0 6.123233995736766E-17 0.0 0.0" chaos="0.0 0.0 0.0 0.0 0.0 0.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="0.9" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.22516521297935022 0.9743205975775961 -0.9743205975775961 0.22516521297935022 0.0 0.0" chaos="1.0 0.0 0.0 1.0 0.0 1.0 1.0 1.0"/>
+  <xform weight="0.1" color="0.33" mod_gamma="1.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" blur3D="0.05" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 1.5085924176833272 -0.9182736455463736" chaos="1.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+440A94112772253E6B3956643F566146575E4A505E4F4A5E6233218D2210B91200CA361D
+DC5A3ADE8926E1B812B4BF1487C61744DA212ED15019C98019BF9019B6A11EA482239363
+38942729AC141AC4010DC60F01C91E14CA3027CC4259D85374F85567C5AD35999A046E88
+196D712F6C5A495F5263524AA4233FA21B35A1132B7D1854591D7D451789311196331287
+32275F980C4BA71B41B62A379C553183812C738E2E639C3116A9001AA4071E9F0F1F9F32
+219F561B9F60169F6B319BA84294C48DCBE07A92AF685A7E605379584C743E6079216F55
+51A64939BE3C22D73015E42508F11B09DC240AC72D04B73F22A85335A3D847C0B55ADE92
+6AE5747BEC5689CD5E83C0495F9A4A5E81355D692172621D885B1AA0671ABD7221D5703C
+A25C5E88725D778460669664559D6044A45D4DB0431EAC4023AE2D1EB03A1AB3471BBA52
+1DC15E2FDF621DFD8004F58E12E49B1969DC1A57ED1C45FF172CE9170FEE0C0DB51E0A7B
+461849230E46010544040F41081A3E0A1A3E1A33382A261B2F0E17270100210E001B1B01
+10270D19331806450C255A0C1D5A1F1A661A17721520870C2A9D0441B90A40AF0A3C8C11
+6B6E13A97D12A89513A8AD15BD7405C46F04AF630FBC6F1F7D5E32854C318D3B308E4125
+92542DAB5103BB5612A655208D4C3635637D2B6B7E22748020887D22945949774667523D
+8F2306872706802C07574918271C16250920301C274C1F404F2E3F2F4B110C4719046B56
+014667006AA41F4BE2342DED6601B55C17A3522E926C2B6B45585C38712A358514387113
+3F6A115367286C5239813F29844F3078732F5174204B89243587614D75776149934D1CB4
+7133968551758EA35498A22FB47E50B7687B7457A95C81D25747F23944DE4216CF1A2398
+163E583D2B3B2C2E3B104B45345A67256D7B0552860E0EA44809B84A2EB7247070098026
+07AF3818B83411EA211CED3238C9223CC51D54C82758D80F43CE014DB40F558120504F3B
+41553A3A4F30245C2F2E77254C982C8FCA20BDFB128CD60F75DC1D73ED3278EE3A5BDD45
+69A7424E9B3B34C02944AD37  </palette>
+</flame>

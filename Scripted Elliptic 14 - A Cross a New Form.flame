@@ -1,0 +1,30 @@
+<flame name="Scripted Elliptic 14 - A Cross a New Form" smooth_gradient="0" version="JWildfire 2.34 (22.02.2015)" size="680 544" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" elliptic="1.0" pre_curl="1.0" pre_curl_c1="0.03869859999230933" pre_curl_c2="0.0" pre_crop="1.0" pre_crop_left="-10000.0" pre_crop_right="10000.0" pre_crop_top="-10000.0" pre_crop_bottom="0.0" pre_crop_scatter_area="1.0E-5" pre_crop_zero="0" coefs="1.2462766926900983 1.2962520396910882 -1.2962520396910882 1.2462766926900983 0.17299216255819594 0.07025488005658698" post="1.0 0.0 0.0 0.9909643474443163 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" splits="1.0" splits_x="1.2" splits_y="0.0" radial_blur="0.3233055846390388" radial_blur_angle="0.0" coefs="-0.4541356943224208 1.2597256175018376 -1.2597256175018376 -0.4541356943224208 0.7206689365536716 -0.9737898881711925" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 1.1 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 -1.1 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.2" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cross="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FCF0B7FCF0B7FCF0B7FCF0B7FCF0B7FCF0B7FCF0B7FCF0B7FCEFB7FCEFB7FCEFB7FCEFB7
+FCEFB7FCEFB7FCEFB7FCEFB7FCEFB7FCEFB7FCEFB7FCEFB8FCEFB8FCEFB8FCEEB8FCEEB8
+FCEEB8FCEEB8FCEEB8FCEEB8FCEEB8FCEEB8FCEEB8FCEEB8FCEEB8FCEEB8FCEEB8FCEEB8
+FCEDB8FCEDB8FCEDB8FCEDB8FCEDB8FCEDB8FCEDB8FCEDB8FCEDB8FCEDB8FCEDB8FCEDB8
+FCEDB8FCEDB8FCECB8FCECB8FCECB8FCECB8FCECB8FCECB9FCECB9FCECB9FCECB9FCECB9
+FCECB9FCECB9FCECB9FCECB9FCECB9FCEBB9FCEBB9FCEBB9FCEBB9FCEBB9FCEBB9FCEBB9
+FCEBB9FCEBB9FCEBB9FCEBB9FCEBB9FCEBB9FCEBB9FCEAB9FCEAB9FCEAB9FCEAB9FCEAB9
+FCEAB9FCEAB9FCEAB9FCEAB9FCEAB9FCEAB9FCEAB9FCEAB9FCEABAFCE9BAFCE9BAFCE9BA
+FCE9BAFCE9BAFCE9BAFCE9BAFCE9BAFCE9BAFCE9BAFCE9BAFCE9BAFCE9BAFCE9BAFCE8BA
+FCE8BAFCE8BAFCE8BAFCE8BAFCE8BAFCE8BAFCE8BAFCE8BAFCE8BAFCE8BAFCE8BAFCE8BA
+FCE8BAFCE7BAFCE7BAFCE7BAFCE7BAFCE7BAFCE7BAFCE7BAFCE7BBFCE7BBFCE7BBFCE7BB
+FCE7BBFCE7BBFCE7BBFCE7BBFCE6BBFCE6BBFCE6BBFCE6BBFCE6BBFCE6BBFCE6BBFCE6BB
+FCE6BBFCE6BBFCE6BBFCE6BBFCE6BBFCE6BBFCE5BBFCE5BBFCE5BBFCE5BBFCE5BBFCE5BB
+FCE5BBFCE5BBFCE5BBFCE5BBFCE5BBFCE5BBFCE5BBFCE5BBFCE4BBFCE4BCFCE4BCFCE4BC
+FCE4BCFCE4BCFCE4BCFCE4BCFCE4BCFCE4BCFCE4BCFCE4BCFCE4BCFCE4BCFCE3BCFCE3BC
+FCE3BCFCE3BCFCE3BCFCE3BCFCE3BCFCE3BCFCE3BCFCE3BCFCE3BCFCE3BCFCE3BCFCE3BC
+FCE3BCFCE2BCFCE2BCFCE2BCFCE2BCFCE2BCFCE2BCFCE2BCFCE2BCFCE2BCFCE2BDFCE2BD
+FCE2BDFCE2BDFCE2BDFCE1BDFCE1BDFCE1BDFCE1BDFCE1BDFCE1BDFCE1BDFCE1BDFCE1BD
+FCE1BDFCE1BDFCE1BDFCE1BDFCE1BDFCE0BDFCE0BDFCE0BDFCE0BDFCE0BDFCE0BDFCE0BD
+FCE0BDFCE0BDFCE0BDFCE0BDFCE0BDFCE0BDFCE0BDFCDFBDFCDFBDFCDFBDFCDFBEFCDFBE
+FCDFBEFCDFBEFCDFBEFCDFBEFCDFBEFCDFBEFCDFBEFCDFBEFCDFBEFCDEBEFCDEBEFCDEBE
+FCDEBEFCDEBEFCDEBEFCDEBE</palette>
+</flame>

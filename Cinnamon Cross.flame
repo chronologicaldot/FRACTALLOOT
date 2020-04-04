@@ -1,0 +1,32 @@
+<flame version="JWildfire 1.61 (01.05.2014)" size="455 341" center="0.0 0.0" scale="50.0" rotate="-90.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.8" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" post_crop="1.0" post_crop_left="-0.98" post_crop_right="0.98" post_crop_top="-0.98" post_crop_bottom="0.98" post_crop_scatter_area="0.0" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="1.0" opacity="0.0" symmetry="0.0" ho="1.0" ho_xpow="3.0" ho_ypow="3.0" ho_zpow="3.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 1.0 1.0 0.0 0.0" />
+  <xform weight="1.0" color="0.0" opacity="0.0" symmetry="0.0" cross2="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 0.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" linear3D="-1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 6.5 0.5" chaos="1.0 0.0 0.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" disc3d="1.0" disc3d_pi="3.141592653589793" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 10.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" swirl="2.0" post_circlecrop="0.0" post_circlecrop_radius="2.0" post_circlecrop_x="0.0" post_circlecrop_y="0.0" post_circlecrop_scatter_area="0.0" post_circlecrop_zero="1" coefs="0.25 0.0 0.0 0.25 0.0 0.0" chaos="1.0 0.0 0.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" julia3Dz="2.2" julia3Dz_power="-4" coefs="1.0 0.0 0.0 1.0 0.0 -0.5" chaos="1.0 0.0 0.0 0.0 0.0 0.0 0.0" />
+  <palette count="256" format="RGB" >
+FCD5A8FCD3A6FCD1A4FCCEA2FCCCA0FCCA9DFCC89BFBC599FBC397FBC195FBBF93FBBC91
+FBBA8FFBB88DFBB68AFBB388FBB186FBAF84FBAD82FBAB80FAA87EFAA67CFAA47AFAA277
+FA9F75FA9D73FA9B71FA996FFA966DFA946BFA9269FA9067FA8E65F98B62F98960F9875E
+F9855CF9825AF98058F97E56F97C54F97952F9774FF9754DF9734BF87049F86E47F86C45
+F86A43F86841F8653FF8633CF8613AF85F38F85C36F85A34F85832F85630F7532EF7512C
+F74F29F74D27F74A25F74823F74621F74521F74521F74421F74421F74321F74320F74220
+F74220F74120F74120F74020F74020F73F20F73F20F73E20F73E20F73D1FF73D1FF73C1F
+F73C1FF73B1FF73B1FF73A1FF73A1FF7391FF7391FF7381EF7381EF7371EF7371EF7361E
+F7361EF7351EF7341EF7341EF7331EF7331EF7321DF7321DF7311DF7311DF7301DF7301D
+F72F1DF72F1DF72E1DF72E1DF72D1DF72D1CF72C1CF72C1CF72B1CF72B1CF72A1CF72A1C
+F7291CF7291CF7281CF7281BF7271BF7271BF7261BF7261BF7251BF7281BF72B1AF72E1A
+F7301AF7331AF73619F73919F73C19F73F19F74218F74418F74718F74A18F74D17F75017
+F75317F75616F75816F75B16F75E16F76115F76415F76715F76A15F76C14F76F14F77214
+F77514F77813F77B13F77E13F78113F68312F68612F68912F68C11F68F11F69211F69511
+F69710F69A10F69D10F6A010F6A30FF6A60FF6A90FF6AB0FF6AE0EF6B10EF6B40EF6B70D
+F6BA0DF6BD0DF6BF0DF6C20CF6C50CF6C80CF6CB0CF6CE0BF6D10BF6D30BF6D60BF6D90A
+F6DC0AF6DD0DF6DD0FF6DE12F6DE14F6DF17F6DF1AF6E01CF6E01FF6E121F6E124F7E227
+F7E229F7E32CF7E32EF7E431F7E434F7E536F7E539F7E63BF7E63EF7E740F7E743F7E846
+F7E848F7E94BF7E94DF7EA50F7EA53F7EB55F7EB58F7EC5AF8EC5DF8ED60F8ED62F8EE65
+F8EE67F8EF6AF8EF6DF8F06FF8F072F8F174F8F177F8F27AF8F27CF8F37FF8F381F8F484
+F8F487F8F589F8F58CF8F68EF8F691F8F793F9F796F9F899F9F89BF9F99EF9F9A0F9FAA3
+F9FAA6F9FBA8F9FBABF9FCAD</palette>
+</flame>

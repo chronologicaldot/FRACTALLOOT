@@ -1,0 +1,36 @@
+<flame version="JWildfire 1.61 (01.05.2014)" size="455 341" center="0.0 0.0" scale="28.427083333333336" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.8" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" post_crop="1.0" post_crop_left="-0.8" post_crop_right="0.8" post_crop_top="-1.0" post_crop_bottom="1.0" post_crop_scatter_area="0.0" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -2.0" chaos="1.0 1.0 1.0 0.0 1.0 1.0 1.0 0.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 1.6 0.0" chaos="1.0 10.0 1.0 0.0 10.0 0.0 1.0 0.0 1.0 1.0 0.0" name="right shift" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 -1.6 0.0" chaos="1.0 0.0 10.0 0.0 10.0 0.0 1.0 0.0 1.0 1.0 0.0" name="left shift" />
+  <xform weight="0.5" color="1.0" symmetry="0.0" linear3D="0.5" post_crop="1.0" post_crop_left="-3.0" post_crop_right="3.0" post_crop_top="-4.0" post_crop_bottom="3.0" post_crop_scatter_area="0.05" post_crop_zero="0" coefs="0.3535533905932738 0.35355339059327373 -0.35355339059327373 0.3535533905932738 1.0 -3.0" post="1.0 0.0 0.0 1.0 -3.0 -3.75" chaos="1.0 0.0 0.0 0.0 10.0 0.0 1.0 0.0 1.0 1.0 0.0" name="bipolar shift" />
+  <xform weight="0.5" color="0.0" symmetry="1.0" bipolar="12.0" bipolar_shift="0.0" coefs="-0.17677669529663695 0.1767766952966368 -0.1767766952966368 -0.17677669529663695 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -1.0" chaos="1.0 0.0 0.0 1.0 0.0 0.0 1.0 0.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 4.0" chaos="1.0 1.0 1.0 0.0 1.0 0.0 1.0 0.0 1.0 1.0 0.0" name="down shift" />
+  <xform weight="0.5" color="1.0" opacity="0.0" symmetry="1.0" julia3Dz="0.8" julia3Dz_power="-5" coefs="1.0 0.0 0.0 1.0 0.25 0.0" post="1.0 0.0 0.0 1.0 0.0 -2.0" chaos="1.0 1.0 1.0 1.0 10.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" linear3D="0.5" coefs="1.0 0.0 0.0 1.0 0.0 -2.0" chaos="1.0 1.0 1.0 1.0 10.0 1.0 1.0 1.0 1.0 1.0 10.0" name="Julia inner" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" nBlur="12.5" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.9" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.1 0.0 0.0 1.0 0.0 -0.25" chaos="1.0 0.0 0.0 1.0 0.0 0.0 1.0 0.0 1.0 1.0 0.0" name="small bipolar borders" />
+  <xform weight="0.5" color="0.2" opacity="0.0" symmetry="-1.0" nBlur="0.9" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.0" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 1.0 0.0 0.0 0.0 1.0 1.0 0.0" name="line thickener" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 1.0" chaos="1.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0 1.0 0.0" name="Julia shift" />
+  <palette count="256" format="RGB" >
+C81DFFC520FCC324F9C027F6BE2AF2BB2DEFB931ECB634E9B337E6B13AE3AE3EE0AC41DC
+A944D9A647D6A44BD3A14ED09F51CD9C54CA9A58C6975BC3945EC09261BD8F65BA8D68B7
+8A6BB4886EB08572AD8275AA8078A77D7BA47B7FA178829E76859B738897708C946E8F91
+6B928E69958B669988639C85619F815EA27E5CA67B59A97857AC7554AF7251B36F4FB66B
+4CB9684ABC6547C06245C35F42C65C3FC9593DCD553AD05238D34F35D64C32DA4930DD46
+2DE0432BE33F28E73C26EA3923ED3626EC3628EB372BEA372DE93830E83833E73935E639
+38E5393AE43A3DE33A40E23B42E13B45E03B48DF3C4ADE3C4DDD3D4FDC3D52DB3E55DA3E
+57D93E5AD83F5CD73F5FD64062D54064D44167D34169D2416CD1426FD04271CF4374CE43
+77CE4479CD447CCC447ECB4581CA4584C94686C84689C7468BC6478EC54791C44893C348
+96C24998C1499BC0499EBF4AA0BE4AA3BD4BA5BC4BA8BB4CABBA4CADB94CB0B84DB3B74D
+B5B64EB8B54EBAB44EBDB34FC0B24FC2B150C5B050C7AF51CAAE51C8AD53C7AB56C5AA58
+C3A85BC1A75DC0A55FBEA462BCA264BAA167B99F69B79E6BB59D6EB39B70B29A72B09875
+AE9777AC957AAB947CA9927EA79181A58F83A48E86A28D88A08B8A9E8A8D9D888F9B8792
+99859497849696829994819B92809E907EA08F7DA28D7BA58B7AA78978A98877AC8675AE
+8474B18272B38171B57F70B87D6EBA7B6DBD7A6BBF786AC17668C47467C67365C97164CB
+6F62CD6D61D06C60D26A5ED4685DD7665BD9655ADC6358DE6157E05F55E35E54E55C52E8
+5A51EA5C53E65D54E35F56DF6058DC6259D8635BD5655DD1665ECD6860CA6962C66B63C3
+6C65BF6E67BB6F68B8716AB4726CB1746DAD756FAA7770A67872A27A749F7B759B7D7798
+7E7994807A91817C8D837E89847F8686818287837F89847B8B86788C88748E89708F8B6D
+918D69928E6694906295925E97935B9895579A97549B98509D9A4D9E9C49A09D45A19F42
+A3A13EA4A23BA6A437A7A534A9A730AAA92CACAA29ADAC25AFAE22B0AF1EB2B11AB3B317
+B5B413B6B610B8B80CB9B909</palette>
+</flame>

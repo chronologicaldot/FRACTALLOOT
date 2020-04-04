@@ -1,0 +1,32 @@
+<flame name="I like triangles" version="JWildfire 1.40 (15.03.2014)" size="457 343" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" estimator_enabled="0" estimator_radius="0.7" estimator_minimum="0.0" estimator_curve="0.36" estimator_kernel="GAUSSIAN" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" preserve_z="1" resolution_profile="1024x768" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" >
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="3" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.9" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 2.0 0.0" chaos="1.0 10.0 0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -2.0 0.0" chaos="1.0 0.0 10.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" nBlur="0.8" nBlur_numEdges="3" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.2" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" mobius="1.0" mobius_re_a="0.1" mobius_re_b="0.2" mobius_re_c="-0.15" mobius_re_d="0.21" mobius_im_a="0.2" mobius_im_b="-0.12" mobius_im_c="-0.15" mobius_im_d="0.1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 1.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.3" opacity="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 2.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" julia3Dz="50.0" julia3Dz_power="-5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 0.0 0.0 1.0 0.0 0.0" />
+  <palette count="256" format="RGB" >
+4DA38650A48652A58755A68757A7875AA8875CA9885FAA8861AB8864AC8966AD8969AE89
+6BAF8A6EB08A70B18A73B28A76B48B78B58B7BB68B7DB78C80B88C82B98C85BA8D87BB8D
+8ABC8D8CBD8D8FBE8E91BF8E94C08E96C18F99C28F9BC38F9EC490A1C590A3C690A6C790
+A8C891ABC991ADCA91B0CB92B2CC92B5CD92B7CE92BACF93BCD093BFD193C1D294C4D394
+C7D594C9D695CCD795CED895D1D995D3DA96D6DB96D8DC96DBDD97DDDE97E0DF97E2E098
+E5E198E7E298EAE398ECE499EFE599EEE399EDE19AECDF9AEBDE9BEADC9BE9DA9CE8D89C
+E7D69DE6D49DE5D29EE4D19EE3CF9EE2CD9FE1CB9FE0C9A0DFC7A0DEC5A1DDC4A1DCC2A2
+DBC0A2DABEA3D9BCA3D8BAA3D7B8A4D6B7A4D5B5A5D4B3A5D3B1A6D2AFA6D1ADA7D0ABA7
+CFAAA8CDA8A8CCA6A8CBA4A9CAA2A9C9A0AAC89EAAC79CABC69BABC599ACC497ACC395AC
+C293ADC191ADC08FAEBF8EAEBE8CAFBD8AAFBC88B0BB86B0BA84B1B982B1B881B1B77FB2
+B67DB2B57BB3B479B3B377B4B275B4B174B5B072B5AF70B6AE6EB6AD6CB7AD6BB7AC69B8
+AC68B8AB66B9AB65BAAA63BAA961BBA960BBA85EBCA85DBDA75BBDA659BEA658BEA556BF
+A555C0A453C0A452C1A350C1A24EC2A24DC2A14BC3A14AC4A048C4A047C59F45C59E43C6
+9E42C79D40C79D3FC89C3DC89C3CC99B3ACA9A38CA9A37CB9935CB9934CC9832CD9730CD
+972FCE962DCE962CCF952AD09529D09427D19325D19324D29222D39221D3911FD4911ED4
+901CD58F1AD58F19D68E17D78E16D78D14D88C12D88C11D98B0FDA8B0EDA8A0CDB8A0BDB
+8909DC880CDC870FDB8711DB8614DA8517DA841AD9841DD98320D88222D88125D78128D7
+802BD77F2ED67E31D67E33D57D36D57C39D47B3CD47A3FD37A42D37944D27847D2774AD2
+774DD17650D17553D07455D07458CF735BCF725ECE7161CE7164CE7066CD6F69CD6E6CCC
+6D6FCC6D72CB6C74CB6B77CA6A7ACA6A7DC96980C96883C96785C86788C8668BC7658EC7
+6491C66394C66396C56299C5619CC4609FC460A2C45FA5C35EA7C35DAAC25DADC25CB0C1
+5BB3C15AB6C05AB8C059BBBF</palette>
+</flame>

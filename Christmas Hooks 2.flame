@@ -1,0 +1,30 @@
+<flame name="Christmas Hooks 2" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="82.66666666666666" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="100.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-0.5" linear3D="1.0" post_crop="1.0" post_crop_left="-1000.0" post_crop_right="0.0" post_crop_top="-1000.0" post_crop_bottom="1000.0" post_crop_scatter_area="0.001" post_crop_zero="0" pre_blur="0.1" julian="1.5" julian_power="3" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 1.0 0.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" hemisphere="1.0" coefs="0.16666666666666666 0.0 0.0 0.16666666666666666 0.0 0.0" chaos="0.0 0.0 1.0 0.0 0.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" curl="1.0" curl_c1="-0.5" curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 1.0 0.0" chaos="0.0 0.0 0.0 1.0 0.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.8" wedge="1.0" wedge_angle="3.14159265" wedge_hole="0.0" wedge_count="1" wedge_swirl="0.0" coefs="-0.4742375806381315 -0.8803969088487829 0.8803969088487829 -0.4742375806381315 4.091237045782501 0.9920634920634924" chaos="1.0 3.0 0.0 0.0 1.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.5" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 -1.2246467991473532E-16 1.2246467991473532E-16 -1.0 0.0 0.0" chaos="1.0 2.0 0.0 0.0 0.0"/>
+  <palette count="256" format="RGB">
+41642C3C5B2737512232481E2D3E19283515232B101E220C191807140F03140D021C1608
+23200E2B291433331A3A3C204246274A502D515933596339616C3F687645707F4B788951
+7F9257879C5D8FA56396AF699EB86FA6C275ADCB7BB5D581BDDF87C4E88DCCF293D3FB99
+D3F695D0ED8FCEE589CBDC84C9D37EC6CB78C3C272C1B96CBEB166BCA860B99F5AB79754
+B48E4FB18549AF7D43AC743DAA6B37A76331A55A2BA251259F491F9D40199A3714982F0E
+95260894200498260A9C2C10A03216A4381CA93D22AD4328B1492EB54F34B9553ABD5B40
+C16146C6664CCA6C52CE7258D2785ED67E64DA846ADE8A70E39077E7957DEB9B83EFA189
+F3A78FF7AD95FBB39BFDB69EFDB79FFDB9A0FDBAA1FDBCA2FDBDA4FDBFA5FDC0A6FDC2A7
+FDC3A8FDC5A9FDC6ABFDC8ACFDC9ADFDCBAEFDCCAFFDCEB0FDCFB2FDD1B3FDD2B4FDD4B5
+FDD5B6FDD7B7FDD8B9FDDABAAD2804AE2904AF2904B02A04B12B04B22C04B32C04B42D04
+B52E04B62F04B82F04B93004BA3104BB3204BC3204BD3304BE3404BF3504C03504C13604
+C23704C33804C43804C53904C63A04C73B04C63A04BF3804B93604B33304AD3103A72F03
+A12D039B2A039528038F26038923038321037C1F03761D02701A026A18026416025E1402
+581102520F024C0D02460B014008013906013304012D01012D01052D010A2E01102F0115
+2F011A30011F31022531022A32022F33023433023A34023F35024435024936024E360254
+37025938025E3802633903693A036E3A03733B03783C037E3C03833E03864603814D047C
+5404775B047262056D6A056871066278065D7F06588607538E074E9507499C0844A3083F
+AA083AB10935B90930C0092BC70A26CE0A20D50A1BDD0B16E40B11EB0C0CF20C07F31208
+EF1B0CEB2410E72E15E33719DF411DDB4A22D75326D35D2AD0662FCC6F33C87937C4823C
+C08C40BC9544B89E49B4A84DB0B151ACBA56A8C45AA5CD5EA1D7639DE06799E96B95F370
+91FC748CF36F87E96B82E0667DD66278CD5D73C3596EBA5469B05064A74B5F9D475A9442
+558A3E5081394B7735466E30  </palette>
+</flame>

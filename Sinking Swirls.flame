@@ -1,0 +1,30 @@
+<flame name="Sinking Swirls" smooth_gradient="0" version="JWildfire 2.34 (22.02.2015)" size="680 544" center="0.0794 -0.1322" scale="250.0" rotate="-115.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" scry="1.0" coefs="-1.4769729648029766 -1.1458115878872928 1.0277235509458782 -0.2945723630211066 1.0327954873409426 -0.12298307752853216" chaos="2.0 1.0 1.0 2.0 1.0" />
+  <xform weight="2.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" spherical="1.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" nBlur="1.225" nBlur_numEdges="30" nBlur_numStripes="10" nBlur_ratioStripes="1.7" nBlur_ratioHole="0.92" nBlur_circumCircle="1" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" julian="1.1" julian_power="100" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" nBlur="1.12" nBlur_numEdges="30" nBlur_numStripes="10" nBlur_ratioStripes="1.7" nBlur_ratioHole="0.99" nBlur_circumCircle="1" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+DB760BDA760BD8760BD7760BD5760BD4760BD2760BD1760BCF760BCE760BCC760BCB760B
+C9760BC8760AC6760AC5760AC3760AC2760AC0760ABF760ABD760ABC760ABA770AB9770A
+B7770AB6770AB4770AB3770AB1770AB0770AAE770AAD770AAB770AAA770AA8770AA7770A
+A5770AA4770AA2770AA177099F77099E77099C77099B7709997709987709967709957709
+9377099277099077098F77098D77098C77098A7709897709877709867709847709837709
+8177098077097E77097D77097C78097A7808797808777808767808747808737808717808
+7078086E78086D78086B78086A78086878086778086578086478086278086178085F7808
+5E78085C78085B78085978085878085678085578075378075278075078074F78074D7807
+4C78074A78074978074778074678074478074378074178074078073E78073D78073B7907
+3A79073879073779073579073479073279073179072F79072E79062C79062B7906297906
+2879062679062579062379062279062079061F79061D79061C79061E7A071F7A07217B08
+237B09257C09267C0A287D0B2A7E0B2B7E0C2D7F0D2F7F0D31800E32800F34810F368210
+3782113983113B83123D84123E84134085144286144386154587164787164888174A8818
+4C89184E8A194F8A1A518B1A538B1B548C1C568C1C588D1D5A8E1E5B8E1E5D8F1F5F8F20
+6090206290216491226692226792236993246B93246C94256E9426709526729627739627
+7597287797297898297A982A7C992B7E9A2B7F9A2C819B2D839B2D849C2E869C2F889D2F
+8A9E308B9E318D9F318F9F3290A03392A03394A13495A13597A23599A3369BA3379CA437
+9EA438A0A539A1A539A3A63AA5A73BA7A73BA8A83CAAA83CACA93DADA93EAFAA3EB1AB3F
+B3AB40B4AC40B6AC41B8AD42B9AD42BBAE43BDAF44BFAF44C0B045C2B046C4B146C5B147
+C7B248C9B348CBB349CCB44ACEB44AD0B54BD1B54CD3B64CD5B74DD6B74ED8B84EDAB84F
+DCB950DDB950DFBA51E1BB51E2BB52E4BC53E6BC53E8BD54E9BD55EBBE55EDBF56EEBF57
+F0C057F2C058F4C159F5C159</palette>
+</flame>

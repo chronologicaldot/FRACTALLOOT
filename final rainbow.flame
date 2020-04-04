@@ -1,0 +1,29 @@
+<flame version="JWildfire 1.80 ALPHA (18.07.2014)" size="412 309" center="0.0 -0.8202" scale="50.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.252" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" pre_blur="1.0" post_circlecrop="0.0" post_circlecrop_radius="2.84" post_circlecrop_x="0.0" post_circlecrop_y="0.0" post_circlecrop_scatter_area="0.0" post_circlecrop_zero="1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" cos="1.0" coefs="0.7071067811865476 0.7071067811865475 -0.7071067811865475 0.7071067811865476 0.5 0.0" chaos="1.0 0.0 1.0 1.0" />
+  <xform weight="1.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="0.6" coefs="2.220446049250313E-16 -1.0 1.0 2.220446049250313E-16 0.0 -3.5" post="1.0 0.0 0.0 1.0 0.37096377768902267 -0.22120495253310396" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" pre_blur="0.5" post_circlecrop="0.0" post_circlecrop_radius="3.02" post_circlecrop_x="0.0" post_circlecrop_y="0.0" post_circlecrop_scatter_area="0.0" post_circlecrop_zero="1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 -0.5 0.0" chaos="1.0 1.0 0.0 1.0" />
+  <palette count="256" format="RGB" >
+681E056E210773230879260A7E280C842B0D892E0F8F30109433129A36149F3815A53B17
+AA3D19B0401AB5431CBB451EC0481FC64A21CB4D23D15024D65226DC5527E15829E75A2B
+EC5D2CF25F2EF56331F36936F26F3AF1753FF07B44EF8148EE884DED8E52EC9456EB9A5B
+EAA060E9A664E7AC69E6B26EE5B873E4BE77E3C47CE2CA81E1D085E0D68ADFDC8FDEE293
+DDE898DBEE9DDAF4A1D9FAA6D4FBA9CEFBAAC8FAACC2FAAEBBFAB0B5FAB2AFF9B4A9F9B6
+A3F9B89DF9B996F8BB90F8BD8AF8BF84F8C17EF8C377F7C571F7C76BF7C865F7CA5FF6CC
+59F6CE52F6D04CF6D246F5D440F5D63CF4D744EED64BE7D653E1D55ADBD561D5D469CED4
+70C8D377C2D37FBCD286B5D18DAFD195A9D09CA3D0A39CCFAB96CFB290CEB98ACEC183CD
+C87DCDCF77CCD771CBDE6ACBE564CAED5ECAF458C9F759C9F75FC9F866C9F86CC9F873C8
+F87AC8F880C8F887C8F98DC8F994C8F99AC8F9A1C8F9A7C8FAAEC7FAB4C7FABBC7FAC1C7
+FAC8C7FBCEC7FBD5C7FBDBC7FBE2C6FBE8C6FCEFC6FCF5C6FCFCC6FCF9C7FCF6C8FCF2C9
+FCEFCAFCECCBFCE9CDFCE6CEFCE2CFFCDFD0FCDCD1FCD9D2FCD6D3FBD2D4FBCFD5FBCCD6
+FBC9D8FBC6D9FBC2DAFBBFDBFBBCDCFBB9DDFBB6DEFBB2DFFBAFE0FBACE1F9AAE2F6ABE3
+F2ACE4EEACE5EAADE6E6AEE7E2AEE8DEAFE9DAB0EAD6B0EBD2B1ECCEB2EDCBB2EEC7B3EF
+C3B4F0BFB4F0BBB5F1B7B6F2B3B6F3AFB7F4ABB8F5A7B8F6A4B9F7A0BAF89CBAF998BBFA
+99B6F39BB0E99EAAE0A0A4D7A29ECDA598C4A792BBAA8BB1AC85A8AE7F9FB17995B3738C
+B66D83B86779BA6170BD5B66BF555DC14F54C4484AC64241C93C38CB362ECD3025D02A1C
+D22412D3210DCF2916CC311FC83929C44132C0493BBC5144B85A4EB56257B16A60AD7269
+A97A73A5827CA18A859E928E9A9B9896A3A192ABAA8EB3B38BBBBD87C3C683CBCF7FD3D9
+7BDCE277E4EB74ECF474ECF277E8E97AE3E07CDFD67FDBCD82D6C485D2BA88CDB18BC9A8
+8EC49E91C09594BB8C96B78299B2799CAE709FAA66A2A55DA5A154A89C4AAB9841AE9338
+B08F2EB38A25B6861CB98112</palette>
+</flame>

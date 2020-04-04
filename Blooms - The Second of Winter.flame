@@ -1,0 +1,34 @@
+<flame name="Blooms - The 2nd of Winter Flower" smooth_gradient="0" version="JWildfire 2.34 (22.02.2015)" size="680 544" center="0.0 0.0" scale="250.0" rotate="28.4" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.4" cam_pitch="0.8866272600131193" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" preserve_z="1" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" splits="1.0" splits_x="1.2" splits_y="0.0" radial_blur="0.5" radial_blur_angle="0.0" flatten="0.0" coefs="3.0 0.0 0.0 3.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" flatten="0.0" pre_blur="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 0.6 1.1 0.0" chaos="1.0 1.0 1.0 1.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" flatten="0.0" pre_blur="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 0.6 -1.1 0.0" chaos="1.0 1.0 1.0 1.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" julian="1.0" julian_power="10" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.688 0.0" post="1.092 0.0 0.0 1.196 0.0 0.0" chaos="1.0 1.0 1.0 0.0 1.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" waves2="1.0" waves2_scalex="0.12" waves2_scaley="0.18" waves2_freqx="1.22" waves2_freqy="0.7853981633974483" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 0.0 0.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julia3D="1.0" julia3D_power="-1" pre_ztranslate="-0.172" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="1.488" post_ztranslate_wf="0.304" coefs="0.9092606974039773 0.41622708243990103 -0.41622708243990103 0.9092606974039773 0.0 0.0" chaos="0.0 0.0 0.0 0.0 0.0 1.0 1.0 1.0" />
+  <xform weight="0.01" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" voron="0.1" voron_k="0.001" voron_step="0.5" voron_num="1" voron_xseed="4" voron_yseed="6" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -0.1" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" falloff2="1.0" falloff2_scatter="1.0" falloff2_mindist="0.5" falloff2_mul_x="1.0" falloff2_mul_y="1.0" falloff2_mul_z="0.5" falloff2_mul_c="0.0" falloff2_x0="0.0" falloff2_y0="0.0" falloff2_z0="0.0" falloff2_invert="0" falloff2_type="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FB9BAEF9B6B2EDC8ADE9E2BEE3E6B5DBFEC1E9EBC8EDECE3D3E6C9C9CCCEA8BD9B92B873
+88C45483DC3197F1449CF34CA0E661B2FB69BCF575BFEB72B2F577B7F580A9CD8DABB8A6
+F28EB3F887A0FD8998FF8791FF8590FE878EFA8786F78F87F39383F09E88A99FBBC899ED
+D2A9F0DCBAF4E4B9EDEDB8E7F4B8D8FCB8C9EE88B6E782BCE17CC3DF7CC6DE7DC9DD7AC8
+DC77C7DD76C4DF76C2F17EA5F2808CF38374EF8A73EC9173E9906EE79069CCB657CACD6A
+C8E47DC8F18BC8FF99C8FC9DC9F9A1CFF198B3E9849BC579A2BA92A9B0ABB6A8C4C4A1DD
+C7A3E0CAA5E4DBAAFDE6B7F5F1C5EDF2C0E5F4BCDDF5BEDCF7C0DBFBCFE1FED7DDFED3E0
+FDCDD5FDC7CBFDB6C0FDA6B5FDA1AFFE9DAADABC79B5BA7490B96F89B86283B85587BF56
+8BC6589CF24EA0FE4AA7E138ABDA39AFD33BB0D23BB1D13CB6C438B8CA44E69368EA8968
+EF8069F5887DFB9191FA9D9DFAAAA9FFBEC6F6BCD8E5C6FAEDD1FAF6DCFAF4E3FAF3EBFB
+FAF5F7FFFEF3E0D9EFDDD0E9DAC7E3DFD1E4E5DBE5CDD4CFD1E7C3D3F2BCC2FE8E91C267
+ACD675C8EB84CEEA8FD4E99BD4FFB0E6F6DEF5F5E9ECE9EDE3DDF2ECE3E9F6EAE0F6D9D0
+EAC9A7DBCB8AD6CD82CAEE8CC2E596BBDCA1C2D1BBBAAAD3C79FE5CB9CF0CB97F4C686F8
+C276FCC777F3CC79EAD277DDDE79C6F686A4F49588D3BB6BC8C15BBEC84CBAC845BEBF44
+CE9E43D98C48E78961E7916AE89973E79B74E79E75E6A176E6A479DEB47ADAC17EDACA88
+CACD9BBBD0AECECDD7D2B6E3D2AAEFCB9AF1A59CB69D9BA7969B9993AC827E9F6478AA4D
+79AF4A80A95D79A85078C92D8ADB2E9CEE2F9BF3329FE82EA8DB33B1D641C9CB67C6D46B
+C4DD6FC9D773CFD279D6C67BD7C279DFB880EFA48DE988BEDF93DDC796EDBF93E1BD91DF
+CD78E7D376D9ED80AFEC80B2EB81B59D9DA5A39BB3E378BAF07BA3FD8392FD8A8FFC9092
+F57E9EEB7BAFE678B5DA77CBD077E1CC79EBCC79EAD076DFD776D1E177BEF27DA2F88580
+EC9174E6996FE4A173E3AD7CEBB595F5A4C3DB8BDFD792EDD78DE7D67DDBD477D9D776D2
+DD76C4E177BFE778B3FF979F</palette>
+</flame>

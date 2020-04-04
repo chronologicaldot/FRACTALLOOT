@@ -1,0 +1,31 @@
+<flame name="Onion Glow" version="JWildfire 1.62 (26.05.2014)" size="455 341" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.7853981633974483" cam_yaw="0.2617993877991494" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.9" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" murl2="1.0" murl2_c="4.0" murl2_power="4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.5" symmetry="0.0" julian="0.5" julian_power="2" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" onion2="1.0" onion2_meeting_pt="0.5" onion2_circle_a="1.0" onion2_circle_b="1.0" onion2_shift_x="0.0" onion2_shift_y="0.0" onion2_shift_z="0.0" onion2_top_crop="0.0" onion2_stretch="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0 0.0" />
+  <xform weight="0.5" color="0.2" opacity="0.0" symmetry="0.0" nBlur="0.92" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.98" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" onion2="0.2" onion2_meeting_pt="0.5" onion2_circle_a="1.0" onion2_circle_b="1.0" onion2_shift_x="0.0" onion2_shift_y="0.0" onion2_shift_z="0.0" onion2_top_crop="1.2" onion2_stretch="0.45" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+CAFEF9C9FDF6C7FCF3C6FBF0C5FAEDC3F9EBC2F8E8C0F7E5BFF6E2BEF5DFBCF4DCBBF3D9
+BAF2D6B8F1D3B7F0D0B6EFCEB4EECBB3ECC8B2EBC5B0EAC2AFE9BFADE8BCACE7B9ABE6B6
+A9E5B4A8E4B1A7E3AEA5E2ABA4E1A8A3E0A5A1DFA2A0DE9F9FDD9C9DDC999CDB979ADA94
+99D99198D88E96D78B95D68894D58592D48291D37F90D27D8ED17A8DD0778BCF748ACE71
+89CD6E87CB6B86CA6885C96583C86282C76081C65D7FC55A7EC4577DC3547BC2517AC14E
+78C04B77BF4876BE4674BD4373BC4072BB3D70BA3A6FB9376EB8346CB7316BB62E69B52B
+68B42967B32665B22364B12063B01D61AF1A60AE175FAD145DAC115CAA0F5BA90C59A809
+58A70656A60357A50258A4025AA2025BA1025DA0025E9E025F9D02619B02629A02649902
+6597026796026895026993026B92026C91026E8F026F8E02708C02728B02738A02758802
+7687027886027984027A83027C81027D80027F7F02807D02817C02837B02847902867802
+8776028975028A74028B72028D71028E7002906E02916D02936C03946A03956903976703
+9866039A65039B63039C62039E61039F5F03A15E03A25C03A45B03A55A03A65803A85703
+A95603AB5403AC5303AD5103AF5003B04F03B24D03B34C03B54B03B64903B74803B94603
+BA4503BC4403BD4203BE4103C04003C13E03C33D03C43C03C63A03C73903C83703CA3603
+CB3503CD3303CE3203CE3103CC3303CA3403C83503C63703C33803C13903BF3A03BD3C03
+BB3D03B93E03B63F03B44103B24203B04303AE4503AC4603A94703A74803A54A03A34B03
+A14C039F4E039C4F039A50039851039653039454039255038F56038D58038B5903895A03
+875C03855D03825E03805F037E61037C62037A63037865037566037367037168026F6A02
+6D6B026B6C02686D02666F026470026271026073025E74025B7502597602577802557902
+537A02517C024E7D024C7E024A7F024881024682024483024184023F86023D87023B8802
+398A02378B02348C02328D02308F022E90022C91022A9302279402259502239602219802
+1F99021D9A021A9B02189D02</palette>
+</flame>

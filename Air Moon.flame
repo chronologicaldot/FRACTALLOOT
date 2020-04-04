@@ -1,0 +1,29 @@
+<flame name="Air Moon" version="JWildfire 2.00 R2 (12.10.2014)" size="473 355" center="0.0 0.0" scale="50.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" gaussian_blur="3.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0" />
+  <xform weight="10.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" auger="0.2" auger_freq="2.0" auger_weight="0.5" auger_sym="0.1" auger_scale="0.9" eMotion="1.0" eMotion_move="0.3" eMotion_rotate="1.2" coefs="0.9269314856921688 0.3752306235270635 -0.3752306235270635 0.9269314856921688 0.23612750885478162 -0.327954873409419" chaos="1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" eCollide="1.0" eCollide_num="50" eCollide_a="0.2" post_spin_z="0.75" post_curl="0.1" post_curl_c1="0.32" post_curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" eclipse="1.0" eclipse_shift="0.3" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0" />
+  <palette count="256" format="RGB" >
+B209D2B20DD0B210CEB214CDB318CBB31BC9B31FC7B322C5B326C4B32AC2B32DC0B431BE
+B435BCB438BAB43CB9B440B7B443B5B447B3B54BB1B54EB0B552AEB555ACB559AAB55DA8
+B560A7B664A5B668A3B66BA1B66F9FB6739DB6769CB67A9AB77E98B78196B78594B78893
+B78C91B7908FB7938DB7978BB89B8AB89E88B8A286B8A684B8A982B8AD80B8B07FB9B47D
+B9B87BB9BB79B9BF77B9C376B9C674B9CA72BACE70BAD16EBAD56DBAD96BBADC69BAE067
+BAE365BBE763BBEB62BBEE60BBF25EBAF05EB8EE5FB7EC5FB5EA60B4E860B3E761B1E561
+B0E362AEE162ADDF63ACDD63AADB63A9D964A7D764A6D565A5D465A3D266A2D066A0CE67
+9FCC679DCA689CC8689BC66899C46998C26996C06A95BF6A94BD6B92BB6B91B96C8FB76C
+8EB56D8DB36D8BB16D8AAF6E88AD6E87AB6F86AA6F84A87083A67081A47180A2717FA071
+7D9E727C9C727A9A73799873789774769574759375739175728F76708D766F8B766E8977
+6C87776B8578698378688279678079657E7A647C7A627A7B61787B617A7D617C7E617D80
+617F8261818361838561848761868961888A618A8C618C8E618D8F618F91619193619394
+629596629698629899629A9B629C9D629D9E629FA062A1A262A3A462A5A562A6A762A8A9
+62AAAA62ACAC62ADAE62AFAF62B1B162B3B362B5B462B6B662B8B862BAB962BCBB62BDBD
+62BFBF62C1C062C3C262C5C462C6C562C8C762CAC962CCCA63CECC63CFCE63D1CF63D3D1
+63D5D363D6D463D8D663DAD863DCDA63DEDB63DFDD63E1DF63E3E063E5E263E6E463E8E5
+63EAE765E8E467E5E069E3DD6CE1DA6EDFD770DCD372DAD074D8CD76D5CA79D3C67BD1C3
+7DCFC07FCCBD81CAB983C8B686C6B388C3AF8AC1AC8CBFA98EBCA690BAA292B89F95B69C
+97B39999B1959BAF929DAC8F9FAA8CA2A888A4A685A6A382A8A17FAA9F7BAC9C78AE9A75
+B19871B3966EB5936BB79168B98F64BB8C61BE8A5EC0885BC28657C48354C68151C87F4E
+CB7D4ACD7A47CF7844D17640D3733DD5713AD76F37DA6D33DC6A30DE682DE0662AE26326
+E46123E75F20E95D1DEB5A19</palette>
+</flame>

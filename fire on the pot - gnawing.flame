@@ -1,0 +1,30 @@
+<flame name="Synth - 6995801" version="JWildfire 1.20 (19.01.2014)" size="332 332" center="0.0 0.0" scale="85.74794201646388" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="25.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" estimator_enabled="0" estimator_radius="0.7" estimator_minimum="0.0" estimator_curve="0.36" estimator_kernel="GAUSSIAN" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="1.2566370614359172" cam_yaw="0.3316125578789226" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" resolution_profile="1000x1000" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" >
+  <xform weight="1.0" color="0.0" symmetry="-1.0" synth="1.0" synth_a="1.0131925339060817" synth_mode="3" synth_power="-0.2" synth_mix="1.0" synth_smooth="0" synth_b="0.5695183968788656" synth_b_type="0" synth_b_skew="0.0" synth_b_frq="6.0" synth_b_phs="2.688666702086579" synth_b_layer="3" synth_c="0.06744619034615186" synth_c_type="1" synth_c_skew="0.0" synth_c_frq="13.0" synth_c_phs="2.3797832625674076" synth_c_layer="2" synth_d="0.0" synth_d_type="0" synth_d_skew="0.0" synth_d_frq="1.0" synth_d_phs="0.0" synth_d_layer="0" synth_e="0.0" synth_e_type="0" synth_e_skew="0.0" synth_e_frq="1.0" synth_e_phs="0.0" synth_e_layer="0" synth_f="0.0" synth_f_type="0" synth_f_skew="0.0" synth_f_frq="1.0" synth_f_phs="0.0" synth_f_layer="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0" />
+  <xform weight="1.0" color="0.43336619169921203" symmetry="0.8336762438053309" synth="0.7" synth_a="1.0131925339060817" synth_mode="1" synth_power="-1.0" synth_mix="1.0" synth_smooth="1" synth_b="0.5695183968788656" synth_b_type="0" synth_b_skew="0.0" synth_b_frq="6.0" synth_b_phs="2.688666702086579" synth_b_layer="3" synth_c="0.06744619034615186" synth_c_type="1" synth_c_skew="0.0" synth_c_frq="13.0" synth_c_phs="2.3797832625674076" synth_c_layer="2" synth_d="0.0" synth_d_type="0" synth_d_skew="0.0" synth_d_frq="1.0" synth_d_phs="0.0" synth_d_layer="0" synth_e="0.0" synth_e_type="0" synth_e_skew="0.0" synth_e_frq="1.0" synth_e_phs="0.0" synth_e_layer="0" synth_f="0.0" synth_f_type="0" synth_f_skew="0.0" synth_f_frq="1.0" synth_f_phs="0.0" synth_f_layer="0" noise="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0" />
+  <xform weight="1.0288734951914145" color="0.4394761409304639" symmetry="0.47363327105100383" boarders2="1.2035805126085515" boarders2_c="0.4" boarders2_left="0.65" boarders2_right="0.35" ztranslate="0.31" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0" />
+  <finalxform weight="0.0" color="0.0" symmetry="0.0" onion="1.15" onion_centre_x="0.0" onion_centre_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" symmetry="0.0" curl3D="0.7" curl3D_cx="0.15" curl3D_cy="0.7" curl3D_cz="0.05" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FFA263EA9D63D49764BF9264AA8C649487647F82656A7C655577653F71652A6C66156666
+0F6168235C6F3856754D517C624C827746898B418FA03C95B5369CCA31A2DF2CA9F326AF
+EB24A7D72399C4228BB1217D9D1F708A1E62761D54631C46501B383C192A29181D181810
+2326142D331738401A424E1D4D5B215769246276276D832A77912E829E318CAC348DB635
+81BC3176C22E6AC82B5FCF2753D52448DB213CE11E31E71A25EE171AF4140EFA111DF418
+31EB2145E22B59D9346ED03E82C84796BF50ABB65ABFAD63D3A46DE79B76F6937DEC8B74
+E1846CD77C64CC755CC26E54B7664CAD5F43A2583B9850338D492B8341238445288E5338
+996047A36E57AE7B67B88977C39687CDA497D8B1A7E2BFB7EDCCC7F7DAD7F0CDCAE7BDBA
+DEADAAD59D9ACC8D8AC37D7ABA6D6AB15D5AA84D4A9F3D3A962E2B8D2423862D307E363C
+773F49704856685163615A705A627D536B8A4B7497447DA43D86B13A8FB63999B538A3B4
+38ADB337B6B236C0B235CAB135D4B034DEAF33E7AF33F1AE32FBAD40F3A84EECA45CE49F
+6ADD9A78D59586CE9194C68CA2BF87B0B782BEAF7ECCA879D29F77CA9579C28B7BBA817D
+B2787FAA6E82A264849A5A8691508889468A813C8C79328E7435906F3E916A4792655093
+6059935B6294576B955273964D7C97488598438E9940979A519F9661A89271B08E81B88B
+91C187A1C983B2D27FC2DA7BD2E378E2EB74F2F370F9F46AF5EB62F0E259ECDA51E8D148
+E4C840DFBF38DBB72FD7AE27D2A51ECE9C16CA940EC19517B69924AC9D31A2A13E97A54B
+8DA95883AD6578B1726EB57F64B98C59BD9953BFA45CB9A465B4A46EAEA577A9A580A3A5
+899DA59298A59C92A5A58DA6AE87A6B782A6B682A0AB8794A18C8997927D8D9772839C67
+79A15B6FA75065AC445BB13951B62D47BC2249AE2E4D9E3C518F4B547F595870675B6076
+5F51846341936631A16A22AF6D12BE7109C77611C47C1AC18122BE862ABB8B32B8903AB5
+9542B29A4BAF9F53ACA45BA9A963A6A36AA89770AD8C76B2807CB77481BD6887C25C8DC7
+5093CC4499D1389FD62CA5DB</palette>
+</flame>

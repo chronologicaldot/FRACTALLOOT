@@ -1,0 +1,30 @@
+<flame name="Snowy Mud Bubbles" version="JWildfire 2.00 R2 (12.10.2014)" size="473 355" center="0.344 0.0" scale="150.00003722121548" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.725" cam_pitch="1.1519173063162575" cam_yaw="0.3141592653589793" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" preserve_z="1" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="5.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" sphericalN="1.0" sphericalN_power="3.0" sphericalN_dist="1.0" zscale="-0.532" coefs="0.5000000000000004 0.8660254037844387 -0.8660254037844387 0.5000000000000004 1.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bubble="0.168" ztranslate="0.064" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bubble="0.204" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -1.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.0" julian="0.02" julian_power="3" julian_dist="1.0" post_rotate_y="1.0" post_spin_z="-0.568" post_ztranslate_wf="0.132" coefs="0.1 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.25 -0.25" chaos="1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" falloff2="1.0" falloff2_scatter="1.0" falloff2_mindist="0.5" falloff2_mul_x="1.0" falloff2_mul_y="1.0" falloff2_mul_z="0.0" falloff2_mul_c="0.0" falloff2_x0="0.0" falloff2_y0="0.0" falloff2_z0="0.0" falloff2_invert="0" falloff2_type="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+B9454BB6433EC25532C47A1EDD9F07E2A106DCA306EABB25BE843BCF9C3BBA8028BB8213
+BC8124BA731CA26C209A6E2D735B306264415D613E5A5D4046513F474A394B4E32604A28
+6B502B965137B25C32BD5850BA6966AF8A79C3977CCD9987BBB38DBFD2A2D1DFB6E4EAD0
+E4E1D0DBDDCFD2D4C5CECEC3BCC6BDBCC2B2B7BBA0B7BF9BBABA90B9B08DBFAF88BFA37C
+A8AA6F9BB86B91B16178A84B71954E75A15079AB5286B26098BE6F91C28396B485A4B384
+A7B180B2B08BA9A684A29D819C92779A92769A8375966D67AB5D5AB9665CC56660C1685F
+B75452AD4740AD413FA03A2B9D3026780405261E09201A0C1F190E2F301C3F341A5E3F14
+63421673581C7962219E6F30B0813DB9791EC0941DAD7C22C06B02C06203B95B02A15909
+9E59169A60207A562E7155256B5E2958533C4B5032445036414E3A3F47353B42283A3328
+3C44253137253F41253E402A42493446503A505A4A505F54555D475E654662624360644D
+676F5268735F6F705B686D575D71534C6E54435D5E4555594B5A4A4E5140484B39464938
+4447325C48216C3B158A4D0DA15005A041009A36008A2202372A05140E060E090418190C
+21271E2D2D232D3028333E313C4A373F4D3F3B67404B804659954F609D6965AF897BBB93
+7CC29289BD906EB18873B57F70B08177A2955BAA88549877439874348C74318D792E8675
+1C776B2A58452F4B3D21322D11180D193225333C39384647326C543C78654E6D685B6E80
+777B67838D6C8B936B8C906681825881785A8E7745A27A38AB7F40B37F45946B42856746
+6B65445C743753663E4E7F3645843F4D894C559048599A5167A14862A34C659C5062A472
+6BB14F6AA27678A47280968681A08D8AA39A8CAA9D8EAAA081A7AA98B4A8A0B39EADBE9D
+ACC1ACADC9B5B7CDBFB4C6C0BBCACCBFCAC4CED1BCD3D5C4D1D6BED3D0BDC8C9B9C5C7B6
+CCC6A2C4BE9FBEC088B3BE7AB5B272B8A37AAF9C78AC9C78AB9C7E93927F8497878D9E8B
+999A8D9A9583949E72969671888E71807A607A776272795F71755A6A6B52705E55825F57
+965C51A75B5CB44E48B54A4B</palette>
+</flame>

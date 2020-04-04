@@ -1,0 +1,30 @@
+<flame name="Rebuilding Piethein21's Forest" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="150.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="4.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" hemisphere="1.0" coefs="0.5 0.0 0.0 0.5 0.0 0.0" post="1.0 0.0 0.0 1.0 1.0 0.0" chaos="0.0 0.0 1.0 0.0 0.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" hemisphere="1.0" radial_blur="0.01" radial_blur_angle="0.0" coefs="0.25 0.0 0.0 0.25 0.0 0.0" post="1.0 0.0 0.0 1.0 -1.0 0.0" chaos="0.0 0.0 0.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" curl="1.0" curl_c1="-0.5" curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" curl="1.0" curl_c1="0.5" curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" spherical="2.0" pre_curl="1.0" pre_curl_c1="0.0" pre_curl_c2="0.0" coefs="0.3910437117343624 0.47307821745747936 -0.47307821745747936 0.3910437117343624 0.04919323101141271 0.07378984651711909" chaos="1.0 1.0 0.0 0.0 0.0" />
+  <palette count="256" format="RGB" >
+497D544D8D53599253689A5E6DAA6792C671A2D684B6E2A0C6EAA0CEEAA9DAF2B2DEEEA9
+DAE296DEE68DDAE683D2DE83CEDE7ABEDB71CBE27ACEE267DAE25ED3DE5EC6DE4BAAD25E
+AACE6796C27189AE7179AA6781AE7181B67192C684A2DEA0B6DAA9D2EAC5E6F6CEE6F6D8
+E6F2CFDEEAC5D6EEBCD6EAA9D6E696D2E683C6E67ABADB7AAACE7A9AC67189B6557DB24B
+79AA5489995E8DAE5EA2B671C1C98DCDCDB2DEE6C5EAFACEF6FEC5FEF1A9F6EA9FF2FA70
+E6EE5EDEEA70C6DE71BEDB67C6CE67BAD667AED671A6DA71B6D671BADB7AC6E284CAE296
+DEDEA0EEEA9FF6E9A9E2EEB2D2EAA9C6EAA0C6E696CAE284CFE67AC6E27ABADE71B2D667
+A6CE67A6CA5E96BE548DBA4B99AE42A5A94296B6559EC25EA2C267A2CE679ECE67A6D271
+A2CA71A2D27AA6D6719ECE5E8EC25581AE5579A64B79AE4B799D4B81A24B9A9425899D4B
+6D9A4B79A26789AA84A6C697B2DAA9B6D6B3B9D2B3B2DAA99AC68D7DB27A7DBA7192C267
+96C26796C2679AC25E92C6558EC2558EB6558DB65492C24B96C24B9AC64B9EC238AAC638
+A2CE42BED24BE6BB1CFEC609F2D025F2E14BF6ED70DEF29FE2EEB2F2F2CFF6F2D8F6F6E1
+F2F2E1F2F1D8E2F2BCCEEAB3C2E296B2D684A2D27A81C26775A6556D954165994B59964A
+619E4B65A25471AA5589C25E9ACE67AACE5EBDC154EED041FEE454FEE966FEDD5DE6CD5E
+B6CE7199B17A719A5E64965E54815D49794B4175413D71383C6D3841712F3D6D38416D38
+4171384575414D81415D8D415D964A719E5585AA5592BE6796BE7A9DBE849ECA84A2D284
+AEDB7ABADE7AC6E696CEE6A9D6E6B3DEEAC5E6F6D8EEEDE1EEEAEBEEEED8E2EEBCD6E6A0
+C2DA8DBEC683AEC67AAECA7AAED67AB6DB7AC2D684C6E2A0CAE2A0CAE2A0BEDEB3BEDEB3
+C2E6B3CAE6B2D6EAB2DEE6B3DAEAB2D2E6A9CEDAA9B6DEA09AC28D81AA71659A5D518D53
+5185534D7D4A49794A45814149794A4D814A6D854B61924B6C9A5E7DB26796CA71A6D27A
+BADE8DC2DE97C2DA97B6DA97A2DA83AAD67AAED27AB6D27ABAD67ABED67AC2DA84C6E68D
+CAE696CFE68DCADA83BECE7A</palette>
+</flame>

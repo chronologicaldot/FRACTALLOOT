@@ -1,0 +1,33 @@
+<flame name="The Adder's Last Prayer" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="150.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="10.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.5" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="13.0" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.977" elliptic="1.0" coefs="4.8985871965894137E-17 0.8 -0.8000000000000002 4.8985871965894137E-17 0.0 0.0" post="1.0 0.0 0.0 1.5 0.0 0.0" chaos="1.0 10.0 1.0 1.0 10.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.8" wedge="1.0" wedge_angle="3.14159265" wedge_hole="0.0" wedge_count="1" wedge_swirl="0.0" pre_blur="0.1" pre_curl="1.0" pre_curl_c1="0.24" pre_curl_c2="0.0" coefs="-0.6400000000000006 3.1796787425264497E-16 -3.1796787425264497E-16 -0.6400000000000006 -2.0 0.0" post="1.0 0.0 0.0 0.25 1.0 0.0" chaos="1.0 10.0 1.0 1.0 10.0 1.0" />
+  <xform weight="0.1" color="0.3" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="0.2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.01 0.0 0.0 2.0 1.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.1" color="0.3" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="0.2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.01 0.0 0.0 2.0 -1.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.8" wedge="1.0" wedge_angle="3.14159265" wedge_hole="0.0" wedge_count="1" wedge_swirl="0.0" pre_curl="1.0" pre_curl_c1="-0.13" pre_curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.5 0.0" post="-1.0000000000000002 -1.2246467991473535E-16 1.2246467991473535E-16 -0.75 -1.0 0.0" chaos="1.0 10.0 1.0 1.0 10.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julian="100.0" julian_power="-1" julian_dist="1.0" coefs="0.2 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julian="1.0" julian_power="2" julian_dist="1.0" coefs="2.2204460492503136E-16 1.0000000000000002 -1.0000000000000002 2.2204460492503136E-16 0.0 0.0" post="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" curl="1.0" curl_c1="0.2" curl_c2="0.0" coefs="0.9564492297729664 0.29189873392445387 -0.29189873392445387 0.9564492297729664 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+E097910C08070C06040D05021006011408001304001300001C00001E0300200700270700
+2F070034030C3A00184204184B0819492C2E3A847E2CDCCF32E0CC38E4CA4CEEA560F881
+9AC8C8C3E3DCEDFFF1F6EEF7FFDEFEFFD3E3FFC8C9FAB967FBEF05B4FA0EC4D011D4A615
+B8A9159CAC15A9C51FB7DE297CB4007C991E7C7E3DA16A1EC65600CA5510CE5520BB3A24
+BD2B366400106717086B2E00626E005AAE0064D6246FFF4890C551C38E5AF75763E43A64
+D11D66DC2359E7294DBD452CB646215118044D17024A16004418003E1A00482507483C30
+907075A4887EB9A187BAB08BBCBF90B7B683B2AD76B79476B69C69DA9037D0693DC74243
+D44A47E1524CDD3B6CD35487A815BD7221B33D2DA9462A6C502830411723241D24292019
+310A0D10070008040001010101010101010108000512000033090A5617277A25448A3B53
+9B5162A77282C993ADF1D3D3FFE0DBF0A391D89291C081928F675B604F4860433B705051
+827471857670897870867F72848774988A81AE9A99B59D9BB1A690948A669B8A62A38B5F
+D7AB2ECAC70AAEF5117EEA0919BF031B9A011D7600186500135500102600381D02528900
+169E003DB7004DA2075D8E0E86421B6D2F346730295C312B9D6E52A78A64B1A776C1BBAB
+FFE0F1FFFBEAFFFFF2FFF6F3FFE0FFD5E0B6C0D4B3ACC8B19F988E727584424E4A2B5A46
+3719003510003308012C00003100112D002C2B07373800724B23A75E4EC8597FCA55A0BD
+89A76793855E856C658A5F59853431871E338A08368100479000479E2B8A9F4195A56A7C
+C48077A1726CAB485AB7426EE64F48FC6611EE1F0FE8151CDA2126DB2017C10D0E650100
+6000005312005202035100085000004B00013401001D05031B00001D0000290000430008
+5D01027B0A28B23D46D88DA4DDC2C7FFF0F1FFFCE4DFEABFC6ABA0A87558904C296D371B
+5014164D140B3D0D093D0A073307083900003700003200002A08001C09001310000E0603
+0A01000006000006020101010E00001100001202030E0000050004000007010506070707
+1819003B3A258E665AFFAF9C</palette>
+</flame>

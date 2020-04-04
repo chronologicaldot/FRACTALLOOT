@@ -1,0 +1,30 @@
+<flame name="Flor de Lie" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="141.1764705882353" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="30.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="X_AXIS" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="0.0" post_symmetry_rotation="0.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="1.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="1.0" coefs="6.123233995736766E-17 1.0 -0.75 6.123233995736766E-17 0.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 2.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -2.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" stripes="1.0" stripes_space="0.5" stripes_warp="0.6" pre_blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="4.0 0.0 0.0 4.0 2.0 0.0" chaos="1.0 0.0 0.0 1.0"/>
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" wedge="1.0" wedge_angle="3.14159265" wedge_hole="0.0" wedge_count="1" wedge_swirl="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+FFF7EAFFF7EA930C098740067E790774B2076AEA08F7F6DEFFF7EAF85F37E04221C73018
+AD1D0F940A06F3DDD1FFF7EA7DEE2489CC0FACA618D08020F35A28FEDCCAFFF7EAA5332E
+89360680700776A8076CE108DEF5B9FFF7EAFA7A56E44622CB3319B22010980D07E1B6AB
+FFF7EA95F04983D20EA6AD16CA861FED6026FDC2ABFFF7EAB75A548B2D06816607789F07
+6ED808C6F393FFF7EAFB9576E94924CF361BB623129C1009CF8E86FFF7EAAEF26E7DD90C
+A1B315C48D1DE76625FCA78BFFF7EAC981798C2405835D067996076FCE07AEF26EFFF7EA
+FCB096ED4C25D3391CBA2613A0130ABD6760FFF7EAC6F39378DF0B9BB913BE931CE16D24
+FA8C6BFFF7EADBA99F8E1A058453067B8C0771C50795F049FFF7EAFDCAB5F14F27D83C1E
+BF2915A5160CAB403BFFF7EADEF5B972E50A95BF12B8991BDC7323F9714CFFF7EAEDD0C4
+8F1105864A067D830773BC077DEE24FFF7EAFEE5D5F55228DC3F1FC32C16A91A0D991915
+FFF7EAF7F6DE6CEB088FC610B2A019D67921F8572CFFF7EAFFF7EA920A078740067E7A07
+74B2076AEB08F8F7DFFFF7EAF85E35E04221C72F18AD1D0F930A06F4DFD3FFF7EA7BEE22
+8ACC0FACA618D07F20F35A28FEDECCFFF7EAA4312C89370680700776A9076CE108E0F5BA
+FFF7EAFA7955E44522CB3319B22010980D07E2B8ADFFF7EA94F04884D20EA7AC16CA861F
+ED6027FDC3ACFFF7EAB658528A2D0681670778A0076ED808C7F395FFF7EAFB9474E84924
+CF361BB623129C1009D09088FFF7EAACF16D7ED80CA1B315C48C1DE76625FCA88DFFF7EA
+C880788C2405835D067996076FCF07AFF270FFF7EAFCAE94ED4C25D3391CBA2613A0130A
+BE6962FFF7EAC5F39278DE0B9BB913BE931CE26C24FA8D6DFFF7EADAA79D8E1B05845406
+7B8D0771C50796F04BFFF7EAFDC9B4F14F27D73C1EBE2915A5160CAC423CFFF7EADDF5B7
+72E50A95BF12B8991BDC7323F9734DFFF7EAECCEC38F1105864A067D830773BC077EEE26
+FFF7EAFEE4D3F55228DB3F1FC32C16A9190D9A1B17FFF7EAF6F6DC6CEB0890C510B29F19
+D67921F8582EFFF7EAFEF5E8  </palette>
+</flame>

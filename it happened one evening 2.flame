@@ -1,0 +1,33 @@
+<flame name="It happened one evening" version="JWildfire 1.90 (24.08.2014)" size="415 311" center="0.0 0.0" scale="150.00041627172658" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="1.0" coefs="1.0 0.0 0.0 1.0 0.0 -2.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 3.0 0.0" chaos="1.0 10.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -3.0 0.0" chaos="1.0 1.0 10.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 5.0" chaos="5.0 10.0 10.0 10.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.5 0.0 0.0 2.0 1.5 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -5.0" chaos="5.0 10.0 10.0 10.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" foci="1.0" coefs="0.8784469385982041 -0.4778399063153278 0.4778399063153278 0.8784469385982041 0.009148851819096082 0.2836144063919977" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julian="0.904" julian_power="2" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+8026F6852DF18934EC8E3BE79342E29849DD9C50D8A157D3A65ECEAB65C9AF6CC4B473BF
+B97ABABD81B6C288B1C78FACCC97A7D09EA2D5A59DDAAC98DFB393E3BA8EE8C189EDC884
+F1CF7FF6D67AF5D775ECCF71E3C86CDAC067D1B963C8B15EBFAA5AB6A255AD9A50A4934C
+9B8B47928442897C3E807439776D356E6530655E2B5C5627534F224A471E413F19383814
+2F301026290B1D2107141A02191A03221C062B1F0834210B3D230D4626104F2812582A15
+612D176A2F1A73311C7C341F8536218D3824963B269F3D29A83F2BB1422EBA4430C34633
+CC4935D54B38DE4D3AE7503DF0523FF65541F1583EED5B3CE85F3AE36237DF6535DA6933
+D66C31D16F2ECC732CC8762AC37928BE7D25BA8023B58321B0861FAC8A1CA78D1AA29018
+9E9416999713949A11909E0F8BA10C87A40A82A80883AA0887AB0B8CAC0D91AE0F95AF11
+9AB0139FB116A3B318A8B41AADB51CB1B61FB6B821BBB923BFBA25C4BB28C9BD2ACDBE2C
+D2BF2ED6C030DBC233E0C335E4C437E9C539EEC73CF2C83EF7C940F5CB3FF2CD3EF0CE3D
+EDD03CEBD23BE9D43AE6D539E4D738E2D937DFDB35DDDC34DADE33D8E032D6E231D3E330
+D1E52FCEE72ECCE92DCAEA2CC7EC2BC5EE2AC3F029C0F128BEF327BBF526B9F425B5EF23
+B1EA22AEE521AAE120A6DC1EA3D71D9FD21C9BCD1B98C81994C31891BE178DB91689B514
+86B01382AB127EA6117BA10F779C0E74970D70920C6C8E0A698909658408617F075E7A05
+5D7B055D7D055D7F055D82055D84065D86065E88065E8B065E8D065E8F065E91065E9406
+5E96075E98075E9B075E9D075E9F075EA1075EA4075FA6075FA8075FAA085FAD085FAF08
+5FB1085EB2085BAB0B57A40D549D105096124C8F15498817458219427B1C3E741E3A6D21
+376623335F263058282C512A284B2D25442F213D321E36341A2F3716283913213B0F1A3E
+0C1440080D430406450905461208451C0B44250E432F12433815424218414B1B40551E40
+5E213F68253E71283D7B2B3D842E3C8E313B97343AA1383AAA3B39B43E38BD4137C74437
+D04736DA4B35E34E34ED5134</palette>
+</flame>

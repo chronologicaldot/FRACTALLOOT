@@ -1,0 +1,30 @@
+<flame name="Difference of Opinion" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="1260 980" center="0.0 0.0" scale="171.18799309971834" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="10.0" background="1.0 1.0 1.0" bg_transparency="1" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.0025" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.3" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.41" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.998" eCollide="1.0" eCollide_num="2" eCollide_a="0.96" post_crop="1.0" post_crop_left="-2.0" post_crop_right="2.0" post_crop_top="-10000.0" post_crop_bottom="10000.0" post_crop_scatter_area="0.1" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 5.0 1.0 1.0" />
+  <xform weight="0.5" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.222" splits="1.0" splits_x="2.0" splits_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 1.0 0.0" />
+  <xform weight="200.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.98" spherical="1.0" eyefish="-0.015" coefs="0.7106813301301212 0.0 0.0 0.7106813301301212 0.0 0.0" chaos="1.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="0.908" radial_blur="0.2" radial_blur_angle="0.0" coefs="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="0.0 1.0 1.0 0.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" mobius="1.0" mobius_re_a="0.1" mobius_re_b="0.2" mobius_re_c="-0.15" mobius_re_d="0.21" mobius_im_a="0.2" mobius_im_b="-0.12" mobius_im_c="-0.15" mobius_im_d="0.1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+4E616C4A575A3D4A4C303D3F34434639494D40515547595E5C78815F85946292A75F97AF
+5D9DB7559EB64EA0B6479DB4419BB22C90AC2A8DA6298AA129809729768E276F88266882
+23496A243D5D2531502026481C1B4118173F14133D0F0E350D0A300C0B310B0F360B143B
+0D1B3E102342132845162E491E4363214968244F6D224E6A214E67204B651F48641C425B
+1839530B2A4209254008203F091E3A0A1C35081B33071B310B1E350E1E31111E2D121D2A
+131D2813202B13242F152D3A153745194E631C5D76206C8A247391287A993388A84193B0
+56A1BC5FA1BD69A2BE6EA0BB749FB8719DB66F9BB56694B15A8EAD4286A53784A12C829E
+27819F2281A01C83A21887A41C8AAA238BAB2A8CAD2E8DAE328EAF3794B23B99BB419DBF
+499CBF5A95B85B98B85C9CB85C9DB65C9FB45A9CAF5A91A453778B496D793F6467385F63
+325B5F2E4F5B2A465E25445E20435E15506B16547217597A186488196E9417789C167F9F
+187D9C1878991973971A71951B6F941D69921E67901F68901E6B931F7198207197217297
+23759523768F23768B1D7387166A8117677E19647B18647B17657C12647D0D68840B6C88
+0B708D0D72940E70930F6F9212688D166387195F821D5E822E5D82325E823660833C6383
+3F6A873E708C3F7592417C9548849A5890A55B92A95E94AE6597B2719EB77AA2BC84A4BF
+88A4BF87A2BD86A0BB7F98B2768EAD6B87A76380A05E7D9E5C79985774945273924F6E8F
+4A6C8C476585425878394E672736482230401D2B39151C2A0D0F1F09071D0909220A102C
+0F1935142441182D531B3D661D4C7A1E5B8823678F296F9630779C3880A3418AA94A91AE
+5599B3629DB96FA3BE7DAAC28BB0C695B9CB9DBCCFA3C2D5A6C5D8AACADCAACFE0AACEE0
+ADD0E1ADCDDFADCCDDA9CBDDA0C6D999C0D28FB3C382A1B0748E9A65798458676F4C5659
+3B43472A34381C27311923321A2535202B3E2835492B425933516E3C5D7E486B8D577898
+6384A06D91AB7598B17A9EB67CA2B77EA3B77CA5B97BA7BD7DA9C280ACC482AFC586B3C8
+87B5C9749DB365879C566F81</palette>
+</flame>

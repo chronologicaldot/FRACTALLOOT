@@ -1,0 +1,37 @@
+<flame name="Crack in the Carpet" version="JWildfire 1.61 (01.05.2014)" size="455 341" center="0.0 0.0" scale="28.427083333333336" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="1.0" color="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="3" nBlur_numStripes="2" nBlur_ratioStripes="0.5" nBlur_ratioHole="0.3" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 10.0 10.0 10.0 10.0 10.0 10.0 10.0 0.0 1.0 10.0 10.0" />
+  <xform weight="1.0" color="0.1" symmetry="0.0" pie="1.0" pie_slices="12.0" pie_rotation="0.4" pie_thickness="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="10.0 1.0 10.0 10.0 10.0 10.0 10.0 10.0 0.0 1.0 10.0 10.0" />
+  <xform weight="1.0" color="0.5" symmetry="0.0" pre_blur="1.0" voron="1.0" voron_k="0.5" voron_step="0.5" voron_num="2" voron_xseed="3" voron_yseed="7" pre_circlecrop="1.0" pre_circlecrop_radius="1.0" pre_circlecrop_x="0.0" pre_circlecrop_y="0.0" pre_circlecrop_scatter_area="0.0" pre_circlecrop_zero="1" post_crop="1.0" post_crop_left="-2.0" post_crop_right="2.0" post_crop_top="-1.2" post_crop_bottom="1.2" post_crop_scatter_area="0.0" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="2.0 0.0 0.0 1.0 0.0 0.0" chaos="10.0 10.0 100.0 10.0 10.0 10.0 10.0 10.0 0.0 1.0 10.0 10.0" />
+  <xform weight="10.0" color="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 6.0 0.0" chaos="1.0 1.0 1.0 10.0 0.0 10.0 10.0 10.0 0.0 1.0 10.0 10.0" name="shift right" />
+  <xform weight="10.0" color="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -6.0 0.0" chaos="1.0 1.0 1.0 0.0 10.0 10.0 10.0 10.0 0.0 1.0 10.0 10.0" name="shift left" />
+  <xform weight="1.0" color="0.0" opacity="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 -3.0" chaos="1.0 1.0 1.0 0.0 0.0 10.0 0.0 10.0 0.0 1.0 10.0 10.0" name="shift up" />
+  <xform weight="1.0" color="0.0" opacity="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 3.0" chaos="1.0 1.0 1.0 0.0 0.0 0.0 10.0 10.0 0.0 1.0 10.0 10.0" name="shift down" />
+  <xform weight="10.0" color="0.0" symmetry="0.0" bipolar="6.0" bipolar_shift="0.0" post_crop="1.0" post_crop_left="-3.0" post_crop_right="1.5" post_crop_top="-6.0" post_crop_bottom="3.0" post_crop_scatter_area="0.02" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 -1.0 -1.0" post="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 2.5 -3.0" chaos="10.0 10.0 10.0 0.0 0.0 0.0 0.0 0.0 100.0 1.0 0.0 0.0" />
+  <xform weight="3.0" color="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 1.2246467991473532E-16 -1.2246467991473532E-16 -1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 1.0 0.0 0.0" name="bipolar shift" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" nBlur="1.5" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.8" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" post_crop="1.0" post_crop_left="-1.0" post_crop_right="1.0" post_crop_top="-1.5" post_crop_bottom="1.5" post_crop_scatter_area="0.0" post_crop_zero="1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="3.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 10.0" name="mid border" />
+  <xform weight="2.0" color="0.0" symmetry="0.0" linear3D="0.5" post_crop="1.0" post_crop_left="-3.6" post_crop_right="1.0" post_crop_top="-1.0" post_crop_bottom="1.0" post_crop_scatter_area="0.02" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 -1.5 -2.5" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 1.0 0.0 1.0" name="stripe" />
+  <xform weight="3.0" color="0.0" symmetry="0.0" murl2="4.0" murl2_c="4.0" murl2_power="5" post_crop="1.0" post_crop_left="-3.48" post_crop_right="2.0" post_crop_top="-2.5" post_crop_bottom="2.0" post_crop_scatter_area="0.02" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 1.224646799147353E-16 -1.224646799147353E-16 -1.0 -6.0 -4.0" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 1.0 1.0 0.0 0.0" />
+  <palette count="256" format="RGB" >
+FFCB00FFC800FFC400FFC200FFBF00FFBD00FFB900FFB800FFB600FFB000FFB000FFAB00
+FFA900FFA700FFA400FFA000FF9B00FF9900FF9600FF9400FF9200FF8D00FF8B00FF8600
+FF8400FF8000FF7F00FF7D00FF7700FF7600FF7000FF6D00FF6B00FF6700FF6400FF5E00
+FF5B00FF5700FF5400FF5200FF4D00FF4900FF4400FF4000FF3B00FF3500FF3400FF2E00
+FF2B00FF2500FF2200FF1B00FF1700FF1400FF0700FF0700FF0000FF0000FF0000FF0000
+FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000
+FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000
+FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0000FF0400FF0400FF0400
+FF0700FF0700FF0700FF0D00FF1000FF1400FF1400FF1400FF1700FF1700FF1B00FF1B00
+FF1B00FF1E00FF1E00FF2200FF2500FF2700FB2700F92700F62700F12B00EF2B00EB2E00
+E92E00E83000E43000E23000E03400D93900D63900D23900D03900D23B00D04000D44600
+D64900D45000D65200D85400D65B00D85E00D96000D86200D96900DB6B00D96D00DB7200
+DD7400DD7600DF7D00E07F00DF8000E08600E28700E08B00E29000E49200E29400E49600
+E69B00E69D00E89F00E9A400E9A600E9A900E9AD00EBAF00EBB200EBB600EDB800EDBB00
+EDBF00EFC000EFC200F1C400F1C800F1CB00F2CD00F4D000F4D200F6D400F6D800F6DB00
+F8DD00F8E000F8E400F9E600F9E900F9E900FBEB00FBED00FBF200FBF400FDF600FDFB00
+FFFB00FDFB00FDF600FBF400FBF200F9ED00FBEB00F9E900F8E800F6E600F8E400F6DF00
+F4DD00F2DB00F4D600F2D400F1D200F1D000F1CD00EFCB00EDC800EBC400EBC200EBBF00
+E9BD00E8BB00E9B600E8B400E6B200E6AF00E6AB00E4A900E2A700E2A400E29F00E09D00
+DF9900DD9700DF9600DD9000DB8F00D98D00D98600D88400D68200D67F00D67900D47700
+D47400D27200D26D00D26900D06700CF6400D06000CF5B00CD5900CB5400CB5000C94D00
+C94900C84600C84000C83B00</palette>
+</flame>

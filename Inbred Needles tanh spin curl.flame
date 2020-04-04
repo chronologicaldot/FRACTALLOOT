@@ -1,0 +1,35 @@
+<flame name="Inbred Needles - tanh spin" version="JWildfire 1.90 (24.08.2014)" size="415 311" center="0.6 0.0" scale="177.85954411" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.0" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 0.5 0.0 -1.0" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.0" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 -2.7755575615628914E-17" post="1.0 0.0 0.0 1.2 0.0 0.7499999999999999" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="1.0" coefs="100.0 0.0 0.0 1.0 0.0 -2.0" chaos="1.0 1.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" scry2="1.0" scry2_sides="4" scry2_star="0.0" scry2_circle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 50.0 0.0 -20.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -6.0" chaos="1.0 1.0 1.0 1.0 2.0 0.0 1.0 1.0 1.0" name="shift up" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 6.0" chaos="1.0 1.0 1.0 1.0 0.0 2.0 1.0 1.0 1.0" name="shift down" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 2.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0 1.0 1.0 0.0 1.0" name="shift right" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -2.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0 1.0 0.0 1.0 1.0" name="shift left" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" scry2="0.528" scry2_sides="4" scry2_star="0.0" scry2_circle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="2.220446049250313E-16 1.0 -1.9 2.220446049250313E-16 0.0 0.0" chaos="1.0 1.0 0.0 0.0 0.0 0.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" tanh="1.0" post_curl3D="1.0" post_curl3D_cx="1.6" post_curl3D_cy="0.04" post_curl3D_cz="0.0" coefs="0.1563407545285859 0.16408608284305395 -0.16408608284305395 0.1563407545285859 -0.03659540727638744 0.04574425909548452" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FCCF55F9C952F5C44FF2BE4BEFB848EBB245E8AD42E5A73FE1A13BDE9B38DB9635D79032
+D48A2FD1842BCE7F28CA7925C77322C46D1FC0681BBD6218BA5C15B65612B3510FB04B0B
+AC4508A93F05A83E04AC4108AF450BB2490FB64D12B95016BD5419C0581DC35C20C76024
+CA6327CD672BD16B2ED46F32D77335DB7639DE7A3CE17E3FE58243E88646EC894AEF8D4D
+F29151F69554F99858FC9C5BF89959F19556EB9152E48C4EDD884BD78347D07F44CA7B40
+C3763DBC7239B66D36AF6932A9652FA2602B9B5C279557248E5320874E1D814A197A4616
+7441126D3D0F66380B603407593004552C01582C015B2C015F2C01622B01652B01692B01
+6C2B026F2B02732B02762A02792A027D2A02802A02832A02862A028A29028D2902902902
+9429039729039A29039E2903A12803A42803A82803AA2B03AC3003AD3403AF3903B03E03
+B24303B44703B54C03B75103B85603BA5B03BC5F03BD6403BF6903C06E03C27203C47703
+C57C03C78103C88503CA8A03CC8F03CD9403CF9803D09D03D2A203CA9C03C39603BB8F03
+B38903AC8302A47D029C77029570028D6A028564027E5E027657026E5101674B015F4501
+583F01503801483201412C013926013120012A19002213001A0D001307000E04030D070B
+0D0A120D0D1A0C10220C13290B16310B19380A1C400A1F480A224F09255709285E082B66
+082E6E07317507347D073785063A8C063D9405409B0543A30446AB0448B2044BBA034EC1
+0750C50D51C71352C91853CC1E54CE2355D02956D22F57D53458D73A59D93F5ADB455BDE
+4B5CE0505CE2565DE55B5EE7615FE96660EB6C61EE7262F07763F27D64F48265F78866F9
+8E67FB9167FB8B63F1865FE7815CDD7B58D37654CA7050C06B4CB66548AC6044A25B4098
+553C8E5038844A347B4531713F2D673A295D3525532F21492A1D3F2419351F152B191122
+140D180F090E0906040907000C0B001010001315001619001A1E001D2201212701242C01
+2730012B35012E3901313E013543013847013B4C013F5101425501455A01495E024C6302
+506802536C025671025A7502</palette>
+</flame>

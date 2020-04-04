@@ -1,0 +1,32 @@
+<flame name="Being Overlooked" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="82.66666666666666" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="100.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" glynnSim2="1.0" glynnSim2_radius="1.0" glynnSim2_thickness="0.3" glynnSim2_contrast="0.5" glynnSim2_pow="1.5" glynnSim2_phi1="280.0" glynnSim2_phi2="360.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 2.0 -1.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" glynnSim2="1.0" glynnSim2_radius="1.0" glynnSim2_thickness="0.3" glynnSim2_contrast="0.5" glynnSim2_pow="1.5" glynnSim2_phi1="280.0" glynnSim2_phi2="360.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 0.0 0.0 1.0 -2.0 -1.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="0.12" coefs="1.0 0.0 0.0 1.0 0.0 0.4" post="-1.0 1.2246467991473532E-16 -1.2246467991473532E-16 -1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <xform weight="0.1" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="3.0" radial_blur="2.0" radial_blur_angle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" arch="100.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.5" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="0.01" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julian="3.0" julian_power="4" julian_dist="0.8" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+F9D03BF8CA39F8C437F7BE35F6B833F5B231F5AC2FF4A62DF3A02BF39A29F29327F18D25
+F18723F08121EF7B1FEE751DEE6F1BED6918EC6316EC5D14EB5712EA5110EA4B0EE9450C
+E83F0AE73908E73708E83D0CE94310EA4914EA4F17EB541BEC5A1FEC6022ED6626EE6C2A
+EF722EEF7731F07D35F18339F2893CF28F40F39444F49A48F5A04BF5A64FF6AC53F7B256
+F8B75AF8BD5EF9C362FAC965FAC865FAC563FAC261FABF5FFABC5DFAB95BFAB65AFAB358
+FAB056FAAD54FAAA52FAA750FAA54FF9A24DF99F4BF99C49F99947F99645F99343F99042
+F98D40F98A3EF9873CF9843AF98138F88037F58537F28938EF8E38EC9338E99838E59D38
+E2A139DFA639DCAB39D9B039D6B43AD2B93ACFBE3ACCC33AC9C73BC6CC3BC3D13BBFD63B
+BCDB3CB9DF3CB6E43CB3E93CB0EE3CACF23DA9F73DA9F741AAF349ABF050ACEC58ACE85F
+ADE567AEE16EAFDD76B0DA7DB1D685B2D28CB3CF94B4CB9BB5C8A2B6C4AAB7C0B1B8BDB9
+B9B9C0BAB5C8BBB2CFBCAED7BDABDEBEA7E6BFA3EDC0A0F5C19CFCBA96F5B390EFAC8AE8
+A584E19E7EDB9778D49072CE886CC78166C07A60BA735AB36C54AC654EA65E489F574298
+503C9249368B4230843B2A7E3424772D1E7125196A1E1363170D5D1007560D035110044E
+13054B1605481906441C06411F073E22083B2508382809352A0A322D0A2F300B2C330B29
+360C26390D223C0D1F3F0E1C420F19450F164810134B10104E110D51120A531207561304
+5C150562160769180A6F1A0C751C0E7C1E118220138822158F241895261A9B281CA22A1F
+A82C21AE2D23B52F26BB3128C1332AC8352DCE372FD43931DB3B34E13D36E73F38EE413B
+F4423DF9443FF6463CF4473AF24938F04A36EE4C33EC4D31EA4E2FE8502DE6512BE35328
+E15426DF5624DD5722DB591FD95A1DD75B1BD55D19D35E16D16014CE6112CC6310CA640E
+C8660BC66709C46807BE6706B76206AF5E05A85A05A05605995205914E04894A04824604
+7A4204733E046B39036435035C3103542D034D29024525023E2102361D022E1901271501
+1F1001180C01100800090400  </palette>
+</flame>

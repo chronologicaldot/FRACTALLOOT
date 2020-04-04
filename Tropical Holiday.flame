@@ -1,0 +1,32 @@
+<flame name="Tropical Holiday" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="5.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="1.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" polar2="1.0" post_crop="1.0" post_crop_left="-1.0" post_crop_right="1.0" post_crop_top="0.0" post_crop_bottom="1000.0" post_crop_scatter_area="1.0E-7" post_crop_zero="0" coefs="3.766786188126009 -1.3458535629640915 1.3458535629640915 3.766786188126009 -0.5001311819493636 -1.94287026105208" chaos="1.0 1.0 1.0 1.0 0.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.8" polar2="1.0" post_crop="1.0" post_crop_left="-1.0" post_crop_right="1.0" post_crop_top="0.0" post_crop_bottom="10000.0" post_crop_scatter_area="0.01" post_crop_zero="0" coefs="3.6375000806271958 1.6639090009484139 -1.6639090009484139 3.6375000806271958 -0.008198871835235155 -0.9510691328873144" post="-1.0 -1.2246467991473532E-16 1.2246467991473532E-16 -1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.5" pre_blur="20.0" splits="1.0" splits_x="1.0" splits_y="0.0" coefs="4.0 0.0 0.0 4.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" julian="1.0" julian_power="6" julian_dist="4.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" splits="1.0" splits_x="1.0" splits_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 0.0 1.0" />
+  <xform weight="0.1" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" crackle="200.0" crackle_cellsize="1.0" crackle_power="0.2" crackle_distort="0.0" crackle_scale="1.0" crackle_z="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" spherical="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FBB55AF8B359F5B157F3AF56F0AE55EDAC53EAAA52E8A850E5A64FE2A44EDFA24CDCA04B
+DA9F4AD79D48D49B47D19945CF9744CC9543C99341C69140C3903FC18E3DBE8C3CBB8A3A
+B88839B58638B38436B08235AD8134AA7F32A87D31A57B2FA2792E9F772D9C752B9A732A
+977229947027916E268F6C248C6A2389682286662083641F81631E7E611C7B5F1B785D19
+765B187359177057156D55146A5413685211655010624E0E5F4C0D5C4A0C5A480A574609
+5445085143064F41054C3F03493D024A3E024A40024B41024B42024C44024C45024D4602
+4D48024E49024E4A024F4C024F4D02504E02505002515102525302525402535502535702
+545802545902555B02555C02565D02565F02576002576102586302586402596502596702
+5A68035B69035B6B035C6C035C6D035D6F035D70035E71035E73035F74035F7503607703
+607803617903617B03627C03637E03637F03648003648203658303658403668603668703
+678803678A03688B03688C03698E03698F036A90036A92036B93036D9304709305729307
+74930876930979920A7B920B7D920D7F920E82920F8492108692118892128B92148D9215
+8F921691911794911896911A98911B9A911C9D911D9F911EA19120A39121A69122A89023
+AA9024AC9025AF9027B19028B39029B5902AB8902BBA902DBC902EBE902FC18F30C38F31
+C58F33C78F34CA8F35CC8F36CE8F37D08F38D38F3AD58F3BD78F3CD98E3DDC8E3EDE8E40
+E08E41E28E42E58E43E78E44E98E46EB8E47EE8E48F08D49F28D4AF48D4BF78D4DF98D4E
+FB8D4FF98B4EF78A4DF5884BF3874AF18549EF8448ED8247EB8046E87F44E67D43E47C42
+E27A41E07840DE773EDC753DDA743CD8723BD6713AD46F38D26D37D06C36CE6A35CC6934
+CA6733C76631C56430C3622FC1612EBF5F2DBD5E2BBB5C2AB95B29B75928B55727B35625
+B15424AF5323AD5122AB4F21A94E20A64C1EA44B1DA2491CA0481B9E461A9C44189A4317
+984116964015943E14923D12903B118E39108C380F8A360E88350D85330B83310A813009
+7F2E087D2D077B2B05792A04</palette>
+</flame>

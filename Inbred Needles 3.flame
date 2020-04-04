@@ -1,0 +1,35 @@
+<flame name="Inbred Needles 3" version="JWildfire 1.90 (24.08.2014)" size="415 311" center="0.0 0.0" scale="50.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.0" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 0.5 0.0 -1.0" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="4" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.0" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" coefs="1.0 0.0 0.0 1.0 0.0 -2.7755575615628914E-17" post="1.0 0.0 0.0 1.2 0.0 0.7499999999999999" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0" />
+  <xform weight="1.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="1.0" coefs="100.0 0.0 0.0 1.0 0.0 -2.0" chaos="1.0 1.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" scry="0.98" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 2.0 0.0 -3.0" chaos="1.0 1.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -6.0" chaos="1.0 1.0 0.0 1.0 2.0 0.0 1.0 1.0 1.0" name="shift up" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 6.0" chaos="1.0 1.0 0.0 1.0 0.0 2.0 1.0 1.0 1.0" name="shift down" />
+  <xform weight="1.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 2.0 0.0" chaos="1.0 1.0 0.0 1.0 2.0 5.0 5.0 0.0 1.0" name="shift right" />
+  <xform weight="1.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -2.0 0.0" chaos="1.0 1.0 0.0 1.0 2.0 2.0 0.0 5.0 1.0" name="shift left" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" scry2="0.528" scry2_sides="4" scry2_star="0.0" scry2_circle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="2.220446049250313E-16 1.0 -1.9 2.220446049250313E-16 0.0 0.0" chaos="1.0 1.0 0.0 1.0 0.0 0.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cpow="1.0" cpow_r="1.0" cpow_i="0.0" cpow_power="1.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+D6C51DD3CC58CFC96ECCC684CBBD99CBB5AED0ADB0D6A6B3D7839ED27690CE6982CE6585
+CE6288CC7A92CB939DC5989DBF9D9EACB1A8A8AEA4A4ABA0A2A29AA09A959F9B959F9C95
+B3A7A7BBB5B4C3C3C2C3CDC4C3D7C7C1D6C2BFD6BDAFD1A5A2C48686AC567AA53C6E9F22
+7BA21689A50B91A80A99AB09B5B11DC5A929D5A135CBA74DC1AE66BCA961B7A55DBB9151
+BE9A44B9AF3FB3AA25AEA50CA39E089898058D9705839606608C036287016482006A8403
+718607748909778D0B768D0D74871051811D3D771E296D1F2167201961210C582103501F
+034B130850100D560E135B0A1960061A62041B6403206803256A052566092D6811356B1A
+4069214C6729635A3779493885523F8D503B954F38954F3296502C895F1F78741F6A7E19
+658012567D104677133671162D6D17246A19186620106122075429074F2B084A2D0E472A
+144528254B203B531B5061156A6510907D099382079688059486068080096E790C57700C
+285B111959130B57160B59160B5C160D5F161263161464191B671B196D1A176B1A156A1B
+14621D105A1E08561D04541D1758152A61113E6B0E4A710C56780B728A088B9D0499A902
+9EA60293A4038AA102829E026C8C025B7B004C73034673054A710E4D74115078155D851C
+6F912C7D983E7C9D4C7C9F4F80A14D6F9B466698445E9542558F394D8926418117377D11
+35781136760F37740E39760A3C7A083E7E083F7B073B77073673072E710C276A0F1C5F13
+1452150B4718063D1902361B002F1D002F1B002F190433150C3C101549101B540F225E12
+296611316F123776143D7B17407C1A3F7C18407E1945821D4A82264A802E4C84374E863F
+4885443B7C47347A4931764B2E73462A713C2D74323D76304B7830567D2D5A81295E8228
+5F8026577A244B73203C6B1D2D681B206018195B16165B141260151565171C671B2D6C20
+3F732E537F42658E5B799D6E8DA37698A97F96AD8589AF867CA877719D65649557568D49
+49873F4D853657863F6C88528092678EA06D98A962A5A458BFA755CCB14FD2BD3DD1BA21
+DCBA0CE5C101EAC601E2C709</palette>
+</flame>

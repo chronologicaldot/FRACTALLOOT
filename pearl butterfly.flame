@@ -1,0 +1,27 @@
+<flame name="Mandelbrot - 8507810" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="1260 980" center="0.0 0.45" scale="284.1380112869307" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="10.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="2.0" saturation="1.0" gamma="1.5" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.8552113334772214" cam_yaw="0.0" cam_persp="0.09066416554506562" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" preserve_z="1" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.272617384442734" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" fract_pearls_wf="1.0" fract_pearls_wf_max_iter="100" fract_pearls_wf_xmin="-2.0" fract_pearls_wf_xmax="2.0" fract_pearls_wf_ymin="-2.0" fract_pearls_wf_ymax="2.0" fract_pearls_wf_buddhabrot_mode="0" fract_pearls_wf_xseed="0.16606327526554154" fract_pearls_wf_yseed="0.7899797707820229" fract_pearls_wf_direct_color="1" fract_pearls_wf_scalez="3.3308521526097845" fract_pearls_wf_clip_iter_min="1" fract_pearls_wf_clip_iter_max="-5" fract_pearls_wf_max_clip_iter="3" fract_pearls_wf_buddhabrot_min_iter="7" fract_pearls_wf_scale="2.0" fract_pearls_wf_offsetx="0.0" fract_pearls_wf_offsety="0.0" fract_pearls_wf_offsetz="0.0" fract_pearls_wf_z_fill="0.0" fract_pearls_wf_z_logscale="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" butterfly="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0" />
+  <palette count="256" format="RGB" >
+18A6032BAB133EB02451B63463BB4576C05589C5669CCA76AFCF87C2D597D5DAA8E8DFB8
+FAE4C9FEE5CBFEE4CAFEE3C8FEE3C7FEE2C6FEE2C4FEE1C3FEE1C2FEE0C0FEDFBFFEDFBE
+FEDEBDFAE0BFF4E2C3EEE5C8E8E8CCE2EAD0DCEDD5D6EFD9D0F2DECAF5E2C4F7E7BEFAEB
+B8FDEFAFF8EEA0EBE391DDD983CFCE74C2C465B4B957A6AF4899A4398B9A2B7E8F1C7085
+0D627A0557701255671E525E2B5055384D4B454B425148395E46306B432777411E843E15
+913B0C9D39039840039447038F4D038A5403865B038161037D6802786E027375026F7C02
+6A82026689026192125C9B2457A43753AE494EB75C49C06E44CA8140D3933BDCA536E5B8
+31EFCA2DF8DD35F6D744EDC554E5B263DDA072D58E81CD7B91C469A0BC57AFB444BEAC32
+CEA420DD9B0EDE9B04CEA304BEAB04AEB3049FBB048FC3047FCC046FD40460DC0450E404
+40EC0430F4042AF8053CEF094DE70D5FDF1171D71682CF1A94C61EA5BE22B7B626C9AE2A
+DAA62EEC9D32FB9536EB8931DC7D2DCD7129BE6524AF5920A04E1C914217823613732A0E
+641E0A5512064506013F06023907023408032E0904290904230A051D0B06180C06120D07
+0D0E08070F080210090919091526082132082E3F073A4B074658065364065F71056B7D05
+788A0484960490A30397AD0D99B41F9BBB319DC2449FC956A0D069A2D67BA4DD8DA6E4A0
+A8EBB2AAF2C4ACF9D7A9F9DD9EEACA92DBB887CCA57BBD9370AE80649F6E59915B4D8249
+4273363664232B5511214801224401224101233D01233A01243701253301253001262D01
+262901272601272301281F01261D09231A112118191F16221C132A1A1132170E3B150C43
+130A4B1007530E055C0C03641A0C692E186D4225705632746A3F787D4B7B91587FA56583
+B97186CD7E8AE18B8EF49891FA998CF59380EF8D75EA8669E5805DDF7A51DA7345D56D3A
+CF672ECA6122C55A16BF540AB84E0AAD471BA2412C983B3E8D354F822E607728716D2283
+621C945716A54C0FB74209C83A07D33F19C1442BB0493D9F4E4F8E53607D58726B5D845A
+62964967A8386CB92671CB15</palette>
+</flame>

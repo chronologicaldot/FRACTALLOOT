@@ -1,0 +1,26 @@
+<flame smooth_gradient="0" version="JWildfire 3.01 (07.01.2017)" size="1280 1024" center="0.0 0.0" scale="82.66596162046909" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="1" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="100.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" post_blur_radius="0" post_blur_fade="0.95" post_blur_falloff="2.0" zbuffer_scale="1.0" mixer_mode="OFF">
+  <xform weight="0.5" color="0.0" symmetry="0.0" material="0.0" material_speed="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" mod_hue="0.0" mod_hue_speed="0.0" fract_formula_julia_wf="1.0" fract_formula_julia_wf_fx_priority="0" fract_formula_julia_wf_max_iter="50" fract_formula_julia_wf_xmin="-1.4" fract_formula_julia_wf_xmax="1.4" fract_formula_julia_wf_ymin="-1.4" fract_formula_julia_wf_ymax="1.4" fract_formula_julia_wf_buddhabrot_mode="0" fract_formula_julia_wf_power="3" fract_formula_julia_wf_xseed="0.4" fract_formula_julia_wf_yseed="0.7" fract_formula_julia_wf_direct_color="1" fract_formula_julia_wf_scalez="1.0" fract_formula_julia_wf_clip_iter_min="1" fract_formula_julia_wf_clip_iter_max="-5" fract_formula_julia_wf_max_clip_iter="3" fract_formula_julia_wf_buddhabrot_min_iter="7" fract_formula_julia_wf_scale="3.8" fract_formula_julia_wf_offsetx="0.0" fract_formula_julia_wf_offsety="0.0" fract_formula_julia_wf_offsetz="0.0" fract_formula_julia_wf_z_fill="0.0" fract_formula_julia_wf_z_logscale="0" fract_formula_julia_wf_formula="28287A5E6E292B6329" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0"/>
+  <palette count="256" format="RGB">
+7C3F0581440B8649128B4F1890541F9559259A5E2C9F6332A46939A96E3FAE7346B3784C
+B87D53BD8359C28860C78D66CC926DD19773D69D7ADBA280E0A787E5AC8DEAB194EFB69A
+F4BCA1F9C1A7F9C1A9F0B9A5E7B2A1DEAA9DD6A399CD9B95C49491BC8C8CB38588AA7D84
+A17680996E7C906778875F747F576F76506B6D48676441635C395F53325B4A2A57422352
+391B4E30144A270C461F054221063F250A3D290D3B2E11383215363718343B1C313F202F
+44232D48272A4D2B28512E265632245A36215E391F633D1D67411A6C4418704816744C13
+794F117D530F82570C865A0A8A5E088E62068E67068D6D068D72078D77078C7D078C8207
+8C88078B8D078B92078B98088B9D088AA2088AA8088AAD0889B20889B80989BD0988C209
+88C80988CD0987D20987D80987DD0A86E30A86E80A83E60A7FDF0A7BD80977D10973CA09
+6FC4086ABD0866B60862AF075EA8075AA107569A065193064D8D06498605457F05417805
+3C7105386A04346304305C042C5603284F032348031F41021B3A021B38061A360A1A340F
+193213193017182E1B182C2017292417272816252C162330152135151F39141D3D141B41
+14194613174A13154E121352121156110F5B110C5F100A631008670F066B12086C1B0F69
+2316652C1D6134245D3D2B594632554E395157404D5F4749684E45705541795C3E81633A
+8A6A369271329B782EA37F2AAC8626B48D22BD941EC59B1ACEA317D6AA13DFB10FE7B80B
+E5B60AE1B20ADCAE09D7AA09D3A609CEA209C99E09C49B08C09708BB9308B68F08B28B08
+AD8708A88307A47F079F7B079A77079673079170068C6C068868068364067E6006795C05
+755805715505715305715205725005724F05724D05724C05724A05734905734705734505
+734405734205744105743F05743E05743C05743B05753905753805753605753505753305
+763205763005762F0577300B7933147A361E7C3A277E3D317F403B81434482474E844A57
+864D6187506A8954748B577E8C5A878E5D9190619A9164A49367AD956AB7966EC19871CA
+9974D49B77DD9D7BE79E7EF0  </palette>
+</flame>

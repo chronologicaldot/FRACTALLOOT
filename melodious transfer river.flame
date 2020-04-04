@@ -1,0 +1,31 @@
+<flame name="melodious transfer river" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="671 503" center="0.0 0.0" scale="161.71154069654824" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.3" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" log="1.0" coefs="1.0 2.4492935982947064E-16 -2.4492935982947064E-16 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" disc="3.0" coefs="1.0 0.0 0.0 1.0 0.5 0.0" chaos="0.0 0.0 1.0 1.0 0.0" />
+  <xform weight="2.0" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.5" eCollide="1.0" eCollide_num="2" eCollide_a="0.5" coefs="0.9999999999999996 -2.4492935982947054E-16 2.4492935982947054E-16 0.9999999999999996 1.5 0.0" chaos="1.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" linear3D="1.0" radial_blur="1.0" radial_blur_angle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" julian="1.5" julian_power="-4" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 0.0 0.0 0.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" waves2="1.0" waves2_scalex="0.77" waves2_scaley="0.5" waves2_freqx="-2.90920367" waves2_freqy="0.7853981633974483" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+5C07CE5F0AD0610DD16410D36613D56916D66C1AD86E1DDA7120DB7423DD7626DF7929E0
+7B2CE27E2FE48132E68335E78638E9883BEB8B3FEC8E42EE9045F09348F1964BF3984EF5
+9B51F69D54F8A057F7A45BF3A85FEFAB62EBAF66E6B269E2B66DDEBA71DABD74D6C178D1
+C47BCDC87FC9CC83C5CF86C0D38ABCD68DB8DA91B4DE95B0E198ABE59CA7E89FA3ECA39F
+F0A79BF3AA96F7AE92FAB18EF3AD8DEAA78DE0A18CD69A8CCD948CC38E8BBA888BB0818B
+A67B8B9D758A936F8A8A688A80628A765C896D5689634F895A4988504388463D883D3688
+3330872A2A87202487161D860D178606138708168B0B1A900E1D9411219914249D1628A2
+192CA61C2FAB1F33AF2236B4253AB8273DBD2A41C12D44C63048CA334CCF354FD33853D8
+3B56DC3E5AE1415DE54361EA4664EE4968F34C6CF74D6CF94D6CF94E6BF94E6AF94E69F9
+4E68F94E67F94E66F94F65F94F64F94F63F94F63F94F62F95061F95060F9505FF9505EF9
+505DF9515CF9515BF9515AF9515AF95159F95258F95257F95256F9595AF55F5FF16663EE
+6C68EA736CE67A70E28075DE8779DA8D7ED79482D39B87CFA18BCBA88FC7AE94C3B598C0
+BC9DBCC2A1B8C9A5B4CFAAB0D6AEACDDB3A9E3B7A5EABCA1F0C09DF7C499FAC695F8C38F
+F5C08AF3BD84F1BA7EEEB779ECB473E9B16DE7AE68E5AB62E2A85DE0A557DDA251DB9F4C
+D99C46D69940D4963BD29335CF9030CD8D2ACA8A24C8871FC68519C38213C17F0EBE7C08
+BA7C07B57D07B07F07AB8007A58107A083079B84069685069187068C8806878906828B06
+7D8C06778D06728F066D90066891066393065E94065995055497054E9805499905449B05
+3F9C053C9C053F9A054297054594054892054B8F054F8C055289055587055884055B8105
+5E7E05627C056579056876056B73056E7105716E05756B057869057B66057E6305816005
+845E05885B058B580589550985520F814F157D4C1C78482274452870422F6C3F35673C3B
+6339425F35485B324E562F55522C5B4E29614A266845226E411F743D1C7B391981341687
+30138E2C0F94280C9A2309A1</palette>
+</flame>

@@ -1,0 +1,32 @@
+<flame name="Family Heritage" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="187.61456119344848" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="30.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.5" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="-1.5" cam_pos_y="-0.3" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="10.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" elliptic="1.0" pre_crop="1.0" pre_crop_left="-1.0E8" pre_crop_right="1.0E8" pre_crop_top="-10000.0" pre_crop_bottom="0.0" pre_crop_scatter_area="1.0E-5" pre_crop_zero="0" coefs="1.1 0.0 0.0 1.1 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 0.0"/>
+  <xform weight="5.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" splits="1.0" splits_x="1.2" splits_y="0.0" coefs="1.5308084989341916E-16 2.5 -3.0000000000000004 1.8369701987210302E-16 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -2.0" chaos="1.0 2.0 1.0 1.0 1.0 0.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 1.1 0.0" chaos="1.0 1.0 1.0 1.0 1.0 0.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 -1.1 0.0" chaos="1.0 1.0 1.0 1.0 1.0 0.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" gaussian_blur="20.0" post_crop="1.0" post_crop_left="-1.0" post_crop_right="1.0" post_crop_top="-1.0E8" post_crop_bottom="1.0E7" post_crop_scatter_area="0.0" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 0.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" splits="1.0" splits_x="0.0" splits_y="100000.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 0.0"/>
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bTransform="1.0" bTransform_rotate="0.66" bTransform_power="1" bTransform_move="0.54" bTransform_split="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+D52422D52422D52422D52422D52422D52422D52422D52422D52422D52422D52422D52422
+D52422D52422D52422D52422D52422D52422D52422E86F6EE86F6EE86F6EE86F6EE86F6E
+E86F6EE86F6EE86F6EE86F6EE86F6EE86F6EE86F6EE86F6EE86F6EE86F6EE86F6EE86F6E
+E86F6EE55C5AE55C5AE55C5AE55C5AE55C5AE55C5AE55C5AE55C5AE55C5AE55C5AE55C5A
+E55C5AE55C5AE55C5AE55C5AE55C5AE55C5AE55C5A420B0B420B0B420B0B420B0B420B0B
+420B0B420B0B420B0B420B0B420B0B420B0B420B0B420B0B420B0B420B0B420B0B420B0B
+420B0B420B0BDF3B3ADF3B3ADF3B3ADF3B3ADF3B3ADF3B3ADF3B3ADF3B3ADF3B3ADF3B3A
+DF3B3ADF3B3ADF3B3ADF3B3ADF3B3ADF3B3ADF3B3ADF3B3AEE9594EE9594EE9594EE9594
+EE9594EE9594EE9594EE9594EE9594EE9594EE9594EE9594EE9594EE9594EE9594EE9594
+EE9594EE9594C82220C82220C82220C82220C82220C82220C82220C82220C82220C82220
+C82220C82220C82220C82220C82220C82220C82220C82220150403150403150403150403
+150403150403150403150403150403150403150403150403150403150403150403150403
+150403150403150403F1ABABF1ABABF1ABABF1ABABF1ABABF1ABABF1ABABF1ABABF1ABAB
+F1ABABF1ABABF1ABABF1ABABF1ABABF1ABABF1ABABF1ABABF1ABAB0C02020C02020C0202
+0C02020C02020C02020C02020C02020C02020C02020C02020C02020C02020C02020C0202
+0C02020C02020C0202B91F1EB91F1EB91F1EB91F1EB91F1EB91F1EB91F1EB91F1EB91F1E
+B91F1EB91F1EB91F1EB91F1EB91F1EB91F1EB91F1EB91F1EB91F1EB91F1EFCECECFCECEC
+FCECECFCECECFCECECFCECECFCECECFCECECFCECECFCECECFCECECFCECECFCECECFCECEC
+FCECECFCECECFCECECFCECEC280706280706280706280706280706280706280706280706
+280706280706280706280706280706280706280706280706280706280706E76C6BE76C6B
+E76C6BE76C6BE76C6BE76C6BE76C6BE76C6BE76C6BE76C6BE76C6BE76C6BE76C6BE76C6B
+E76C6BE76C6BE76C6BE76C6B  </palette>
+</flame>

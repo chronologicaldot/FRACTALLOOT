@@ -1,0 +1,32 @@
+<flame name="Delicate Armored Cross" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="671 503" center="0.0 0.0" scale="269.29102029418965" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.1" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="0.01" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 10.0 1.1 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="20.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.98" cross="1.0" coefs="2.220446049250313E-16 1.0 -1.0 2.220446049250313E-16 0.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 0.0" />
+  <xform weight="0.1" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="0.01" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 10.0 -1.1 0.0" chaos="1.0 1.0 1.0 0.0 1.0 1.0" />
+  <xform weight="2.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.8" elliptic="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 10.0 10.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.5 2.2 0.0" chaos="1.0 2.0 1.0 0.0 100.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.5 -2.2 0.0" chaos="1.0 2.0 1.0 0.0 0.0 100.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julian="1.0" julian_power="-3" julian_dist="1.0" coefs="1.3526878371434587 0.09731985121036525 -0.09731985121036525 1.3526878371434587 0.6344089708857723 -0.4972394636672266" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38A
+FBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38A
+FBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38A
+FBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38A
+FBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38AFBA38A
+FBA38AFBA38AFBA38AFBA38AF78729F78729F78729F78729F78729F78729F78729F78729
+F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729
+F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729
+F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729
+F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729F78729
+F78729F78729F78729F78729F78729F78729F78729F78729FBEA9CFBEA9CFBEA9CFBEA9C
+FBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9C
+FBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9C
+FBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9C
+FBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9C
+FBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9CFBEA9C
+FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694
+FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694
+FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694
+FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694
+FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694FB9694
+FB9694FB9694FB9694FB9694</palette>
+</flame>

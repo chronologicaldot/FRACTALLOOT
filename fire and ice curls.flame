@@ -1,0 +1,29 @@
+<flame smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="1.0 0.0" scale="150.0" rotate="30.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="4.0" saturation="1.0" gamma="2.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" sphericalN="1.0" sphericalN_power="1.0" sphericalN_dist="1.0" pre_blur="0.02" coefs="0.7071067811865475 0.7071067811865476 -0.7071067811865476 0.7071067811865475 -0.5 0.0" chaos="0.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.5" lazysusan="1.0" lazysusan_space="1.0" lazysusan_twist="2.0" lazysusan_spin="0.0" lazysusan_x="0.0" lazysusan_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0" />
+  <xform weight="0.1" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.5" julian="1.4" julian_power="10" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 10.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" waves2="1.0" waves2_scalex="0.25" waves2_scaley="0.5" waves2_freqx="3.0" waves2_freqy="0.7853981633974483" post_curl="1.0" post_curl_c1="0.52" post_curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FF0000FF0300FF0600FF0900FF0D00FF1000FF1300FF1600FF1900FF1C00FF1F00FF2200
+FF2600FF2900FF2C00FF2F00FF3200FF3500FF3800FF3B00FF3F00FF4200FF4500FF4800
+FF4B00FF4E00FF5100FF5400FF5800FF5B00FF5E00FF6100FF6400FF6700FF6A00FF6D00
+FF7100FF7400FF7700FF7A00FF7D00FF8000FF8300FF8600FF8A00FF8D00FF9000FF9300
+FF9600FF9900FF9C00FF9F00FFA300FFA600FFA900FFAC00FFAF00FFB200FFB500FFB800
+FFBC00FFBF00FFC200FFC500FFC800FFC904FFCA08FFCB0CFFCB10FFCC14FFCD18FFCE1C
+FFCF20FFD024FFD128FFD12CFFD230FFD334FFD438FFD53CFFD640FFD744FFD748FFD84C
+FFD950FFDA54FFDB58FFDC5CFFDD60FFDD64FFDE68FFDF6CFFE070FFE174FFE278FFE37C
+FFE480FFE483FFE587FFE68BFFE78FFFE893FFE997FFEA9BFFEA9FFFEBA3FFECA7FFEDAB
+FFEEAFFFEFB3FFF0B7FFF0BBFFF1BFFFF2C3FFF3C7FFF4CBFFF5CFFFF6D3FFF6D7FFF7DB
+FFF8DFFFF9E3FFFAE7FFFBEBFFFCEFFFFCF3FFFDF7FFFEFBFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF
+FFFFFFFDFEFFFAFEFFF8FDFFF5FDFFF3FCFFF0FCFFEEFBFFECFBFFE9FAFFE7FAFFE4F9FF
+E2F9FFE0F8FFDDF8FFDBF7FFD8F7FFD6F6FFD3F6FFD1F5FFCFF5FFCCF4FFCAF4FFC7F3FF
+C5F3FFC2F2FFC0F2FFBEF1FFBBF1FFB9F0FFB6F0FFB4EFFFB2EFFFAFEEFFADEDFFAAEDFF
+A8ECFFA5ECFFA3EBFFA1EBFF9EEAFF9CEAFF99E9FF97E9FF94E8FF92E8FF90E7FF8DE7FF
+8BE6FF88E6FF86E5FF83E5FF81E4FF7FE4FF7CE3FF7AE3FF77E2FF75E2FF73E1FF70E1FF
+6EE0FF6BE0FF69DFFF66DFFF</palette>
+</flame>

@@ -1,0 +1,34 @@
+<flame name="Autumnal Awakening b" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="43.916666666666664" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="100.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" linear3D="1.0" cross="0.15" epispiral="-0.02" epispiral_n="6.0" epispiral_thickness="0.0" epispiral_holes="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -3.5 0.0" chaos="0.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" wedge="1.0" wedge_angle="0.5" wedge_hole="0.0" wedge_count="1" wedge_swirl="0.0" post_curl="1.0" post_curl_c1="0.1" post_curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 2.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" gaussian_blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="10.0 0.0 0.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" wedge="1.0" wedge_angle="5.79079633" wedge_hole="0.0" wedge_count="1" wedge_swirl="0.0" post_curl="1.0" post_curl_c1="-0.1" post_curl_c2="0.0" post_rblur="1.0" post_rblur_strength="0.005" post_rblur_offset="1.0" post_rblur_center_x="0.0" post_rblur_center_y="1.0" coefs="1.0 2.449293598294707E-16 -9.797174393178824E-16 3.0 0.0 0.0" post="-1.0 0.0 0.0 1.0 1.9 0.0" chaos="1.0 0.0 1.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" linear3D="0.1" cross="0.004" post_rblur="1.0" post_rblur_strength="0.3" post_rblur_offset="0.0" post_rblur_center_x="0.0" post_rblur_center_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -3.5 0.0" chaos="0.0 1.0 1.0 1.0 0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" wedge="1.0" wedge_angle="5.87" wedge_hole="0.0" wedge_count="1" wedge_swirl="0.0" post_curl="1.0" post_curl_c1="-0.1" post_curl_c2="0.0" coefs="-1.0 1.224646799147353E-16 -1.2246467991473525E-16 -3.0 0.0 0.0" post="-1.0 0.0 0.0 1.0 1.9 0.0" chaos="1.0 0.0 1.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" gaussian_blur="5.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -3.5 0.0" chaos="10.0 0.0 1.0 0.0 0.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.3" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="10.0 0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" radial_blur="1.0" radial_blur_angle="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -3.5 0.0" chaos="0.0 1.0 1.0 0.0 0.0 0.0 0.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+C55516BF5014C04F13C14E12C55013C95314CA5416CC5619CC6429D06F34D57B40DB874E
+E1945CE6A26AECB178EEB67DF1BB83F6CA91F5CB92F5CC94EDC891E6C48FE1BF8CDDBB89
+CCA775C49E6DBD9665B18D5FA68459A07F569B7B5391734D896D4A8268468064437E6140
+7C5B3A7B56357A53327A5130754D2D744C2C734C2B7649277946237B45217D451F7E431E
+7B421E6F43226B4121683F20663D1E653B1C633A1C623A1D563A21513A234C3B264E3C26
+513E27533F275540285A42285F44286B46287147277848277A49267D4A26834B24874B23
+914B21944C22984E239B50249F5325A05425A15526A45625A45525A154259E52249C5023
+9B4E219A4D2098491D96461B9541169642169843179A46199C491CA15123A55B2DAA6335
+AD683AB6703EB87340BB7742BC7843BD7A45BB7B48B97947B77744BA7946BD7C49BF804D
+C28452C78A59C9905FCA9565C89565C49163C38F61C38E60BD885CB38258A67850966A45
+7A502F6F48296440245F3E235B3D23533B244C39244D382253361E6235186735176C3616
+7338167E3A158C3C12973D10A73C08AA3C07AD3C07B03E07B34007BA4309BD470BC14C0E
+C24F11C55416C75517C95718CC5719CD581ACB591AC9581AC0541ABD5119BB4F18B34A17
+AA4717A348199C4A1D974E2496542A965E3697613A98653E996C459B734BA17B53A78359
+BC9564C19966C69D68CEA26AD5A96DDAAE6FDDB275E1B879E6BD7CE7BC7CE5BA79E2B472
+DBAB6CD4A368CC9E66C59664B48759B18254AE7E4FAC7344AC6C3BB06834B16733B16834
+AF6C37B26F3AB7733DC07940C87F44CD8249CB844BC7834CC4814CC27F4AC37F49C47C46
+C27743BE713EBA6A38B46331AE602EA85E2DA35E2FA05E319E5F339F5F339E5E329F5E31
+9E5C309C5A2F9B592E9D5A2E9C5A2D9C592C9C582B98572C93562D8E5730875834825A37
+7D5C3A7A5D3D775D3D785E3E7B5D3C825E3A8B61399565379E6837A56F3CAC7642B57E4A
+BE8751C98E54D18F54D38F51D28C4FCF894DCB854ECA854DCB814AC97B43C5733BC26A30
+C06127C15C1FC4591AC65616</palette>
+</flame>

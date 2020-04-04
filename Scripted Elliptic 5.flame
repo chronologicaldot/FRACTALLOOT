@@ -1,0 +1,29 @@
+<flame name="Scripted Elliptic 5" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.5 0.0" scale="200.0" rotate="90.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" elliptic="1.0" pre_curl="1.0" pre_curl_c1="1.063141454940526" pre_curl_c2="0.0" pre_crop="1.0" pre_crop_left="-10000.0" pre_crop_right="10000.0" pre_crop_top="-10000.0" pre_crop_bottom="0.0" pre_crop_scatter_area="0.0" pre_crop_zero="0" coefs="-0.8360463861428504 -0.8227986066246608 0.8227986066246608 -0.8360463861428504 0.171481520118762 -0.2767716223612927" post="1.0 0.0 0.0 0.9983530580888451 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" splits="1.0" splits_x="1.2" splits_y="0.0" radial_blur="0.5" radial_blur_angle="0.0" coefs="0.6034468835869229 -1.0838037775174736 1.0838037775174736 0.6034468835869229 1.2039565672815453 -0.2786693382349782" post="1.0 0.0 0.0 3.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 1.1 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 -1.1 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FFFEFDFFFEFDFFFEFD5907C13D0A81210E41051101FFFEFDFFFEFD401E02514803617204
+729C05FFFEFDFFFEFD3E32F83222BB26127D1A0240FFFEFDFFFEFDFCDCA7FCD8ADFDD5B3
+FDD1B9FFFEFDFFFEFDAD8306BB7106CA5E07D84C07FFFEFDFFFEFD6C2D04814305965905
+AB6F06FFFEFDFFFEFDF88132C47D238F7A135B7604FFFEFDFFFEFD2F03642E0A432C1022
+2B1701FFFEFDFFFEFDD0C6FDAA97FB8367FA5D38F8FFFEFDFFFEFD070EBF425C9E7CAB7D
+B7F95CFFFEFDFFFEFD2905856E4178B47C6AF9B85DFFFEFDFFFEFDFCDFB1FCD5ABFCCAA6
+FCC0A0FFFEFDFFFEFDFA8877F96E59F8533BF7391DFFFEFDFFFEFDD85807CA4F07BC4606
+AE3D06FFFEFDFFFEFDB06106A579589B92A990AAFBFFFEFDFFFEFDDCFB81A9B357776B2C
+442302FFFEFDFFFEFD6206034911022F1B02162601FFFEFDFFFEFD3806B375287AB14A41
+EE6C08FFFEFDFFFEFD4B4103727E1499BB25C0F836FFFEFDFFFEFDFDEEC2F6CB84EEA846
+E78508FFFEFDFFFEFDE58708995B194E2F2B02033CFFFEFDFFFEFDFFFEFDFB9487CF6D5B
+A44730782004FFFEFDFFFEFD0405002823014D4203716004FFFEFDFFFEFD6854F9997EDF
+CBA7C5FCD1ABFFFEFDFFFEFD1201272A035A41058E5907C1FFFEFDFFFEFD051101191501
+2C1A02401E02FFFEFDFFFEFD729C056179564F55A73E32F8FFFEFDFFFEFD1A0240654B62
+B19385FCDCA7FFFEFDFFFEFDFDD1B9E2B77DC89D42AD8306FFFEFDFFFEFDD84C07B44206
+9037056C2D04FFFEFDFFFEFDAB6F06C57515DE7B23F88132FFFEFDFFFEFD5B76044C5024
+3E29442F0364FFFEFDFFFEFD2B1701625155998CA9D0C6FDFFFEFDFFFEFD5D38F8402AE5
+241CD2070EBFFFFEFDFFFEFDB7F95C88A86A585677290585FFFEFDFFFEFDF9B85DFAC579
+FBD295FCDFB1FFFEFDFFFEFDFCC0A0FBAD92FB9B85FA8877FFFEFDFFFEFDF7391DED4316
+E24E0ED85807FFFEFDFFFEFDAE3D06AF4906AF5506B06106FFFEFDFFFEFD90AAFBA9C5D2
+C3E0AADCFB81FFFEFDFFFEFD4423024E1902581003620603FFFEFDFFFEFD162601211B3C
+2D11783806B3FFFEFDFFFEFD</palette>
+</flame>

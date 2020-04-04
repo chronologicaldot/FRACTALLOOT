@@ -1,0 +1,30 @@
+<flame name="Scripted Elliptic 13 - Symbol of Darkness" smooth_gradient="0" version="JWildfire 2.34 (22.02.2015)" size="680 544" center="0.0 0.0" scale="200.0" rotate="90.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="1.0" saturation="1.0" gamma="1.5" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" elliptic="1.0" pre_curl="1.0" pre_curl_c1="0.02274600157270157" pre_curl_c2="0.0" pre_crop="1.0" pre_crop_left="-10000.0" pre_crop_right="10000.0" pre_crop_top="-10000.0" pre_crop_bottom="0.0" pre_crop_scatter_area="9.393592687336856E-6" pre_crop_zero="0" coefs="-0.19716786513213402 -1.1504578546960011 1.1504578546960011 -0.19716786513213402 1.0340085645688903 0.6775583355688967" post="1.0 0.0 0.0 0.9998583210886586 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" splits="1.0" splits_x="1.2" splits_y="0.0" radial_blur="0.5" radial_blur_angle="0.0" coefs="0.269435315231822 -1.9307106901920437 1.9307106901920437 0.269435315231822 -0.5826597898139443 -0.9472036575838068" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 1.1 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 -1.1 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.2" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" exponential="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+F2FEDBFF3C0BCE2E1F9B23346A1749370C5F050175E5F0D5BF630EC85B0DD65D1AE35E28
+F16035FE6243F3EDCAA75F1AA54B00AF4C00B84C00C24D00CB4E00ECE1B7FD928AF0916F
+DEAB63CCC658B9E04CA7FA41E1FEB9513A754423686F527E9C8094C8AEAAF3DCC0F6F8D5
+444C9001067C0405880603940902A10B00ADA7ABCD7A694A361D1E2A1B4C1D197A1118A9
+0516D795A5E0C2E45690BB006F93004F6B002F43000E1B0088937BA7AAEF7B73F79989E7
+B6A0D8D3B6C9F0CCB9F8EBC7F9F5D3FFE4C1FFD4B0FFC49EFFB48DFFA47CF9C8A29092EB
+2A1BF45840DB8666C1B48BA8E3B08FFADCA4E2A385CD1901D82003E32704ED2F06F83508
+FB7D51A2A9B90F066E3418575929407D3A28A24C11CC893FF6D2B1FA6140E65C33D35725
+BF5318AC4E0BB17433E9D6A9CE5005D8591DE26235ED6C4EF77566FD938BE4FEC09FF73F
+85C4446B9149525F4E392C533C2068F4FBD9F9E3C4C7B6B3948AA3625D932F308311187A
+E4EED80D00AF16068C200C692A1246341822412203F0FCDB0015E8213BBA41608C61865E
+82AC2FA3D202EEFCD10D170C141C30292E623E41955452C86965FAE4EFDFFEDBB6FFDBB6
+FFDFBBFFE3BFFFE7C4FFEBC9F4FBD8FDAB83D88389A966A57C4AC24D2EDE1F11F9C3CBE3
+FCD294F6AB6CEC8853E16539D74220CC1F07E7C0A1FB7042DB3119A9262F771B44450F59
+13046FA5ADBBCE8F48C55A09D25C17DF5E24ED5F31FA613FF7C4A2BE8F54A24B00AC4C00
+B54C00BF4D00C84E00E2B27DF9B5A4F58A72E3A466D0BF5BBED950ACF344CCFE8F887D98
+38176264457890738EBCA1A4E8D0BAF9F2D0848EAC01077803058506049108029D0B01AA
+6967C2AAA584391D122D1B40211A6E14189C0816CB5567E3D7EF9099C600789E00587600
+384E00172600485241CBD2E5736DFB9183ECAE9ADCCBB0CDE9C7BDFCE0BCF5FAD7FFE8C6
+FFD9B4FFC8A3FFB892FFA880FDAE86CAD2E11D11FB4C36E27A5CC8A881AFD7A695FDCD8C
+EDE1C0CA1700D51E02E02504EA2D05F53407FE4919E1ECD40501752A135D4F254673362E
+984817BD5D05F2FCD9FF6244</palette>
+</flame>

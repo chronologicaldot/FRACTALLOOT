@@ -1,0 +1,34 @@
+<flame name="Amazing Hourglass" version="JWildfire 1.90 (24.08.2014)" size="415 311" center="0.0 0.0" scale="25.92709603062676" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" pre_blur="1.0" cylinder="1.0" spherical="0.06" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 10.0 10.0 10.0 10.0 1.0" />
+  <xform weight="0.5" color="0.04" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" bubble="0.412" coefs="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -2.0" chaos="1.0 1.0 1.0 0.0 1.0 1.0 0.0" name="shift up" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 2.0" chaos="1.0 1.0 0.0 1.0 1.0 1.0 0.0" name="shift down" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 2.5 0.0" chaos="1.0 1.0 1.0 1.0 10.0 0.0 0.0" name="shift right" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -2.5 0.0" chaos="1.0 1.0 1.0 1.0 0.0 10.0 0.0" name="shift left" />
+  <xform weight="1.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" hourglass="1.0" hourglass_width="1.0" hourglass_pinch="0.64" hourglass_pinch z="0.0" hourglass_stretch="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.125 0.0 0.0 0.125 1.25 -1.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 0.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" hourglass="1.0" hourglass_width="1.0" hourglass_pinch="0.68" hourglass_pinch z="0.0" hourglass_stretch="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" eCollide="1.0" eCollide_num="4" eCollide_a="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+689EEB649EEB649EF464A6FE68ADFE64ADF468BDFE84CAFEA1C9F4B9CAF4C9E2FEDDE6FE
+E9FAFEFAFEFEFEFEFEFAFAFEE6EEEBCECACFB2A9A99581847558675D3C41693838713838
+85584B8D6C5E958984AAA5A9B6BEC6D6D6E2D9E6F4D9EAF4D1EAFEC5E2EBADC2E295ADC6
+9DA5B39595A095797A816467714C546038415C343858343854443861555E706D84808196
+8589B3899DBCA19DA9A18D96A6888499847A9D7871A98D83C6ADA0CAB1AADAD2CFF6EEF4
+FAFEFEFEFEFEFEFEFEFAFEFEEEFAF4DEF2F4DAD6E2BEBEC6B5B1B2B9ADA9C2ADA9B5ADB3
+A1A5B39DA9B38DADCF85ADD888A9E28995BC7D7984605C6754404B503C42583C42684C55
+817D7AA1A1A9C9C1C5602B2571504B9D7867AE8D7AB2A197C2ADA0BAA9AAA58D9699818D
+8D858389818389858D8D898D9D9DA0A1ADBCA5BDD8B5CDEBC1DEEBBDE2F4C1E6F4C5E6FE
+C5E2FEBDE2F4B9DEF4ADD1F49DC1EB85B1E278A9EB7CADE185B9E190C6EB95C1F49DC9F4
+A1C5EBA9C1E2A1B9C5B1B1B3B9B1BCC1C1CFE2DED8F6F6EBFEFEFEFEFEFEFEFEFEFAFEFE
+EDF5FED1E6F4C1C9D8B5ADBCADA1B3A19DA091898D95787A85605E793C3861382E502725
+3C0F122C13093013123817123C1F254027384C34415C486761657A7571847D758485757A
+8975717D6D5E755C5475585485615E8D645E8568718179848091B274A2D87995C5747097
+6C5C7A4C30553828423C1F25341B1C2C1B1C30131C301B1C381F2F44384B605C71717597
+6C99C56C9EE1649AEB649EEB6C9EEB8DBDF49DC9F4A9D2F4ADD1F4A5CDF494C5FE8CC1FE
+74B9FE68ADF464A2F4609AF4649EF4689EF468A5F46CB5F48DC5F4A9D2F4B9E2F4CDEEFE
+DAF6FEE6FAFEEAFEFEEAFEF4D5FAF4BDF2F4B1E2FEADE2F4A0E2FEADEAFEBDEEFEDDF6FE
+FAFEFEFEFEFEFEFEFEFAFEFEEAFAFEDEF2FEC9E2F4B5D2EBA1CAEB95BDEB78ADEB6CB1EB
+6CB1F470B5F48CC5F49DCDF4B1DAF4C1EAEBD6F6F4DEF6FEE2FAFEDEF6F4D1E2EBC1C5D8
+ADB1CFA1A1B39185967D647A644854583442503038582B2F44272F482738502B38503441
+58404B7161677D8197749ACF</palette>
+</flame>

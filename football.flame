@@ -1,0 +1,29 @@
+<flame version="JWildfire 1.70 (06.07.2014)" size="440 330" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" preserve_z="1" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" sphere_nja="1.0" sphere_nja_circle_a="1.0" sphere_nja_circle_b="1.0" sphere_nja_shift_x="0.0" sphere_nja_shift_y="0.0" sphere_nja_shift_z="0.0" sphere_nja_stretch="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 0.0 0.0" name="sphere" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="1.0" zscale="-0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 1.0 0.0" name="make sphere elliptic" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" linear3D="1.0" flatten="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" voron="1.0" voron_k="0.78" voron_step="0.25" voron_num="1" voron_xseed="3" voron_yseed="7" pre_blur="2.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 0.0" />
+  <palette count="256" format="RGB" >
+7047046E48066D49086B490A694A0C684B0E664C10644D12634D14614E165F4F185D501B
+5C511D5A511F58522157532355542553552752552950562B4E572D4D582F4B5931495933
+485A35465B37445C39425D3B415D3D3F5E3F3D5F413C60433A614638614837624A35634C
+33644E3264503065522E66542D67562B685829685A27695C266A5E246B60226C62216C64
+1F6D661D6E681C6F6A1A706C18706E1771701572731373751274771074790E757B0C767D
+0B777F097881077883067985047A870879850C78830F778113767F17757E1B747C1F737A
+2272782671762A70742E7072326F70356E6E396D6D3D6C6B416B69456A674869654C6863
+50676154665F58655D5B645C5F635A6362586761566B60546E5F52725E50765D4E7A5C4C
+7E5C4B815B49855A478959458D584390574194563F98553D9C543BA05339A35238A75136
+AB5034AF4F32B34E30B64D2EBA4C2CBE4B2AC24A28C64927C94825CD4723D14721D5461F
+D9451DDC441BE04319E44217E84116EC4014EF3F12F33E10F73D0EF73C0EF73C0EF73B0E
+F73B0EF73A0FF7390FF7390FF7380FF7380FF7370FF7360FF7360FF7350FF73410F73410
+F73310F73310F73210F73110F73110F73010F73010F72F11F72E11F72E11F72D11F72D11
+F72C11F72B11F72B11F72A11F72A12F72912F72812F72812F72712F72612F72612F72512
+F72512F72412F72313F72313F72213F72213F72113F72013F72013F71F13F71F13F71E14
+F71D14F71D14F71C14F71B14F71B14F71A14F71A14F71914F71815F71815F71715F71715
+F71615F71715F71915F71A15F71C16F71D16F71F16F72016F72216F72316F72516F72617
+F72817F72917F72B17F72C17F72E17F72F17F73118F73218F73418F73518F73718F73818
+F73A18F73B19F73D19F73E19F74019F74119F74319F74419F8461AF8471AF8481AF84A1A
+F84B1AF84D1AF84E1AF8501AF8511BF8531BF8541BF8561BF8571BF8591BF85A1BF85C1C
+F85D1CF85F1CF8601CF8621CF8631CF8651CF8661DF8681DF8691DF86B1DF86C1DF86E1D
+F86F1DF8711EF8721EF8741E</palette>
+</flame>

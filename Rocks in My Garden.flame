@@ -1,0 +1,29 @@
+<flame name="Rocks in My Garden" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="5.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.0" cam_pitch="1.0471975511965976" cam_yaw="0.6981317007977318" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" preserve_z="1" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.7" hemisphere="0.5" pre_blur="0.1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 0.0 1.0" />
+  <xform weight="0.5" color="0.3" mod_gamma="0.0" mod_gamma_speed="1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.96" spherical3D="0.5" coefs="1.0 0.0 0.0 1.0 0.0 -1.0" chaos="0.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.85" juliascope="1.0" juliascope_power="2" juliascope_dist="1.0" coefs="-3.0 -0.0 0.0 -4.0 0.0 0.0" chaos="0.0 10.0 0.0 1.0" />
+  <xform weight="0.1" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" flatten="1.0" whorl="1.0" whorl_inside="1.16" whorl_outside="0.2" pre_blur="0.0" rippled="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 0.0" />
+  <palette count="256" format="RGB" >
+FBE9ABFBE7A8FBE5A6FBE2A3FBE0A0FBDE9EFBDC9BFBD998FCD796FCD593FCD390FCD08E
+FCCE8BFCCC88FCCA86FCC783FCC581FCC37EFCC17BFCBF79FCBC76FCBA73FCB871FCB66E
+FDB36BFDB169FDAF66FDAD63FDAA61FDA85EFDA65BFDA459FDA256FD9F53FD9D51FD9B4E
+FD994BFD9649FD9446FD9243FE9041FE8D3EFE8B3BFE8939FE8736FE8433FE8231FE802E
+FE7E2CFE7C29FE7926FE7724FE7521FE731EFE701CFE6E19FF6C16FF6A14FF6711FF650E
+FF630CFF6109FF5E06FF5C04FF5A01FF5C04FF5E07FF600AFF620DFF6510FF6713FF6916
+FF6B19FF6D1CFF6F1FFE7122FE7325FE7528FE782BFE7A2EFE7C31FE7E34FE8037FE823A
+FE843DFE8640FE8843FE8B46FE8D49FE8F4CFE914FFE9352FE9555FE9758FE995BFE9B5E
+FE9E61FDA063FDA266FDA469FDA66CFDA86FFDAA72FDAC75FDAE78FDB07BFDB37EFDB581
+FDB784FDB987FDBB8AFDBD8DFDBF90FDC193FDC396FDC699FDC89CFDCA9FFCCCA2FCCEA5
+FCD0A8FCD2ABFCD4AEFCD6B1FCD9B4FCDBB7FCDDBAFCDFBDFCE1C0F9DFBEF6DDBBF3DBB9
+F0D9B6EDD7B4EAD5B1E8D3AFE5D1ADE2CFAADFCDA8DCCCA5D9CAA3D6C8A0D3C69ED0C49B
+CDC299CAC097C7BE94C4BC92C2BA8FBFB88DBCB68AB9B488B6B286B3B083B0AE81ADAC7E
+AAAA7CA7A879A4A677A1A4749FA3729CA170999F6D969D6B939B689099668D97638A9561
+87935F84915C818F5A7E8D577B8B5579895276875073854D70834B6D81496A7F46677D44
+647B4161793F5E783C5B763A587438557235537033506E304D6C2E4A6A2B476829446626
+4164244164244164244064234064234064234064233F64223F64223F64223F64223E6421
+3E64213E64213E64213D64203D64203D64203D64203D641F3C641F3C641F3C641F3C641E
+3B641E3B641E3B641E3B641D3A641D3A641D3A641D3A641C3A641C39641C39641C39641B
+39641B38641B38641B38641A38641A37641A37641A376419376419366419366419366418
+366418366418356418356417356417356417346417346416346416346416336416336415
+336415336415326415326414</palette>
+</flame>

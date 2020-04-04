@@ -1,0 +1,33 @@
+<flame name="Alien Flinch" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="188.23529411764704" rotate="10.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="200.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.7" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" jac_sn="1.0" jac_sn_k="0.5" radial_blur="0.5" radial_blur_angle="0.0" coefs="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" post="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="0.0 1.0 1.0 0.0 0.0 0.0 0.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-0.9" cylinder="1.0" pre_blur="0.1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 5.0 -3.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-0.95" shredlin="1.0" shredlin_xdistance="1.0" shredlin_xwidth="0.9" shredlin_ydistance="1.0" shredlin_ywidth="0.9" post_crop="1.0" post_crop_left="-1000.0" post_crop_right="-4.0" post_crop_top="-10000.0" post_crop_bottom="10000.0" post_crop_scatter_area="0.0" post_crop_zero="0" pre_blur="1.0" coefs="0.7071067811865476 0.7071067811865475 -0.7071067811865475 0.7071067811865476 -5.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0 1.0 1.0"/>
+  <xform weight="5.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.9" elliptic="1.0" pre_crop="1.0" pre_crop_left="-10000.0" pre_crop_right="10000.0" pre_crop_top="-10000.0" pre_crop_bottom="0.0" pre_crop_scatter_area="1.0E-5" pre_crop_zero="0" coefs="5.551115123125783E-17 0.25 -0.25 5.551115123125783E-17 0.0 0.0" post="1.0 0.0 0.0 5.0 -1.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0 1.0 0.0"/>
+  <xform weight="2.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" julian="1.0" julian_power="-1" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 0.0 0.0 0.0 1.0"/>
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" curl="1.0" curl_c1="-0.5" curl_c2="0.0" coefs="1.0000000000000002 -5.551115123125783E-17 5.551115123125783E-17 1.0000000000000002 0.0 0.0" post="1.0 0.0 0.0 1.0 1.0 0.0" chaos="1.0 0.0 1.0 0.0 1.0 0.0 0.0"/>
+  <xform weight="0.1" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" rays="1.0" coefs="2.0 0.0 0.0 2.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 0.0"/>
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" glynnia="1.0" coefs="6.123233995736767E-17 1.0000000000000002 -1.0000000000000002 6.123233995736767E-17 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+3C67FE3F66F44265EA4564E04863D64B62CD4E61C35160B95460AF575FA55A5E9B5D5D91
+605C87635B7E665A7469596A6C58606F575672564C7555427854387B532E7E522581511B
+845111875007884E03854B0A8248107F45167C421C793F22763C2873382E7035346D323A
+6B2F40682C4665294D6226535F23595C205F591D65561A6B5317715014774D117D4A0E83
+470B8A4408904205963F029C44089D4C119E531A9E5B249F622D9F6A36A0713FA07948A1
+8051A1885AA28F63A2976CA39E76A3A67FA3AD88A4B591A4BC9AA5C4A3A5CBACA6D3B5A6
+DABEA7E2C7A7E9D1A8F1DAA8F8E3A9FEEAA8FBEBA2F9EC9CF7ED97F5ED91F2EE8BF0EF85
+EEF080ECF07AEAF174E7F26EE5F369E3F463E1F45DDEF557DCF652DAF74CD8F746D5F840
+D3F93BD1FA35CFFB2FCDFB2ACAFC24C8FD1EC6FE18C6FE1AC7FE21C8FE28C9FE2FCAFE36
+CCFE3DCDFE44CEFE4BCFFE52D0FE5AD1FE61D3FE68D4FE6FD5FF76D6FF7DD7FF84D8FF8B
+DAFF92DBFF99DCFFA0DDFFA7DEFFAEDFFFB5E1FFBCE2FFC3E3FFCAE0FCC2DCF9BAD9F6B2
+D6F3ABD2F0A3CFED9BCBEA93C8E78BC5E483C1E17BBEDE74BBDB6CB7D864B4D55CB1D254
+ADD04CAACD45A7CA3DA3C735A0C42D9CC12599BE1D96BB1592B80E8FB5068BB00187A901
+82A2017E9B017A9401758D017186016C7F016878016471015F6A015B6301565C01525500
+4D4E004947004540004039003C3200372B003324002F1D002A1600260F002108001D0100
+2001002603002B04003006003607003B0900410A00460C004B0D00510F005610005C1200
+6114016615016C1701711801771A017C1B01811D01871E018C20019221019723019C2401
+A22601A527019F25039924049322068D2108871F09811E0B7C1C0C761B0E70190F6A1711
+6416135E14145813165211174C1019460E1A410D1C3B0B1D350A1F2F0821290722230524
+1D042517022711012814042E1C0C3623133F2B1B4733224F3B29584331604B3869533F71
+5A4779624E826A568A725D927A649B826CA38973AB917BB49982BCA189C4A991CDB198D5
+B99FDEC0A7E6C8AEEED0B6F7  </palette>
+</flame>

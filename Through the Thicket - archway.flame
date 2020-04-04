@@ -1,0 +1,30 @@
+<flame name="Through the Thicket 2" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="671 503" center="-1.5 0.0" scale="178.96844602609727" rotate="90.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="2.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.3" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="1.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.17" glynnia="1.0" post_crop="1.0" post_crop_left="-10000.0" post_crop_right="0.0" post_crop_top="-1000.0" post_crop_bottom="1000.0" post_crop_scatter_area="0.0" post_crop_zero="0" coefs="-0.5 6.123233995736766E-17 -6.123233995736766E-17 -0.5 -0.9 0.0" chaos="0.0 10.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -1.5 0.0" chaos="1.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" bubble="1.0" pre_blur="1.0" post_crop="1.0" post_crop_left="0.0" post_crop_right="1000.0" post_crop_top="-1.0" post_crop_bottom="1000.0" post_crop_scatter_area="0.0" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="4.25 0.0 0.0 2.0 0.5 0.0" chaos="0.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" elliptic="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.5 0.0 0.0 2.0 -1.0 0.0" chaos="1.0 0.0 0.0 0.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bCollide="1.0" bCollide_num="1" bCollide_a="0.58" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986FB48455A8703A9B5C208F48068D45028D4602
+8D46028D47028C47028C48028C48028C4802FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986F
+B48455A8703A9B5C208F48068D45028D46028D46028D47028C47028C48028C48028C4802
+FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986FB48455A8703A9B5C208F48068D45028D4602
+8D46028D47028C47028C48028C48028C4802FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986F
+B48455A8703A9B5C208F48068D45028D46028D46028D47028C47028C48028C48028C4802
+FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986FB48455A8703A9B5C208F48068D45028D4602
+8D46028D47028C47028C48028C48028C4802FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986F
+B48455A8703A9B5C208F48068D45028D46028D46028D47028C47028C48028C48028C4802
+FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986FB48455A8703A9B5C208F48068D45028D4602
+8D46028D47028C47028C48028C48028C4802FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986F
+B48455A8703A9B5C208F48068D45028D46028D46028D47028C47028C48028C48028C4802
+FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986FB48455A8703A9B5C208F48068D45028D4602
+8D46028D47028C47028C48028C48028C4802FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986F
+B48455A8703A9B5C208F48068D45028D46028D46028D47028C47028C48028C48028C4802
+FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986FB48455A8703A9B5C208F48068D45028D4602
+8D46028D47028C47028C48028C48028C4802FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986F
+B48455A8703A9B5C208F48068D45028D46028D46028D47028C47028C48028C48028C4802
+FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986FB48455A8703A9B5C208F48068D45028D4602
+8D46028D47028C47028C48028C48028C4802FFFCF3F3E8D9E6D4BEDAC0A4CDAC8AC1986F
+B48455A8703A9B5C208F48068D45028D46028D46028D47028C47028C48028C48028C4802
+8C4902904908FBF8EF0E0B00</palette>
+</flame>

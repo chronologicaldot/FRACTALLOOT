@@ -1,0 +1,33 @@
+<flame name="Scripted Elliptic 9" smooth_gradient="0" version="JWildfire 2.34 (22.02.2015)" size="680 544" center="0.0 0.0" scale="100.0" rotate="90.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="3.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" elliptic="1.0" pre_curl="1.0" pre_curl_c1="0.05953491968012691" pre_curl_c2="0.0" pre_crop="1.0" pre_crop_left="-10000.0" pre_crop_right="10000.0" pre_crop_top="-10000.0" pre_crop_bottom="0.0" pre_crop_scatter_area="1.0E-5" pre_crop_zero="0" coefs="-1.2547353236212138 -0.4530801375794553 0.4530801375794553 -1.2547353236212138 0.5090872341012493 -0.7151693808851051" post="1.0 0.0 0.0 0.9942177081787139 0.0 0.0" chaos="1.5 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.4" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" splits="1.0" splits_x="1.2" splits_y="0.0" radial_blur="0.5" radial_blur_angle="0.0" coefs="-1.8486532308967218 -1.8069634276638888 1.8069634276638888 -1.8486532308967218 1.8266038720373625 0.2594418632797646" chaos="5.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 1.1 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 -1.1 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.2" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" diamond="0.1" coefs="0.25 0.0 0.0 0.25 0.0 0.0" post="1.0 0.0 0.0 1.0 0.95 0.0" chaos="1.0 0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.2" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" diamond="0.1" coefs="0.25 0.0 0.0 0.25 0.0 0.0" post="1.0 0.0 0.0 1.0 -0.95 0.0" chaos="1.0 0.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" loonie="1.0" coefs="1.0000000000000002 0.0 0.0 1.0000000000000002 0.0 1.0" post="1.0 0.0 0.0 1.0 0.0 -1.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" curl="1.0" curl_c1="-0.38" curl_c2="0.0" coefs="0.8149343761801269 0.5795532439042222 -0.5795532439042222 0.8149343761801269 -0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+FFF4ECFFF4ECFFF4ECFD392BFE8D74FEE0BDFFF4ECFFF4ECFE867CB27EBD6675FEFFF4EC
+FFF4EC903101948D0298E902FFF4ECFFF4EC5FFE63AFDB7FFEB79BFFF4ECFFF4ECCAFEA4
+677F5804000CFFF4ECFFF4EC7260013B31770402ECFFF4ECFFF4EC3D1D01582601732F01
+FFF4ECFFF4ECA1FE5BD0E08CFEC1BDFFF4ECFFF4ECA9D602666C2F22015BFFF4ECFFF4EC
+35019B34164E332A00FFF4ECFFF4EC2A650131B11F37FD3CFFF4ECFFF4ECFD633881322A
+04001CFFF4ECFFF4ECA9FE976BF44D2DE902FFF4ECFFF4ECFECBAEDCE468B9FD21FFF4EC
+FFF4EC0217D20E1569191200FFF4ECFFF4EC0000007F1D16FD392BFFF4ECFFF4ECFEE0BD
+FEB39DFE867CFFF4ECFFF4EC6675FE7B5380903101FFF4ECFFF4EC98E9027CF4335FFE63
+FFF4ECFFF4ECFEB79BE4DBA0CAFEA4FFF4ECFFF4EC04000C3B3007726001FFF4ECFFF4EC
+0402EC2110773D1D01FFF4ECFFF4EC732F018A972EA1FE5BFFF4ECFFF4ECFEC1BDD4CC60
+A9D602FFF4ECFFF4EC22015B2C017B35019BFFF4ECFFF4EC332A00332A002F48012A6501
+FFF4ECFFF4EC37FD3C9AB03AFD6338FFF4ECFFF4EC04001C577F5AA9FE97FFF4ECFFF4EC
+2DE90296DA58FECBAEFFF4ECFFF4ECB9FD215E8A7A0217D2FFF4ECFFF4EC1912000D0900
+000000FFF4ECFFF4ECFD392BFE8D74FEE0BDFFF4ECFFF4ECFE867CB27EBD6675FEFFF4EC
+FFF4EC903101948D0298E902FFF4ECFFF4EC5FFE63AFDB7FFEB79BFFF4ECFFF4ECCAFEA4
+677F5804000CFFF4ECFFF4EC7260013B31770402ECFFF4ECFFF4EC3D1D01582601732F01
+FFF4ECFFF4ECA1FE5BD0E08CFEC1BDFFF4ECFFF4ECA9D602666C2F22015BFFF4ECFFF4EC
+35019B34164E332A00FFF4ECFFF4EC2A650131B11F37FD3CFFF4ECFFF4ECFD633881322A
+04001CFFF4ECFFF4ECA9FE976BF44D2DE902FFF4ECFFF4ECFECBAEDCE468B9FD21FFF4EC
+FFF4EC0217D20E1569191200FFF4ECFFF4EC0000007F1D16FD392BFFF4ECFFF4ECFEE0BD
+FEB39DFE867CFFF4ECFFF4EC6675FE7B5380903101FFF4ECFFF4EC98E9027CF4335FFE63
+FFF4ECFFF4ECFEB79BE4DBA0</palette>
+</flame>

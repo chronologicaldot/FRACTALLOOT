@@ -1,0 +1,33 @@
+<flame name="Pipe Cousins" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="473 355" center="0.0 0.0" scale="50.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" pre_blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 1.0 0.0" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" pre_blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.0 -1.0 0.0" chaos="1.0 1.0 1.0 0.0 0.0 0.0 0.0 0.0" />
+  <xform weight="3.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" archpole="1.0" archpole_expanse="1.0" archpole_radius="0.5" archpole_height="10.0" archpole_use sky="1.0" coefs="1.0 0.0 0.0 2.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 10.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" scry="0.4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 -1.2246467991473532E-16 1.2246467991473532E-16 -1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 5.0 1.0 1.0 1.0" name="rotate arch by 90" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" elliptic="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 2.15 0.0" chaos="1.0 1.0 0.0 1.0 0.0 1.0 1.0 1.0" />
+  <xform weight="1.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.2 4.3 0.0" chaos="1.0 1.0 0.0 0.0 0.0 1.0 10.0 0.0" name="shift right" />
+  <xform weight="1.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.2 -4.3 0.0" chaos="1.0 1.0 0.0 0.0 0.0 1.0 0.0 10.0" name="shift left" />
+  <palette count="256" format="RGB" >
+EDFCC4EBF9C1E8F5BEE6F2BBE4EFB8E1ECB5DFE8B2DCE5AFDAE2ACD8DFA9D5DBA6D3D8A3
+D1D5A0CED29DCCCE9AC9CB97C7C894C5C491C2C18EC0BE8BBEBB88BBB785B9B482B6B17F
+B4AE7CB2AA79AFA776ADA473ABA170A89D6DA69A6AA39767A194649F90619C8D5E9A8A5B
+988658958355938052907D4F8E794C8C7649897346877043856C4082693D80663A7D6337
+7B5F34795C3176592E74552B7252286F4F256D4C226A481F68451C664219633F16613B13
+5F38105C350D5A320A572E07552B04582E075A31095D330C5F360F623912653C14673F17
+6A411A6C441D6F471F724A22744D25774F287A522A7C552D7F5830815B32845D35876038
+89633B8C663D8E6940916B43946E4696714899744B9B774E9E7951A17C53A37F56A68259
+A9855CAB875EAE8A61B08D64B39066B69269B8956CBB986FBD9B71C09E74C3A077C5A37A
+C8A67CCAA97FCDAC82D0AE85D2B187D5B48AD7B78DDABA8FDDBC92DFBF95E2C298E5C59A
+E7C89DEACAA0ECCDA3EFD0A5F2D3A8F4D6ABF7D8AEF9DBB0FCDEB3FCDDB1FCDCB0FCDBAE
+FCDAACFCD9ABFCD8A9FBD7A8FBD6A6FBD5A4FBD4A3FBD2A1FBD19FFBD09EFBCF9CFBCE9A
+FBCD99FBCC97FBCB95FBCA94FAC992FAC891FAC78FFAC68DFAC58CFAC48AFAC388FAC287
+FAC185FAC083FABF82FABE80FABD7FF9BB7DF9BA7BF9B97AF9B878F9B776F9B675F9B573
+F9B471F9B370F9B26EF9B16CF9B06BF8AF69F8AE68F8AD66F8AC64F8AB63F8AA61F8A95F
+F8A85EF8A75CF8A55AF8A459F8A357F8A255F7A154F7A052F79F51F79E4FF79D4DF79C4C
+F79B4AF59A4DF4994FF29752F09655EF9558ED945AEB925DEA9160E89062E68F65E58D68
+E38C6AE18B6DE08A70DE8873DC8775DB8678D9857BD7847DD68280D48183D28085D17F88
+CF7D8BCD7C8ECC7B90CA7A93C87896C77798C5769BC3759EC274A1C072A3BE71A6BC70A9
+BB6FABB96DAEB76CB1B66BB3B46AB6B268B9B167BCAF66BEAD65C1AC63C4AA62C6A861C9
+A760CCA55FCEA35DD1A25CD4A05BD79E5AD99D58DC9B57DF9956E19855E49653E79452E9
+9351EC9150EF8F4EF28E4DF4</palette>
+</flame>

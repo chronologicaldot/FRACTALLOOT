@@ -1,0 +1,33 @@
+<flame name="Ice Marble" smooth_gradient="0" version="JWildfire 2.34 (22.02.2015)" size="680 544" center="0.0 0.0" scale="200.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="1.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.2" cam_pitch="0.5235987755982988" cam_yaw="0.5235987755982988" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" preserve_z="1" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.9" linear3D="1.0" arch="0.2" flatten="0.0" coefs="0.44160467519515256 -1.3411671450068348 -0.9498350885317524 -0.3127511863988334 -0.4017447199265378 -0.13118194936376745" chaos="0.0 1.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.54" scry="1.0" coefs="0.503475793608148 0.864009331691878 -0.864009331691878 0.503475793608148 0.0 0.0" post="0.85 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" spherical="1.0" flatten="0.0" coefs="-1.0 1.2246467991473532E-16 -1.2246467991473532E-16 -1.0 0.0 0.0" post="0.73 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.01" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" blur3D="0.1" flatten="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.32512731631318564 0.3798581685142306 -0.7597163370284612 0.6502546326263713 -1.0330578512396702 -0.7133018496654862" chaos="0.0 0.0 1.0 1.0 1.0" />
+  <xform weight="0.05" color="0.25" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" blur3D="0.5" post_ztranslate_wf="-0.8" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="4.619397662556434 1.913417161825449 -0.3826834323650898 0.9238795325112867 -0.3853469762560675 0.836284927194018" chaos="0.0 0.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="0.5" eCollide="0.5" eCollide_num="800" eCollide_a="0.5" epispiral="0.02" epispiral_n="30.0" epispiral_thickness="1.0" epispiral_holes="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bipolar="1.0" bipolar_shift="1.0" coefs="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" sphere_nja="1.0" sphere_nja_circle_a="1.0" sphere_nja_circle_b="1.0" sphere_nja_shift_x="0.0" sphere_nja_shift_y="0.0" sphere_nja_shift_z="0.0" sphere_nja_stretch="0.3" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+88E2EF8DE4F093E5F298E7F39EE9F4A3EAF5A9ECF6AFEEF7B2EFF8ADEEF7A8EDF7A3ECF7
+9EEBF699EAF694E9F58FE8F58AE7F485E6F480E5F37BE4F376E3F271E2F26CE1F266DFF1
+61DEF15CDDF057DCF052DBEF4DDAEF48D9EE43D8EE3ED7ED39D6ED34D5EC2FD4EC2AD3EC
+25D2EB2AD3EC32D5EC39D6ED41D8EE49DAEE50DBEF58DDF060DEF068E0F16FE1F277E3F3
+7FE5F386E6F48EE8F596E9F59DEBF6A5EDF7ADEEF8B5F0F8BCF1F9C4F3FACCF4FAD3F6FB
+DBF8FCE3F9FCEAFBFDF2FCFEFAFEFFFCFEFFF3FCFDEAFAFCE1F7FAD8F5F9CFF3F8C6F1F6
+BDEEF5B4ECF4ABEAF2A2E7F199E5EF90E3EE87E1ED7FDEEB76DCEA6DDAE964D7E75BD5E6
+52D3E449D1E340CEE237CCE02ECADF25C7DE1CC5DC13C3DB0AC1DA01BED800B9D400B3CF
+00AECA00A8C501A2C1019CBC0197B70191B2018BAE0186A90180A4017A9F01759A016F96
+02699102648C025E8702588202527E024D7902477402416F023C6B033666033061032B5C
+032557031F53031C50031D51031D51031E51031F52021F52022052022053022153022153
+022254022254022354022455012455012555012556012656012656012757012857012858
+012958012958002A59002A59002B59002B5AFFFFFFF8FEFEF1FCFEEAFBFDE3F9FCDCF8FC
+D5F6FBCEF5FBC6F3FABFF2F9B8F0F9B1EFF8AAEDF7A3ECF79CEAF695E9F68EE7F587E6F4
+80E4F479E3F372E1F26BE0F264DFF15CDDF055DCF04EDAEF47D9EF40D7EE39D6ED35D2EA
+33CCE531C6E030C1DB2EBBD62CB5D12AAFCC28AAC726A4C2259EBD2399B82193B31F8DAE
+1D87A91B82A41A7C9F18769A167095146B9012658B105F860F59810D547C0B4E77094872
+07436D053D6804376302335F033864033C6804416C054670054B7506507907557D075A82
+085F8608648A09698E0A6E930A73970B789B0C7D9F0C82A40D87A80D8CAC0E91B00F96B5
+0F9BB910A0BD11A5C111AAC612AECA13B3CE13B8D214BDD718C0D91DC2DA23C4DB28C5DC
+2EC7DD34C9DE39CAE03FCCE144CEE24ACFE350D1E455D3E55BD4E660D6E766D8E96CD9EA
+71DBEB77DDEC7CDFED82E0EE</palette>
+</flame>

@@ -1,0 +1,34 @@
+<flame name="Carbon Compounds - Remember Star" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="473 355" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" bwrands="1.0" bwrands_cellsize="1.0" bwrands_space="0.0" bwrands_gain="1.25" bwrands_inner_twist="0.0" bwrands_outer_twist="0.0" bwrands_seed="3210" bwrands_rrot="1.0" bwrands_rmin="0.25" bwrands_loonie_chance="0.5" bwrands_petals_chance="0.5" bwrands_minpetals="3" bwrands_maxpetals="20" pre_blur="10.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 1.0 1.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" splits="1.0" splits_x="1.1" splits_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" pre_blur="0.2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.5 1.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" pre_blur="0.2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.5 -1.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" smush rod="1.0" coefs="1.0 0.0 0.0 0.25 0.0 0.0" post="0.0 -2.0 0.9 0.0 0.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 0.0 1.0" />
+  <xform weight="0.2" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" julian="200.0" julian_power="-6" julian_dist="1.78" radial_blur="0.2" radial_blur_angle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 0.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" eCollide="1.0" eCollide_num="3" eCollide_a="0.4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" sphericalN="1.0" sphericalN_power="3.0" sphericalN_dist="1.0" coefs="0.5 0.0 0.0 0.5 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+ECB73BE7BE3FEAB83DECAD3CE9A93BEBAA3AEBA63AE9A03AE9973AE9963BE28935E77D32
+DB652ECA622DCF5427C14D25BE4A25B23E27B33423B73924BF3E28BE502DBB612BAA7239
+AE7C47B59751CDAA5FDABD77D7BE72E3BF67E1BE60EBC049EBBA43E9AE44E99838D87E2B
+C65E28B74829974727802B21590E19190F06060002000000000000000000000000000000
+030001120407210D133C1C214A2C245735235D3E257A542E79582D8D5A338C43297A5131
+8B3C28873D229639229126269540257B38209A28279E2E24AF2D26B33829A44827A05528
+96512FA65D309D6337876A42746D4A88725A8D6C569F7345B48550D3AF6ED6BE91E0CBB2
+E8E2C2EBDABBE1D5B8D4C4A4C1B189B4875AAF7139C66E2CD07129DE882DE99835EB9D36
+E7A037E7A036E49734D8822DC56A2BAD542796432585371F00000022040D471317691420
+6B3320661E2246171B341414120608040001000000000000000000000000000000000000
+080506100C153A1D1E593127745E49957E64C1AB90D0C7B5D5CAB8CCCBC3E3D1BCE4D2B8
+DBC8ABD8BE94D4B67BD3AB6CBD8958AD7D48A77B529D7F67B89F89CCB4A2CDB99CCEB692
+C8A885AA8357A370409167448462447B66315D412754392156401E76512C89603994763E
+9F7440B0884DC38F5ACEA470BAA072A98255977259796851705D44664D355634214C311C
+523F1E5C4F267166478480629A9B96C9BBA1CFBFA3D7BFAECCB5A5B9A9898F8564635850
+3D292729101511030C06000300000000000003010310080936181E413F2B5557487C7A5A
+B69A6CC9AE88CAB57ACFB771DAA95BD09243D58440E38530E28230DF7C2FD57A2DD37029
+D7652BD6672CCD702DC26A2AAF6425A95923A44A27A6532AA34A24B05C23BB662ACA7436
+DA832DE59C36E5A43EE5B34DE0B75FDEC173E0BD7BDAC395DFC89ED7BEACCAB39D9A9077
+8F7A617A5E46775533652D20612F1F53231D471D21381518100815020003000000000000
+000000000000100A0817100B3E281D5C42298A633DC19232D7AA3CDEA439E5A836E9A838
+ECAF37EEB437ECB139EBB33C</palette>
+</flame>

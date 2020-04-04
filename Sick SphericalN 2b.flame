@@ -1,0 +1,29 @@
+<flame name="Sick SphericalN" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="82.66666666666666" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="100.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" hemisphere="1.0" pre_blur="0.01" coefs="0.6666666666666666 0.0 0.0 0.6666666666666666 0.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" sphericalN="3.0" sphericalN_power="-3.0" sphericalN_dist="1.0" coefs="0.8000000000000003 0.0 0.0 0.3333333333333333 0.0 -1.5" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.05" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" hemisphere="1.0" pre_blur="1.0" coefs="4.0 0.0 0.0 4.0 0.0 -2.5" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" curl="1.0" curl_c1="0.5" curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 -3.0 0.0" chaos="1.0 0.0 1.0 0.0"/>
+  <palette count="256" format="RGB">
+CDCBFFCECAFDCFCAFCCFC9FAD0C9F9D1C8F7D2C8F5D2C7F4D3C7F2D4C6F1D5C6EFD5C5ED
+D6C5ECD7C4EAD8C4E9D8C3E7D9C3E6DAC2E4DBC2E2DCC1E1DCC1DFDDC0DEDEC0DCDFBFDA
+DFBFD9E0BED7E1BED6E2BDD4E2BDD2E3BCD1E4BCCFE5BBCEE6BBCCE6BACAE7B9C9E8B9C7
+E9B8C6E9B8C4EAB7C2EBB7C1ECB6BFECB6BEEDB5BCEEB5BAEFB4B9EFB4B7F0B3B6F1B3B4
+F2B2B3F3B2B1F3B1AFF4B1AEF5B0ACF6B0ABF6AFA9F7AFA7F8AEA6F9AEA4F9ADA3FAADA1
+FBAC9FFCAC9EFCAB9CFDAB9BFEAA99FEA997FEA894FEA792FEA690FEA58DFEA48BFDA388
+FDA286FDA184FDA081FDA07FFD9F7DFD9E7AFD9D78FD9C76FD9B73FD9A71FD996FFD986C
+FC976AFC9667FC9565FC9463FC9360FC925EFC915CFC9059FC8F57FC8E55FC8D52FC8C50
+FC8C4EFB8B4BFB8A49FB8946FB8844FB8742FB863FFB853DFB843BFB8338FB8236FB8134
+FB8031FA7F2FFA7E2CFA7D2AFA7C28FA7B25FA7A23FA7921FA781EFA771CFA771AFA7617
+FA7515FA7413F97310F9720EF9710BF97009F96F07F96E04F96D02F56B02F26A03EE6803
+EA6603E66404E36304DF6104DB5F05D75E05D45C05D05A05CC5906C85706C55506C15307
+BD5207B95007B64E08B24D08AE4B08AA4909A74809A346099F440A9B420A98410A943F0A
+903D0B8C3C0B893A0B85380C81370C7D350C7A330D76310D72300D6E2E0E6B2C0E672B0E
+63290F5F270F5C250F58240F5422105020104D1F10491D11451B11411A113E18123A1612
+3614123213132F11132B0F13270E14230C14200A141C09141807151405151103150D0216
+0900160D0317110518140819180B1A1C0D1B20101C24131D28161F2B18202F1B21331E22
+3720233B23243F2625422826462B274A2E284E302952332A56362B59382C5D3B2D613E2E
+6541306943316D4632704933744B34784E357C51368053378456388759398B5B3A8F5E3B
+93613C97633D9A663E9E693FA26C41A66E42AA7143AE7444B17645B57946B97C47BD7E48
+C18149C5844AC8864BCC894CD08C4DD48E4ED8914FDC9450DF9752E39953E79C54EB9F55
+EFA156F3A457F6A758FAA959  </palette>
+</flame>

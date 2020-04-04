@@ -1,0 +1,34 @@
+<flame name="Unatuned" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="43.916666666666664" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="100.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" pre_blur="0.5" polar="1.0" coefs="-2.0 2.4492935982947064E-16 -2.4492935982947064E-16 -2.0 0.0 0.0" post="1.0 0.0 0.0 0.5 0.0 2.0" chaos="1.0 1.0 1.0 0.0 1.0 0.0 1.0 1.0" />
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" pre_blur="0.01" polar="1.0" coefs="-2.0 2.4492935982947064E-16 -2.4492935982947064E-16 -2.0 0.0 0.0" post="-1.0 1.2246467991473532E-16 -1.2246467991473532E-16 -0.5 0.0 -2.0" chaos="1.0 1.0 1.0 0.0 1.0 0.0 1.0 1.0" />
+  <xform weight="2.0" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" pre_blur="1.0" voron="1.0" voron_k="0.5" voron_step="0.1" voron_num="12" voron_xseed="50" voron_yseed="12570" coefs="0.25 0.0 0.0 0.25 0.0 2.0" post="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="0.0 0.0 1.0 100.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" smush rod="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 1.0 0.0 1.0 1.0" />
+  <xform weight="10.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.8" butterfly="0.5" coefs="1.2246467991473532E-16 4.0 -3.0 1.2246467991473532E-16 0.0 0.0" chaos="0.0 0.0 0.0 0.0 0.0 1.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" splits="1.0" splits_x="1.0" splits_y="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 1.0 0.0 1.0 1.0" />
+  <xform weight="2.0" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" pre_blur="20.0" voron="1.0" voron_k="0.5" voron_step="0.1" voron_num="12" voron_xseed="50" voron_yseed="12570" coefs="0.25 0.0 0.0 0.25 0.0 0.0" post="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="0.0 0.0 1.0 100.0 0.0 0.0 1.0 1.0" />
+  <xform weight="2.0" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" pre_blur="1.0" voron="1.0" voron_k="0.5" voron_step="0.1" voron_num="12" voron_xseed="50" voron_yseed="12570" coefs="0.25 0.0 0.0 0.25 0.0 -2.0" post="6.123233995736766E-17 1.0 -1.0 6.123233995736766E-17 0.0 0.0" chaos="0.0 0.0 1.0 100.0 0.0 0.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" eCollide="1.0" eCollide_num="4" eCollide_a="0.7" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+BCDAF1A8E6FD85D4F162C1E53EAFDA1B9DCE0491C60B95BC129AB2199EA820A29E25A598
+1FAB8D19B18213B77709C1650AAD780A998B0B869E0C72B10D65BD416BBE7571BEA976BF
+FF80C00080FF2090FF359AFF4AA5FF59ACFF69B4FF71B8FF79BCFF93C9FF9DCEFFA7D3FF
+B4D9FFC1E0FF97CBF16EB7E459ACDD45A2D60080C02794CD4FA8DB77BBE89FCFF6ACD5FA
+B9DCFFA5D2FF97CBFF8AC5FF81C0FF79BCFF74B9FF70B7FF68B3FF62B0FF53A9FF4CA5FF
+45A1FF3F9EFF3A9CFF379AFF3499FF2492FF1C8EFF158AFF0D86FF0583FF0281FF0080FF
+007BF50076EC006CD80068D10065CA0061C2005DBB005AB40057AE1874D12382E22F91F4
+399AF744A3FB4BA7F952ACF75FB4F36CBDEF61B4E14DA6D63A99CC2A8EC31A83BB1E8EBD
+2398BE2BADC132B3C43ABAC745BFCC51C5D157C7D45DCAD765CEDA57C2CD3CA9B43EA7B1
+40A5AF4DADB75AB5BF75C6CF8FD6DF86D2DB6BC3CD51B4BF44ACB837A5B1269BA845A4B4
+64ADC083B6CC9FB3D687A0CB708EC16484BC597BB74A6FB05578B56A8AC07391C47C99C9
+7693C4708EC06383B75777AE42659F617FB09FB2D1AEBED9BECBE1D2DCECB1C8D690B4C0
+6F9FAA397E865291986BA5AB77AEB484B8BDADD8DC96C8CD7EB8BD67A8AE408E9551989F
+62A3A985B8BDA7CDD0E0F0F1B9D0D16B90924B75782B5B5E3466693E727551888B649FA2
+77B5B883C4C7729CD76E92DB6A88DF5C67ED6771EE717BEF7C85F08E96F28189EB747DE5
+5A64D8404BCB2631BE1521B53338BD524FC4A28CD99F88D89C85D7977FD59178D38C71D0
+886DCF7155BA6B4EB46548AF5A3CA552349E6F55AF8C77C1A898D2D8CFEFD5C8E9D2C1E3
+CEBADCCBB3D6C9AED2BA9AC5AB86B78E5F9D89589884529492697BA18062AF9849C7BE1F
+ABAF3B8EA158729274568490437AA35789AE6B98BA7FA7C593B6D1A0C0D8B497AAC96E7B
+DD444DFF0000E90631D30C62BD1292A718C3991CE3A93FE8B962ECC986F1D9A9F5E3C0F8
+D39CF3C379EFB355EA981AE39B27D29E35C0A042AFA34F9DA55892B26FA1BE87B1CB9EC0
+D8B6D0E0C5DAD4CCE2C8D3E9</palette>
+</flame>

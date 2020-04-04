@@ -1,0 +1,30 @@
+<flame name="Oil Touches" smooth_gradient="0" version="JWildfire 2.34 (22.02.2015)" size="680 544" center="-0.7 -0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.2 0.2 0.2" bg_transparency="0" brightness="5.0" saturation="1.0" gamma="500.0" gamma_threshold="0.1" vibrancy="1.0" contrast="0.1" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.995" spherical="1.0" pre_blur="0.1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 1.0 0.0" />
+  <xform weight="0.5" color="0.9" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.8" scry="1.0" coefs="0.5 0.0 0.0 0.5 0.0 0.0" chaos="1.0 0.0 1.0 0.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.8" polar="1.0" coefs="1.0 0.0 0.0 2.0 0.0 0.0" post="1.0 0.0 0.0 4.0 0.0 0.0" chaos="0.0 1.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" splits="1.0" splits_x="1.0" splits_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 0.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" waves2="1.0" waves2_scalex="0.61" waves2_scaley="0.5" waves2_freqx="3.79079633" waves2_freqy="-1.09460184" pre_curl="1.0" pre_curl_c1="0.12" pre_curl_c2="0.0" post_curl="1.0" post_curl_c1="-0.1" post_curl_c2="0.0" coefs="0.6853918349127998 0.7281744520613628 -0.7281744520613628 0.6853918349127998 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+8962A2A469A9FF80C0E380C0C880C0AD80C09280C08980C08080C0B780DBDB80EDFF80FF
+FF64E3FF49C8FF3BBAFF2EADFF1292FF0080C81C64AD295692374989503D806932807D2B
+80922480FF0064E30E49C81C2DAD2912923709893B0080400064690049920012E40E10D6
+1C0EC8371B9152295B69342D804000805C6E8069A48077DB8D89ED9B9BFFA9A9FFB7B7FF
+D2D2FFEDEDFFFBEED2F7DCA5F3CB79EFBC54ECAE2FDEAE33D0AE37B3AE3EA5B24F97B760
+83BE7F70C69F66CAAE5DCEBE50D3D369BACE9C88C5AF82B3C27CA2C08A94BE9986BAB76A
+B7D54EBAEA4CC0EB5CC6ED6CC9EE74CCEF7CD0F086A3D88577C0834AA8823782826D8383
+A48585BF8686DB8787FF8888E29885A9B77E91C47B7AD1787ACE817ACB8B7AC59D7ABEB0
+7AB4CF8AB2BFAAAEA0B2AD98BAAC90C4AB86ACAC9E93AEB77BAFCF52B1F859BDD761C9B7
+65CFA769D59775E96175E57075E17F75DD8E74D6A783CD9C92C491B0B17BCE9F65FF8040
+F58749E2965CDA9C64D2A26CD49A79D69386D9839FDD74B9E165D2E35BE3D141D1CC3ACC
+C734C7B81FB8C645C6D46BD4E192E1F8D1F8EACDDFDDC9C7C2C196A7B9658CB0347AAB14
+699F2F59934B2D72932A7886287E7924895F1F95461AA02C17A81B176E58175F67175177
+1734951621A9353E89545B6A73794AA6A916A6892AA7693EA84A52A92A66AA15738A357F
+6A558A2B94A1209EA516A9A91F9CA0288E9731818F406B804E6D725C6E64697057777149
+8072406F78475E7E4F4C85563B8B5D308F62437A6C566676695180892F916E48995361A0
+387AA81D94B00BA4B52D81B74F5EB8713CBA9419BCAA02BDAD2A95B1536CB47B44BABE01
+BABC02BABA04B9B805B9B506B8B407C7C333D6D360E4E28CF3F2B8FDFCD5F4FCDEECFCE6
+E3FCEFD5FDFDD5FDF4D5FDEBD5FDE2D5FDD9D5FED3D5F5DCD4ECE5D4E2EFD4D9F8D3D3FE
+DCD5F5E6D7EBEFD9E2FFDCD2FFC6CCFFB0C5FF9ABFFF83B8FF75B4E281C4C58DD3A798E3
+77ACFD00FF8000C88000A4800080801B9B9B37B7B744C4C452D2D280FFFF64D6E349ADC8
+2476A4004080374E8E6E5C9C</palette>
+</flame>

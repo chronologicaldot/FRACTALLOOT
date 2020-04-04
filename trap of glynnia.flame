@@ -1,0 +1,33 @@
+<flame name="Trap of Glynnia" version="JWildfire 1.62 (26.05.2014)" size="455 341" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.7853981633974483" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" preserve_z="1" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" nBlur="1.0" nBlur_numEdges="3" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.85" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" flatten="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 0.0 1.0 0.0 1.0" />
+  <xform weight="0.5" color="1.0" opacity="0.0" symmetry="0.0" nBlur="0.8" nBlur_numEdges="3" nBlur_numStripes="0" nBlur_ratioStripes="1.0" nBlur_ratioHole="0.5" nBlur_circumCircle="0" nBlur_adjustToLinear="1" nBlur_equalBlur="1" nBlur_exactCalc="0" nBlur_highlightEdges="1.0" flatten="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 0.0 1.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" loonie="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" linear3D="2.0" coefs="0.7071067811865476 0.7071067811865475 -0.7071067811865475 0.7071067811865476 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" opacity="0.0" symmetry="0.0" linear3D="5.0" ztranslate="0.01" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0 1.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" glynnia="1.0" post_circlecrop="0.0" post_circlecrop_radius="3.0" post_circlecrop_x="0.0" post_circlecrop_y="0.0" post_circlecrop_scatter_area="0.0" post_circlecrop_zero="1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 1.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" julian="0.1" julian_power="-4" julian_dist="1.0" post_curl="0.5" post_curl_c1="2.0" post_curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" symmetry="0.0" pre_blur="1.0" onion2="-0.1" onion2_meeting_pt="0.5" onion2_circle_a="1.0" onion2_circle_b="1.0" onion2_shift_x="0.0" onion2_shift_y="0.0" onion2_shift_z="0.0" onion2_top_crop="0.0" onion2_stretch="3.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 0.0 0.0 0.0 0.0" />
+  <palette count="256" format="RGB" >
+FAAC3BF7AB3AF5AB3AF2AA39EFAA38ECA938EAA837E7A836E4A736E2A735DFA634DCA534
+D9A533D7A432D4A332D1A331CFA231CCA230C9A12FC6A02FC4A02EC19F2DBE9F2DBB9E2C
+B99D2BB69D2BB39C2AB19C29AE9B29AB9A28A89A27A69927A39926A098259E97259B9724
+9896239595239395229094218D94218B932088921F85921F82911E80911D7D901D7A8F1C
+788F1C758E1B728E1A6F8D1A6D8C196A8C18678B18648A17628A165F89165C89155A8814
+5787145487135186124F86124C851149841047841044830F41830E3E820E3C810D39810C
+36800C34800B317F0A2E7E0A2B7E09297D08267C08237C07217B071E7B061B7A05187905
+16790413780313770513760714740A15730C16720F177012176F14186E17196C191A6B1C
+1B6A1F1C68211C67241D66261E64291F632B20622E206031215F33225E36235C38245B3B
+255A3D25584026574327564528544829534A2A524D2A504F2B4F522C4E552D4C572E4B5A
+2E4A5C2F485F30476231466432446733436933426C34406E353F71363E74373C76373B79
+383A7B39387E3A37803B36833C34863C33883D328B3E308D3F2F90402E93402C95412B98
+422A9A43289D44279F4526A24524A54623A74722AA4820AC491FAF4A1EB14A1CB44B1BB7
+4C1AB94D18BC4E17BE4E16C14F14C45013C65112C95210CB530FCE530ED0540CD3550BD6
+560AD85708DB5707DD5807DF5709DF570BE0570EE05610E05612E15515E15517E15419E2
+541BE2541EE25320E35322E35225E35227E45229E4512CE4512EE45030E55032E54F35E5
+4F37E64F39E64E3CE64E3EE74D40E74D42E74C45E84C47E84C49E84B4CE94B4EE94A50E9
+4A53EA4A55EA4957EA4959EA485CEB485EEB4760EB4763EC4765EC4667EC466AED456CED
+456EED4470EE4473EE4475EE4377EF437AEF427CEF427EF04281F04183F04185F14087F1
+408AF13F8CF13F8EF23F91F23E93F23E95F33D97F33D9AF33C9CF43C9EF43CA1F43BA3F5
+3BA5F53AA8F53AAAF639ACF639AEF639B1F738B3F738B5F737B8F737BAF837BCF836BFF8
+36C1F935C3F935C5F934C8FA</palette>
+</flame>

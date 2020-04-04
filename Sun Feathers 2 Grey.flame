@@ -1,0 +1,30 @@
+<flame name="Sun Feathers 2 Grey" smooth_gradient="0" version="JWildfire 2.23 (15.01.2015)" size="680 544" center="0.0 0.0" scale="43.916666666666664" rotate="90.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="2.0" saturation="1.0" gamma="3.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.93" linear3D="0.62" line="0.3" line_delta="0.5" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -0.15" chaos="1.0 1.0 0.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" cylinder="1.0" pre_blur="0.01" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 10.0 0.0 0.0" chaos="0.0 0.0 1.0 0.0" />
+  <xform weight="5.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.85" spherical="1.0" coefs="0.25 0.0 0.0 0.25 0.0 0.0" post="4.440892098500626E-16 2.0 -2.0 4.440892098500626E-16 0.0 0.0" chaos="0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" splits="1.0" splits_x="1.0" splits_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 0.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julian="5.0" julian_power="-2" julian_dist="1.0" pre_curl="1.0" pre_curl_c1="-0.195" pre_curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 2.0 -1.0" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+686E32646C2E636C2E636C2E646F2E67702B6A71286A72246B73216A721F69721D62701C
+5D6C1B4E6316486013425D113D5B10395910375911355A1232561732551933551B36561C
+3A581E3C5A1F3E5D20425F244661274D632B4D61284E60264B5E22495D1E475B1C45591B
+3D53173B50143A4D12374B0E354A0B3349093148082D48072C480736500E445A17536521
+5A6D296275327182447E8D5795A0739DA376A5A77AA9AA7BAEAE7DAEAE7EAEAE80ACB084
+ADAF86ABA87DA7A171A39A659E965E9992578E8B4B8583447F7F408582448B86488F884B
+938B4E9A92529F995BA29C65A5A170AFAF88B8B794C1BFA0C6C5A6CCCBACD8D5B9E0DDC4
+E4E0C9DADAC2D0D4BCC9CEB4C3C8ACB7BC9BA8B28C9AA47D8E976C707E4C6777445F703C
+51632D435822384A1B303F142A330C2C350A2E3809303B0A333E0B38430E3C470F404911
+444C124C55144E5814505B155462175568165469165269164D68164C66174C64184C6418
+4C65184B6416496214476012435D103F54103F52114050123F4C123D4812394311363D11
+323B13333B14353C15383E173C431B40471E474A234E512A585A317572407E7A4588824B
+999259A8A068B4AC78BFB589D0C6A5D4C8A9D8CBADE0D3B7E5D9C0E9DCC6EBDCC6E7D9C4
+E0D5BFD9CDB4D3C6A8CCC29FC8BD97C3B78BBDB07DB5A96FA297529D954D999349939146
+92904793924A97964F9E9A55A29C5CA59F61A19F629B9A6194955E8B8F598387547C7F51
+76754E6C6D495F604251543941482F313E222536182030121F2E0E1E2C0D1F2B0F212B12
+242E1629341A323D1E3D49254B562D5C63376B7149797E5A858A6B909479999C82A0A486
+A9A983B5B188BFB78ECABE96D5C69EDCC9A3DBC8A1D7C296D4BD8ACFB67ECDB075CCB071
+CFB26FD0B16ECDB06AC7AD63BEA95BB5A153AA9B4EA298479B944296933D9190398C8D36
+8A8C348889368E90449297549B9F63A3A771ACB080B5B98EBABB93D0CEB7D9D7C6E3E0D6
+E9E7E2EFEFEEECECEAEAE9E7DAD8CDCFCCBEC5C1AFB9B7A2AEAE95A2A589969C7E919777
+8C92717981537279456C7137</palette>
+</flame>

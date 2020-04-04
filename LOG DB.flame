@@ -1,0 +1,29 @@
+<flame name="LOG DB" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="82.66666666666666" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="100.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" log_db="1.0" log_db_base="1.0" log_db_fix_period="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" log_db="1.0" log_db_base="1.0" log_db_fix_period="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="6.123233995736766E-17 -1.0 1.0 6.123233995736766E-17 0.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" log_db="1.0" log_db_base="1.0" log_db_fix_period="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 -1.2246467991473532E-16 1.2246467991473532E-16 -1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" log_db="1.0" log_db_base="1.0" log_db_fix_period="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.8369701987210297E-16 1.0 -1.0 -1.8369701987210297E-16 0.0 0.0" chaos="1.0 1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+F9908AF89189F69287F59386F39484F29583F09781EF9880ED997EEC9A7DEA9B7BE99C7A
+E89D78E69E77E59F75E3A074E2A172E0A371DFA46FDDA56EDCA66CDAA76BD9A869D8A968
+D6AA66D5AB65D3AC63D2AD62D0AF60CFB05FCDB15DCCB25CCBB35AC9B459C8B557C6B656
+C5B754C3B853C2B951C0BB50BFBC4EBDBD4DBCBE4BBBBF4AB9C049B8C147B6C246B5C344
+B3C443B2C541B0C640AFC83EADC93DACCA3BABCB3AA9CC38A8CD37A6CE35A5CF34A3D032
+A2D131A0D22F9FD42E9DD52C9CD62B9BD72999D82898D92696DA2595DB2393DC2292DD20
+90DE1F8FE01D8DE11C8CE21A8BE31989E41788E51686E61485E71383E81182E91080EA0E
+7FEC0D7DED0B7EED0C7FED0F81ED1182ED1384ED1585ED1887ED1A88ED1C8AED1E8BED20
+8DED238EED2590ED2791ED2993ED2B94ED2E96ED3097ED3299ED349AED379CED399DEE3B
+9FEE3DA0EE3FA2EE42A3EE44A5EE46A6EE48A8EE4AA9EE4DABEE4FACEE51AEEE53AFEE56
+B1EE58B2EE5AB4EE5CB5EE5EB7EE61B8EE63BAEE65BBEE67BDEE6ABEEE6CBFEE6EC1EE70
+C2EE72C4EE75C5EE77C7EE79C8EE7BCAEE7DCBEE80CDEE82CEEE84D0EE86D1EE89D3EE8B
+D4EE8DD6EE8FD7EE91D9EE94DAEE96DCEE98DDEF9ADFEF9CE0EF9FE2EFA1E3EFA3E5EFA5
+E6EFA8E8EFAAE9EFACEBEFAEECEFB0EEEFB3EFEFB5F1EFB7F2EFB9F4EFBBF5EFBEF7EFC0
+F8EFC2FAEFC4FBEFC7FCEEC7FAECC5F9E9C3F7E6C0F6E4BEF5E1BCF3DFBAF2DCB7F0DAB5
+EFD7B3EDD4B1ECD2AEEBCFACE9CDAAE8CAA7E6C7A5E5C5A3E4C2A1E2C09EE1BD9CDFBB9A
+DEB898DDB595DBB393DAB091D8AE8ED7AB8CD6A98AD4A688D3A385D1A183D09E81CF9C7E
+CD997CCC967ACA9478C99175C88F73C68C71C58A6FC3876CC2846AC08268BF7F65BE7D63
+BC7A61BB785FB9755CB8725AB77058B56D56B46B53B26851B1664FB0634CAE604AAD5E48
+AB5B46AA5943A95641A7533FA6513DA44E3AA34C38A24936A047339F44319D412F9C3F2D
+9B3C2A993A28983726963524953221932F1F922D1D912A1A8F28188E25168C22148B2011
+8A1D0F881B0D87180B851608  </palette>
+</flame>

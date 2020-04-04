@@ -1,0 +1,35 @@
+<flame name="Carbon Compounds - Indentations" smooth_gradient="0" version="JWildfire 2.22 XMAS-EDITION R4 (26.12.2014)" size="473 355" center="0.0 0.0" scale="150.0003349912717" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" bwrands="1.0" bwrands_cellsize="1.0" bwrands_space="0.0" bwrands_gain="1.25" bwrands_inner_twist="0.0" bwrands_outer_twist="0.0" bwrands_seed="3210" bwrands_rrot="1.0" bwrands_rmin="0.25" bwrands_loonie_chance="0.5" bwrands_petals_chance="0.5" bwrands_minpetals="3" bwrands_maxpetals="20" pre_blur="10.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 1.0 1.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" splits="1.0" splits_x="1.1" splits_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" pre_blur="0.2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.5 1.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" pre_blur="0.2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.5 -1.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" smush rod="1.0" coefs="1.0 0.0 0.0 0.25 0.0 0.0" post="0.0 -2.0 0.9 0.0 0.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 0.0 1.0" />
+  <xform weight="0.2" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" julian="200.0" julian_power="-6" julian_dist="1.78" radial_blur="0.2" radial_blur_angle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 0.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" eCollide="1.0" eCollide_num="3" eCollide_a="0.4" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bipolar="1.5" bipolar_shift="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" curl="1.0" curl_c1="1.8" curl_c2="0.0" coefs="0.9586762283055584 -0.28449936604820636 0.28449936604820636 0.9586762283055584 -0.36730945821854905 0.026236389872753424" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+722604772D0B7D3512823C198843208D4B2892522F9859369D613DA36844A86F4BAD7752
+B37E59B88560BD8D68C3946FC89C76CEA37DD3AA84D8B28BDEB992E3C099E9C8A0EECFA8
+F3D6AFF9DEB6FADFB7F6D9B0F2D2A9EECCA2EAC59BE6BE94E2B88DDEB186DAAB7FD5A478
+D19D70CD9769C99062C58A5BC18354BD7C4DB97646B56F3FB16938AC6231A85B2AA45523
+A04E1C9C481598410D943A06953E0D9743169949209C4F2A9E5434A05A3DA26047A56551
+A76B5AA97164AB776EAE7C77B08281B2888BB58D94B7939EB999A8BB9FB1BEA4BBC0AAC5
+C2B0CFC4B5D8C7BBE2C9C1ECCBC6F5CDCBFCCDCDF8CECFF4CED1F0CED3ECCED5E8CED7E4
+CFD9E0CFDADCCFDCD8CFDED4D0E0D0D0E2CCD0E4C8D0E6C4D1E8C0D1E9BCD1EBB8D1EDB4
+D2EFB0D2F1ACD2F3A8D2F5A4D2F7A0D3F89CD3FA98D0F793CCF08DC7E987C3E381BEDC7C
+BAD576B5CE70B1C76AACC165A8BA5FA3B3599EAC539AA54E959F489198428C913C888A37
+8383317F7D2B7A7625766F2071681A6D6114685B0E645409FA7574FA7874FA7C73FA7F73
+FA8273FA8672FA8972FA8C72FA9072FA9371FA9671FA9A71FA9D70FAA070FAA370FAA76F
+FAAA6FFAAD6FFAB16EFAB46EFAB76EFABB6DFABE6DFAC16DFAC56DFAC86CFACA6BFACA6A
+FACA69FACA67FACB66FACB64FACB63F9CB62F9CB60F9CB5FF9CB5DF9CB5CF9CB5BF9CC59
+F9CC58F9CC56F9CC55F9CC54F9CC52F8CC51F8CC4FF8CD4EF8CD4DF8CD4BF8CD4AF8CD48
+F6CC4EF4CB55F2CA5CF0C963EEC96AECC871EAC778E8C67FE6C586E4C48DE2C394E0C29B
+DEC1A2DBC0A9D9BFB0D7BEB7D5BDBED3BCC5D1BBCCCFBAD3CDBADACBB9E1C9B8E8C7B7EF
+C5B6F6C2B4FABEADF0BAA6E7B69FDDB298D3AE91C9AB8AC0A783B6A37CAC9F75A39B6E99
+97688F9361858F5A7C8B5372874C6883455E7F3E557B374B7730417329386F222E6B1C24
+67151A640E116007075E05035F0603600703610903620A03620B03630D03640E03650F03
+6611036612036713036815036916046917046A19046B1A046C1B046D1D046D1E046E1F04
+6F2104702204702304712504</palette>
+</flame>

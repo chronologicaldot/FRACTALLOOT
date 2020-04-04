@@ -1,0 +1,29 @@
+<flame name="Horizon's Child 2" version="JWildfire 2.00 R2 (12.10.2014)" size="473 355" center="0.0 0.0" scale="50.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.2" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.001" color="0.1" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" gaussian_blur="1.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" foci="1.0" coefs="0.0 1.1 -1.0 0.0 0.0 0.0" chaos="1.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" eCollide="1.0" eCollide_num="20" eCollide_a="0.1" splits="0.1" splits_x="0.0" splits_y="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" bipolar="3.0" bipolar_shift="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0" />
+  <palette count="256" format="RGB" >
+C79B5CC69B5AC19257C08E5AB98E57B68D53A98B5091845C7D945A7F8A6A7B8979788879
+7484767086796A8675637A7160776D5B6B635767665967565F644D6160485F5A4062594F
+645F457562406D614868644873604778634A856E469C7B4DA58B4CB1924FC29658D29457
+D59C55D49E61D3A062D3A164DAA86FDEB672ECC27EE8C67DE0BB7AD3B77EE4C68DB6BD83
+97A98D90A186869B898198887F95888094877C91847B9183748E846F88836C82806B7E7A
+637A6F6669586B70526F6B4A736A437B663C976F3EA26339A1674CA173499A7946947D42
+8B7B4E8F7A58947C5487714D7F754C726F49726F49756A5B726E4A6F7253686F61637A70
+627C77647F766980776A817970847972887F6F8882708983758D807993827D917E7D8D7A
+7C8D78818D6F9A8962A6935EBB945ACA9355D38D54DA8E53DB9559E39C60DE9B5ED29961
+CC9860BE945DAC955B9C935D8F956789926A808F727D8D737D8A707C83627A7B5B777858
+69734F6766455F5E3D54573E524E364B4B2E474536534C2863441F6542215F30126B371A
+693C236739256F381B782817753C1D76502E8D63399568369662367E5825804421794922
+754116854A229E4223A85A35A96131C36638C86E3DCB7641D17C41C47E37B58039AE7D48
+AB7946A57244A8643AAF6934B66E3EB27848BC8349C58B4FC58F4FC49B59C3A361C19F6E
+C1AD7CB9AD869AA48696A483949F858C9D848795808298807C927E79907C768E7D748776
+7782667C83627D805F797859726D4C726846655F3B67583B5554305C4B2B614F37555528
+614A23674828624C2A674E2D65532F69583C735F3B7263378A7037977A41AB8245AF7D4A
+C38748D38F49DB894CE08C4AD79047C68C4CBA8946AD7E44A76D329366376E5527573E25
+34331E282B1D2C281C42371E5B3D1E704128895231A46635C47643DC8145E3804DE88D48
+DD9753ECA150E1A152E1A350DDA860DD9958E9AB60D2AE69E3A162EBAC6DEEB374E8B067
+E7BA66E3B86ED2AB76BEA166B2A0659F9C6D8F9A7C86957E8492787F9076839076909872
+909668A38F66B9935DC19A62</palette>
+</flame>

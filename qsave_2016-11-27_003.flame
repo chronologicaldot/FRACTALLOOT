@@ -1,0 +1,30 @@
+<flame smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="5.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="1.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.8" polar2="1.0" coefs="4.0 0.0 0.0 4.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.8" polar2="1.0" coefs="4.0 0.0 0.0 4.0 0.0 0.0" post="-1.0 -1.2246467991473532E-16 1.2246467991473532E-16 -1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.5" pre_blur="20.0" splits="1.0" splits_x="1.0" splits_y="0.0" coefs="4.0 0.0 0.0 4.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" julian="1.0" julian_power="6" julian_dist="4.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" splits="1.0" splits_x="1.0" splits_y="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 0.0 0.0" />
+  <palette count="256" format="RGB" >
+FA914EF19554E8995BDF9D61D6A167CDA56DC4A974BBAD7AB2B180A9B586A0B98D97BD93
+8EC19985C59F7CC9A673CDAC6AD1B261D5B858D9BF4FDDC546E1CB3DE5D134EAD82BEEDE
+22F2E419F6EA17F7EE1DF4EF23F1EF2AEEF030EBF136E8F13DE5F243E1F249DEF34FDBF4
+56D8F45CD5F562D2F569CFF66FCCF675C9F77CC6F882C3F888C0F98FBDF995BAFA9BB7FB
+A2B4FBA8B1FCAEAEFCB5ABFDB5ACF6B4AFECB3B3E3B1B6DAB0B9D1AFBCC8AEBFBEADC2B5
+ABC5ACAAC8A3A9CB99A8CE90A7D187A5D47EA4D775A3DA6BA2DD62A0E0599FE3509EE646
+9DE93D9CEC349AEF2B99F32298F61897F61194EE1092E5108FDC0F8DD40F8ACB0E88C20E
+85BA0D83B10D80A90C7EA00B7B970B798F0A76860A747D097175096F6C086C64086A5B07
+675207654A066241056038055D30045B2704581E03561A06551A0C54191152181651171C
+5016214E15264D142C4C13314A123649113C481141461046450F4C440E51420D56410C5C
+400B613E0A673D096C3C08713A087739077C38068136058735048C36048737048137047C
+3804763905713A056C3B05663C05613C055B3D05563E05513F054B40064640064141063B
+42063643063044062B45062645062046061B47071548071049070B4A07054D0A0554110B
+5B191262201869271F702E2577362C7E3D338544398C4C409353469A5A4DA16253A8695A
+AF7061B67767BD7F6EC48674CB8D7BD29581D99C88E0A38EE7AB95EEB29CF5B9A2FCC1A9
+FCC2ADFAC1B0F8C1B3F6C1B6F4C0BAF2C0BDF0C0C0EEBFC3EDBFC7EBBFCAE9BECDE7BED0
+E5BED4E3BDD7E1BDDADFBCDDDEBCE0DCBCE4DABBE7D8BBEAD6BBEDD4BAF1D2BAF4D0BAF7
+CFB9FACBB8FBC4B3F1BCAFE7B4AADEACA5D4A4A0CA9C9CC09497B68C92AD848EA37D8999
+75848F6D7F85657B7C5D76725571684D6C5E4568543D634B365E412E5A3726552D1E5023
+164B1A0E4710064206043F02063E02083D020A3C020B3A020D39020F3802113702133502
+1534021633021832021A30021C2F011E2E01202D01212B01232A01252901272801292601
+2B25012C24012E2301302101</palette>
+</flame>

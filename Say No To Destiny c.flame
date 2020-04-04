@@ -1,0 +1,32 @@
+<flame name="Say No To Destiny" smooth_gradient="0" version="JWildfire 2.34 (22.02.2015)" size="680 544" center="-0.2 0.0" scale="250.0" rotate="120.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="2.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.2" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="2.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" elliptic="1.0" pre_curl="1.0" pre_curl_c1="0.05532653437633233" pre_curl_c2="0.0" pre_crop="1.0" pre_crop_left="-10000.0" pre_crop_right="10000.0" pre_crop_top="-10000.0" pre_crop_bottom="0.0" pre_crop_scatter_area="1.0E-7" pre_crop_zero="0" coefs="-0.7087339894441826 -0.7012396170414947 0.7012396170414947 -0.7087339894441826 0.0849542915674531 -0.4921311555117299" post="1.0 0.0 0.0 1.2 0.0 0.0" chaos="2.0 1.0 1.0 1.0" />
+  <xform weight="2.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.95" splits="1.0" splits_x="1.2" splits_y="0.0" falloff2="0.3" falloff2_scatter="20.0" falloff2_mindist="2.0" falloff2_mul_x="1.0" falloff2_mul_y="1.0" falloff2_mul_z="0.0" falloff2_mul_c="0.5" falloff2_x0="0.0" falloff2_y0="0.0" falloff2_z0="0.0" falloff2_invert="0" falloff2_type="0" coefs="0.7743291380748925 -2.445347989162145 2.445347989162145 0.7743291380748925 0.9305367343443716 -0.08986247302176356" post="1.0 0.0 0.0 1.5 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.5" jac_cn="1.0" jac_cn_k="1.0" line="0.1" line_delta="0.0" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="6.123233995736766E-17 -2.0 0.2 6.123233995736766E-17 1.1 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.5" jac_cn="1.0" jac_cn_k="1.0" line="0.1" line_delta="0.0" line_phi="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.8369701987210297E-16 2.0 -0.2 -3.67394039744206E-17 -1.1 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" epispiral="0.002" epispiral_n="1000000.0" epispiral_thickness="0.0" epispiral_holes="1.0" pre_curl="1.0" pre_curl_c1="0.1" pre_curl_c2="0.0" epispiral#1#="0.002" epispiral#1#_n="6.0" epispiral#1#_thickness="0.0" epispiral#1#_holes="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" waves2="1.0" waves2_scalex="0.3" waves2_scaley="0.5" waves2_freqx="1.5707963267948966" waves2_freqy="0.38" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" curl="1.0" curl_c1="-0.48" curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+43A3CB45A3CA46A4C948A4C749A5C64BA5C54DA6C44EA6C250A7C151A7C053A8BF55A8BD
+56A9BC58A9BB59AABA5BAAB85DABB75EABB660ACB561ACB363ADB264ADB166AEB068AEAE
+69AFAD6BAFAC6CB0AB6EB0A970B1A871B1A773B2A674B2A476B3A378B3A279B4A17BB4A0
+7CB59E7EB59D80B69C81B69B83B79984B79886B89788B89689B9948BB9938CBA928EBA91
+90BB8F91BB8E93BC8D94BC8C96BD8A97BD8999BE889BBE879CBF859EBF849FC083A1C082
+A3C180A4C17FA6C27EA7C27DA9C37CABC37AACC379AEC478AFC477B1C575B3C574B4C673
+B6C672B7C770B9C76FBBC86EBCC86DBEC96BBFC96AC1CA69C3CA68C4CB66C6CB65C7CC64
+C9CC63CACD61CBCC62CCCA63CCC964CDC765CDC567CDC468CEC269CEC16ACFBF6BCFBD6D
+D0BC6ED0BA6FD0B870D1B771D1B573D2B374D2B275D2B076D3AF78D3AD79D4AB7AD4AA7B
+D5A87CD5A67ED5A57FD6A380D6A281D7A082D79E84D89D85D89B86D89987D99888D9968A
+DA958BDA938CDA918DDB908EDB8E90DC8C91DC8B92DD8993DD8895DD8696DE8497DE8398
+DF8199DF7F9BE07E9CE07C9DE07A9EE1799FE177A1E276A2E274A3E272A4E371A5E36FA7
+E46DA8E46CA9E56AAAE569ABE567ADE665AEE664AFE762B0E760B1E85FB3E85DB4E85CB5
+E95AB6E958B8EA57B9EA55BAEB53BBEB52BCEB50BEEC4EBFEC4DC0ED4BC1ED4AC2ED48C4
+EE46C5EE45C6EF43C7EE42C8ED43C6EB43C5E943C3E844C2E644C0E445BFE245BDE146BC
+DF46BBDD46B9DB47B8DA47B6D848B5D648B3D548B2D349B0D149AFCF4AAECE4AACCC4BAB
+CA4BA9C94BA8C74CA6C54CA5C34DA3C24DA2C04EA1BE4E9FBC4E9EBB4F9CB94F9BB75099
+B65098B45097B25195B05194AF5292AD5291AB538FAA538EA8538CA6548BA4548AA35588
+A155879F56859D56849C56829A578198577F97587E95587D93597B91597A9059788E5A77
+8C5A758B5B74895B72875B71855C70845C6E825D6D805D6B7E5E6A7D5E687B5E67795F66
+785F6476606374606172616071615E6F615D6D625B6C625A6A6359686357666356656454
+6364536165515F65505E664E</palette>
+</flame>

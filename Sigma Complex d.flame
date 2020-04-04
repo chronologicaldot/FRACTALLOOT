@@ -1,0 +1,34 @@
+<flame name="Sigma Complex" smooth_gradient="0" version="JWildfire 2.34 (22.02.2015)" size="680 544" center="0.0 0.0" scale="187.4639949719503" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="2.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.9" elliptic="1.0" pre_crop="1.0" pre_crop_left="-1000.0" pre_crop_right="1000.0" pre_crop_top="-1000.0" pre_crop_bottom="0.0" pre_crop_scatter_area="5.0E-5" pre_crop_zero="0" coefs="0.5 0.4999999999999999 -0.4999999999999999 0.5 -0.1 -0.30000000000000004" post="1.0 0.0 0.0 2.2 0.0 0.0" chaos="10.0 10.0 0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.2" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.9" julian="0.75" julian_power="-1" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="1.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" splits="1.0" splits_x="1.14" splits_y="0.0" radial_blur="0.5" radial_blur_angle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 2.0 0.0 0.0" chaos="20.0 10.0 0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.1" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.0" cylinder="1.0" pre_blur="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.066 0.0 0.0 1.0 1.07 0.0" chaos="1.0 5.0 0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.1" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-0.0" cylinder="1.0" pre_blur="0.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.066 0.0 0.0 1.0 -1.07 0.0" chaos="1.0 5.0 0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.05" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="-1.0" scry="0.09" pre_blur="0.1" post_crop="1.0" post_crop_left="-1.0" post_crop_right="0.01" post_crop_top="-1.0" post_crop_bottom="1.0" post_crop_scatter_area="0.02" post_crop_zero="0" coefs="0.8 0.0 0.0 8.0 0.0 0.0" post="1.0 0.0 0.0 1.5 0.99 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.05" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" scry="0.09" pre_blur="0.1" post_crop="1.0" post_crop_left="-0.01" post_crop_right="1.0" post_crop_top="-1.0" post_crop_bottom="1.0" post_crop_scatter_area="0.02" post_crop_zero="0" coefs="0.8 0.0 0.0 8.0 0.0 0.0" post="1.0 0.0 0.0 1.5 -0.99 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" waves2="1.0" waves2_scalex="0.25" waves2_scaley="-0.56" waves2_freqx="1.5707963267948966" waves2_freqy="2.5" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" curl="1.0" curl_c1="0.34" curl_c2="0.0" coefs="0.44979550927007017 0.893131569165752 -0.893131569165752 0.44979550927007017 0.17146188402318174 -0.08573094201159104" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+EAB49C9A523C823C2D6B271E521D203913223A13243B142666384292574BBF7655BF7757
+BF785AB16A53A45C4DA146409E3134B81238BF164BC61B5FCE4082D766A6CA7A99BE8E8C
+91636569414C421F333114232009132B0C1C361025522C3B854B4AD1835FE29A68F3B272
+F6C972FAE072FAE37DFBE788F4E1A6F4E4CAF5E8EFF9F3F2FEFFF5FCFAE4FAF6D3F3EEB6
+E7CF93CB8E71C58267BF775EA9444C94113B8018356C1F2F2A0B1126090E22070C43091A
+650C28771C21892C1B8E2D1C8936549A7676BB8298DD8EBBDD86B9DE7FB7F28195CC707D
+D41237D00F36CC0D36C90D36C70E37C90E36CB0E36C81A33AD5434A14230AC2D32B71834
+B41329B10E1FB90F2CBC1145AC8D95BB9291CA988DC68E7FC28572C47860B9584FA11F45
+671A4E193C401A222A1B09151A0913190A110F0510020607040D160C0B15140A15140816
+1507180F09170B08191405222908376242597155698169799B7D876381B5588EAA649BB0
+BEE19FCED393DEC688E5C789ECC88AEBAB7BCE967BBEC381C5E9A1A8DAF1A3D9F09FD9EF
+9BDDE99AD7C7C0E3ABA9D48CC88C70C57E63C27156C54548C8193AC9102FC61029C00F23
+BF0827C31131C71031CB0F32CA0E31C90E2DCA1027D00D2BDC183EDA1D44D9234BD16052
+D8874FDB7952EA5058DE1F52DE194EE45A58E9775DEE9462F6A36FF39D7AEEC38CFCD6A5
+E99DCBE2A6BBDCAFACDAA6A8C8ACABC2A2A3A2B985AAD384B7DA96D2E8A7E7CADEE0F0FD
+EEE0E0E4EEB1EDD49CFCC380F1A569EFA066EE9C64EB9A63E99362CB7E64A0615A6B484E
+583850603D5E5072A262ADC49FD3E9A9D7EFC2EDC2C0E7A6CCE498C0E3ABBBE1F4B0E3F6
+B4D9F3AACAE3B99EA7B2989B7B9F7B82C5686DB96E6A987B63ACBB6DD5CE85D8EA8ED9EE
+94D7E88AD7E982D7EB74CDDF73C4D96D99BCAB949CB09CA7A3D3A397D8BA9AE0E89AE1F3
+A7E6F8A1E2F49BDFF299E0F298DFE1A3E1B8A1D8848FC06E748C686C4D536F363D602F20
+6D161C6A3629622F40642049644554785267A36773B47169B48261C68366CC8B65CD835E
+D38264E68D65F58B7DE9BFA6</palette>
+</flame>

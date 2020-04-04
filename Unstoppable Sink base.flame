@@ -1,0 +1,31 @@
+<flame name="Unstoppable Sink base" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="1" brightness="2.0" saturation="1.0" gamma="1.8" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="10.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.995" elliptic="1.0" pre_curl="1.0" pre_curl_c1="0.05367980417607685" pre_curl_c2="0.0" pre_crop="1.0" pre_crop_left="-10000.0" pre_crop_right="10000.0" pre_crop_top="-10000.0" pre_crop_bottom="0.0" pre_crop_scatter_area="1.0E-7" pre_crop_zero="0" coefs="0.9865208716838809 0.38069509980330973 -0.38069509980330973 0.9865208716838809 -0.26721294079498337 -0.4503427200907566" post="1.0 0.0 0.0 0.9939434930845666 0.0 0.0" chaos="0.0 2.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" splits="1.0" splits_x="1.2" splits_y="0.0" pre_blur="2.0" coefs="-0.5220425904063026 -0.6256525062320425 0.6256525062320425 -0.5220425904063026 -0.7832658034189943 0.37415103953462525" chaos="0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" pre_blur="0.2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.5 1.1 0.0" chaos="0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" line="0.2" line_delta="0.5" line_phi="0.0" pre_blur="0.2" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="0.1 0.0 0.0 1.5 -1.1 0.0" chaos="0.0 1.0 1.0 1.0 1.0" />
+  <xform weight="20.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" linear3D="1.0" pre_curl="1.0" pre_curl_c1="0.56" pre_curl_c2="0.0" epispiral="0.0" epispiral_n="2.0" epispiral_thickness="0.0" epispiral_holes="1.0" coefs="0.99999078543629 0.004292906068416032 -0.004292906068416032 0.99999078543629 -0.03279548734094173 0.18037518037518036" chaos="1.0 0.0 1.0 1.0 0.0" />
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" curl="1.25" curl_c1="-0.16" curl_c2="0.0" coefs="0.6170515500914115 -0.7869227309779444 0.7869227309779444 0.6170515500914115 0.04919323101141253 0.008198871835235488" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+F9CE92F5CB90F2C88DEEC58BEBC289E7BF87E3BC84E0B982DCB680D9B37ED5B07BD1AD79
+CEAA77CAA775C7A472C3A170C09E6EBC9B6BB89869B59567B19265AE8F62AA8C60A6895E
+A3865C9F83599C8057987D55947A539177508D744E8A714C866E4A826A477F67457B6443
+786140745E3E705B3C6D583A695537665235624F335E4C315B492E57462C54432A504028
+4D3D25493A2345372142341E3E311C3B2E1A372B183328153025132C2211291F0F251C0C
+21190A1E16081A1306171003130D011711041A14071E180B221B0E251F112922142C2617
+30291B342D1E3730213B34243F3727423B2A463E2E4A42314D4534514937554C3A58503E
+5C53415F5744635A47675E4A6A614E6E6551726854756C57796F5A7D735D807661847A64
+887D678B816A8F846D928871968B749A8F779D927AA1967DA59981A89D84ACA087B0A48A
+B3A78DB7AB90BAAE94BEB297C2B59AC5B99DC9BCA0CDC0A4D0C3A7D4C7AAD8CAADDBCEB0
+DFD1B4E3D5B7E6D8BAEADCBDEDDFC0F1E3C3F5E6C7F8EACAFCEDCDFAEACEF8E8CEF6E5CF
+F4E3D0F2E0D0F0DDD1EEDBD1ECD8D2E9D6D3E7D3D3E5D0D4E3CED5E1CBD5DFC8D6DDC6D7
+DBC3D7D9C1D8D7BED9D5BBD9D3B9DAD1B6DACFB4DBCDB1DCCBAEDCC8ACDDC6A9DEC4A7DE
+C2A4DFC0A1E0BE9FE0BC9CE1BA9AE2B897E2B694E3B492E3B28FE4B08CE5AE8AE5AC87E6
+AA85E7A782E7A57FE8A37DE9A17AE99F78EA9D75EA9B72EB9970EC976DEC956BED9368EE
+9165EE8F63EF8D60F08B5DF0895BF18658F28456F28253F38050F37E4EF47C4BF57A49F5
+7846F67A46F27B46EF7D46EB7F46E78046E48246E08346DC8546D98746D58846D18A46CE
+8C46CA8D46C68F46C39146BF9246BB9446B89646B49746B09946AD9A46A99C46A59E46A2
+9F469EA1469AA34697A44693A6468FA8468CA94688AB4684AD4681AE467DB04679B14675
+B34672B5466EB6466AB84667BA4663BB465FBD465CBF4658C04654C24651C3464DC54649
+C74646C84642CA463ECC463BCD4637CF4633D14630D2462CD44628D64625D74621D9461D
+DA461ADC4616DE4612DF460F</palette>
+</flame>

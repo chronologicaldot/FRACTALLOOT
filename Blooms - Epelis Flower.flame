@@ -1,0 +1,30 @@
+<flame name="Blooms - Epelis Flower" smooth_gradient="0" version="JWildfire 2.34 (22.02.2015)" size="680 544" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="3.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="2.0" cam_pitch="1.0471975511965976" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" preserve_z="1" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" pre_blur="1.0" linear3D="1.0" epispiral="0.22" epispiral_n="5.0" epispiral_thickness="0.0" epispiral_holes="1.0" cross="0.01" flatten="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 1.0 0.0 0.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-0.2" splits="1.0" splits_x="0.2" splits_y="0.1" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" julia3D="1.0" julia3D_power="-3" pre_ztranslate="-0.172" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 0.0 0.0 0.0" />
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.9" linear3D="3.072" post_ztranslate_wf="0.772" coefs="0.6853918349127993 0.7281744520613623 -0.7281744520613623 0.6853918349127993 0.0 0.0" chaos="0.0 0.0 1.0 1.0 0.0" />
+  <xform weight="0.1" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" splits="1.0" splits_x="10.0" splits_y="0.0" post_ztranslate_wf="10.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 0.01 0.0 0.0" chaos="0.0 0.0 1.0 1.0 0.0" />
+  <palette count="256" format="RGB" >
+E6C896E1C291DDBB8CD8B587D4AF82CFA87DCAA277C69C72C1956DBD8F68B88963B3825E
+AF7C59AA7654A66F4FA1694A9C6344985C3F93563A8E50358A493085432B813D267C3621
+77301C732A176E23116A1D0C6517076618076B1E0B70240E762B127B311680381A853E1D
+8B4521904B259551289A582CA05E30A56533AA6B37AF723BB4783EBA7F42BF8546C48B49
+C9924DCF9851D49F55D9A558DEAC5CE4B260E9B863EEBF67F3C56BF8CB6EF8CD71F9CF73
+F9D176F9D378F9D47BFAD67DFAD880FADA82FADC84FADD87FBDF89FBE18CFBE38EFBE591
+FCE793FCE896FCEA98FCEC9BFDEE9DFDF09FFDF2A2FDF3A4FEF5A7FEF7A9FEF9ACFEFBAE
+FFFDB1FFFEB3FAF9B0F3F1A9ECE8A3E5DF9DDDD796D6CE90CFC68AC8BD83C1B47DB9AC77
+B2A371AB9B6AA492649D895E9581578E7851876F4B806744785E3E7156386A4D3163442B
+5C3C2554331E4D2B184622123F190B381105330A00350B00370D003A0E013C0F013F1001
+4111014412014614014915024B16024E1702501802531902551B03571C035A1D035C1E03
+5F1F036120036421046623046924046B25046E2604702704732805752A05772B057C310C
+80381585401D8A47268F4F2F935638985E419D6549A26C52A6745BAB7B64B0836DB58A75
+B9927EBE9987C3A190C8A898CCB0A1D1B7AAD6BEB3DBC6BCDFCDC4E4D5CDE9DCD6EEE4DF
+F2EBE8F7F3F0FCFAF9FCFCFCF4F3F3ECEBEAE4E2E1DBDAD8D3D1CFCBC8C6C3C0BEBAB7B5
+B2AEACAAA6A3A29D9A9A9491918C8889837F817A7679726D70696468605B605852584F49
+504741473E383F352F372D262F241D261B141E130B160A021A0F09201712261E1A2D2523
+332C2C3933353F3A3E4542474B494F5150585757615D5E6A636573696D7C6F7484757B8D
+7B829681899F8790A88D98B1939FB999A6C29FADCBA5B4D4ACBCDDB2C3E5B8CAEEBED1F7
+C1D5F8C0D6F0C0D7E7BFD8DFBFD9D6BED9CEBEDAC5BDDBBDBDDCB4BCDDACBBDDA4BBDE9B
+BADF93BAE08AB9E182B9E179B8E271B8E368B7E460B7E557B6E64FB6E646B5E73EB5E835
+B4E92DB4EA24B3EA1CB3EB13</palette>
+</flame>

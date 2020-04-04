@@ -1,0 +1,30 @@
+<flame version="JWildfire 1.90 (24.08.2014)" size="682 512" center="0.0 0.0" scale="100.0" rotate="0.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="4.0" saturation="1.0" gamma="4.0" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" >
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="3.061616997868383E-17 0.25 -0.5 3.061616997868383E-17 0.0 0.0" chaos="1.0 1.0 1.0 1.0 0.0" />
+  <xform weight="0.5" color="0.68" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" bipolar="2.0" bipolar_shift="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" wedge="1.0" wedge_angle="5.0" wedge_hole="0.0" wedge_count="1" wedge_swirl="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.5 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" wedge="1.0" wedge_angle="5.0" wedge_hole="0.0" wedge_count="1" wedge_swirl="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 1.2246467991473532E-16 -1.2246467991473532E-16 -1.0 -0.5 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" julian="0.232" julian_power="-4" julian_dist="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0" />
+  <palette count="256" format="RGB" >
+C1A502BCA702B6A802B1AA02ACAB02A6AD02A1AE029CB00296B20291B3028BB50286B602
+81B8027BB90276BB0271BC026BBE0266C00261C1025BC30256C40251C6024BC70246C902
+41CB023BCC023BCB0243C5034ABF0452B9055AB30662AD0769A70871A009799A0A80940B
+888E0C90880D97820E9F7C0FA77610AF7011B66A12BE6413C65E14CD5815D55216DD4C17
+E44618EC4019F43A1AFB341BFB391DF74120F44923F15126EE5929EB612CE8692FE57132
+E27835DF8038DC883BD9903ED69841D2A043CFA846CCB049C9B84CC6BF4FC3C752C0CF55
+BDD758BADF5BB7E75EB4EF61B0F764ADFB65A7F361A1EA5D9AE25994DA558ED15188C94D
+82C0497CB84576AF416FA73D699F396396355D8E3157852D517D294B7425456C213E631D
+385B1A3253162C4A1226420E20390A1A3106132802112500122400132300142300152200
+162100162100172000181F00191F001A1E001B1D001B1D001C1C001D1B001E1B001F1A00
+1F19002019002118002217002317002416002415002515002614002E1C0737240D3F2D14
+48351B503D21594528614D2F6A5635725E3C7A6643836E498B7650947F579C875EA58F64
+AD976BB59F72BEA878C6B07FCFB886D7C08CE0C893E8D19AF1D9A0F9E1A7FDE6ABFBE7AB
+F9E8ABF7E9ABF5EAABF3EBABF1ECABEFEDABEDEEABEBEFABE9F0ABE7F1ABE5F2ABE3F3AB
+E1F4ABDFF4ABDDF5ABDBF6ABD9F7ABD7F8ABD5F9ABD3FAABD1FBABCEFCABCCFDABCAFEAB
+C8FEA9C6FEA6C4FEA4C2FEA1C0FE9FBEFE9CBCFE99BAFE97B8FE94B6FE92B4FE8FB2FE8D
+B0FE8AADFE87ABFE85A9FE82A7FE80A5FE7DA3FE7BA1FE789FFE759DFE739BFE7099FE6E
+97FE6B94FD6890F5648BEE6087E65C82DF587ED75479D05075C84C70C1486CB94468B240
+63AA3C5FA3375A9C3356942F518D2B4D8527487E2344761F406F1B3B671737601332580F
+2E510B294907254203233F01233E01233E01233D01243D01243D01243C01243C01243B01
+243B01243A01243A01243A01253901253901253801253801253701253701253701253601
+263601263501263501263401</palette>
+</flame>

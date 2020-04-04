@@ -1,0 +1,34 @@
+<flame name="Speaking of Fire" smooth_gradient="0" version="JWildfire 2.57 (09.08.2015)" size="1280 1024" center="0.0 0.0" scale="141.1764705882353" rotate="0.0" filter="0.75" filter_kernel="MITCHELL" oversample="2" color_oversample="3" sample_jittering="0" post_noise_filter="0" post_noise_filter_threshold="0.35" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="500.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="220.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.25" antialias_radius="0.5" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" fps="30" mixer_mode="OFF">
+  <xform weight="1.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" line="20.0" line_delta="0.5" line_phi="0.0" radial_blur="0.05" radial_blur_angle="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.0 -10.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 0.0 0.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" pre_blur="0.05" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 0.0 0.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.0" cylinder="1.0" pre_blur="0.2" coefs="0.7071067811865477 0.7071067811865475 -0.7071067811865475 0.7071067811865477 0.0 0.0" post="0.1 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 0.0 0.0"/>
+  <xform weight="5.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.9" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 0.20000000000000004 0.0" chaos="1.0 1.0 1.0 20.0 0.0 1.0 0.0 0.0" name="shift right"/>
+  <xform weight="5.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.9" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.0 -0.2 0.0" chaos="1.0 1.0 1.0 0.0 20.0 1.0 0.0 0.0" name="shift left"/>
+  <xform weight="5.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" waves2="1.0" waves2_scalex="1.0" waves2_scaley="0.5" waves2_freqx="1.5707963267948966" waves2_freqy="0.7853981633974483" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 0.0 1.0 100.0 0.0"/>
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" shredlin="1.0" shredlin_xdistance="1.0" shredlin_xwidth="0.5" shredlin_ydistance="1.0" shredlin_ywidth="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="0.0 0.0 0.0 0.0 0.0 0.0 0.0 1.0"/>
+  <xform weight="0.5" color="1.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" linear3D="1.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="-1.0 0.0 0.0 1.0 0.5 0.0" chaos="1.0 1.0 1.0 0.0 0.0 1.0 0.0 0.0"/>
+  <finalxform weight="0.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" foci="3.0" coefs="0.5 0.0 0.0 0.5 0.0 0.0" chaos="1.0 1.0 1.0 1.0 1.0 1.0 1.0 1.0"/>
+  <palette count="256" format="RGB">
+DE3303DF3606E03A09E23D0BE3410EE44411E54814E64B16E84F19E9521CEA551FEB5922
+ED5C24EE6027EF632AF0672DF16A2FF36D32F47135F57438F6783AF77B3DF97F40FA8243
+FB8646FC8948FB8D4AF79148F39647EF9A46EB9E45E6A344E2A743DEAC42DAB040D6B43F
+D2B93ECDBD3DC9C23CC5C63BC1CB3ABDCF39B8D337B4D836B0DC35ACE134A8E533A4E932
+9FEE319BF22F97F72E93FB2D8EF42C88EA2A82E1287DD72677CD2571C3236CB92166B01F
+61A61E5B9C1C55921A5088184A7F174475153F6B1339611134570F2E4D0E28440C233A0A
+1D3008172607121C050C130307090103020208060C0D0A16120E2017132A1D1733221B3D
+271F472C235131275B362C653B306F4034794638824B3C8C5041965545A05A49AA5F4DB4
+6451BE6955C86E5AD2745EDB7962E57E66EF836AF9836AF78067ED7C64E37960DA765DD0
+725AC66F57BC6C54B26850A8654D9F624A955E478B5B4481584077553D6D513A634E375A
+4B3450473046442D3C412A323D27283A241F372015331D0B301A01381B02401C03481D04
+501E05581E05601F0668200770210878220980230A88240B90250C98260DA0270EA8270E
+B0280FB72910BF2A11C72B12CF2C13D72D14DF2E15E72F16EF3017F73017FB3118F73217
+F43316F13415ED3514EA3613E73713E33812E03911DC3A10D93B0FD63C0ED23D0DCF3E0C
+CC3F0CC83F0BC5400AC24109BE4208BB4307B74406B44506B14605AD4704AA4803A74902
+A54802A44702A24602A146029F45029E44029D43029B42029A4102994002973F02963E02
+953E02933D02923C02903B028F3A028E39028C38028B37028A3602883502873502853402
+8433028232027D34027835027336026E3702693902643A025F3B025A3C02553E02503F02
+4B40024641024143013C44013745013246012D4801284901234A011E4B01194D01144E01
+0F4F010A5001055201095604135C091C610E266713306D183A731D4379224D7F2757852C
+618B316B913674973B7E9D4088A34592A94A9BAF4FA5B554AFBB59B9C05EC2C663CCCC68
+D6D26DE0D872E9DE77F3E47C  </palette>
+</flame>

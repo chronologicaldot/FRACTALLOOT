@@ -1,0 +1,32 @@
+<flame name="Avocado Seeds" smooth_gradient="0" version="JWildfire 2.34 ALPHA (06.02.2015)" size="680 544" center="-3.5 0.0" scale="150.0" rotate="90.0" filter="0.0" filter_kernel="GAUSSIAN" quality="100.0" background="0.0 0.0 0.0" bg_transparency="0" brightness="10.0" saturation="1.0" gamma="2.2" gamma_threshold="0.01" vibrancy="1.0" contrast="1.0" white_level="200.0" temporal_samples="1.0" cam_zoom="1.0" cam_pitch="0.0" cam_yaw="0.0" cam_persp="0.0" cam_xfocus="0.0" cam_yfocus="0.0" cam_zfocus="0.0" cam_pos_x="0.0" cam_pos_y="0.0" cam_pos_z="0.0" cam_zpos="0.0" cam_dof="0.0" cam_dof_area="0.5" cam_dof_exponent="2.0" cam_dof_shape="BUBBLE" cam_dof_scale="1.0" cam_dof_rotate="0.0" cam_dof_fade="1.0" shading_shading="FLAT" antialias_amount="0.75" antialias_radius="0.36" post_symmetry_type="NONE" post_symmetry_order="3" post_symmetry_centre_x="0.0" post_symmetry_centre_y="0.0" post_symmetry_distance="1.25" post_symmetry_rotation="6.0" frame="1" frame_count="300" mixer_mode="OFF" >
+  <xform weight="0.1" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="3.0" coefs="0.5 0.0 0.0 0.5 0.0 0.0" post="0.4 0.0 0.0 1.0 -0.5 0.0" chaos="1.0 1.0 0.0 0.0 0.0 1.0 1.0" />
+  <xform weight="1.0" color="0.0" mod_gamma="0.0" mod_gamma_speed="1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="1.0" curl="1.0" curl_c1="0.5" curl_c2="0.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 1.0 1.0" />
+  <xform weight="5.0" color="1.0" mod_gamma="0.0" mod_gamma_speed="1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="0.9" glynnia="1.0" coefs="0.5131581182307068 0.0 0.0 0.5131581182307068 2.0 0.0" post="0.25 0.0 0.0 0.25 -1.5 0.0" chaos="0.0 0.0 0.0 0.0 1.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.5" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" hemisphere="1.0" coefs="0.25 0.0 0.0 0.25 1.0 0.0" post="1.0 0.0 0.0 1.0 1.0 0.0" chaos="1.0 0.0 1.0 1.0 0.0 1.0 1.0" />
+  <xform weight="0.5" color="0.0" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="1.0" linear3D="1.0" post_crop="1.0" post_crop_left="-10000.0" post_crop_right="-1.0" post_crop_top="-10000.0" post_crop_bottom="10000.0" post_crop_scatter_area="0.0" post_crop_zero="0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" chaos="1.0 1.0 0.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.01" color="0.5" mod_gamma="0.0" mod_gamma_speed="0.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" opacity="0.0" symmetry="-1.0" cylinder="1.0" pre_blur="0.1" coefs="1.0 0.0 0.0 1.0 -1.5 0.0" post="0.02 0.0 0.0 2.0 -0.95 0.0" chaos="1.0 1.0 0.0 0.0 0.0 1.0 1.0" />
+  <xform weight="0.02" color="0.0" mod_gamma="1.0" mod_gamma_speed="-1.0" mod_contrast="0.0" mod_contrast_speed="0.0" mod_saturation="0.0" mod_saturation_speed="0.0" symmetry="0.0" dla_wf="0.5" dla_wf_buffer_size="800" dla_wf_max_iter="6000" dla_wf_seed="777" dla_wf_scale="10.0" coefs="1.0 0.0 0.0 1.0 0.0 0.0" post="1.0 0.0 0.0 1.5 -0.9 0.0" chaos="0.0 0.0 1.0 0.0 1.0 0.0 1.0" />
+  <palette count="256" format="RGB" >
+FCCF9BFBD09AFAD098F9D197F8D296F7D294F6D393F5D491F4D490F3D58FF2D68DF1D68C
+F0D78BEFD889EED888EDD987ECDA85EADA84E9DB83E8DC81E7DC80E6DD7EE5DE7DE4DE7C
+E3DF7AE2E079E1E078E0E176DFE275DEE274DDE372DCE471DBE570DAE56ED9E66DD8E76B
+D7E76AD6E869D5E967D4E966D3EA65D2EB63D1EB62D0EC61CFED5FCEED5ECDEE5CCCEF5B
+CBEF5AC9F058C8F157C7F156C6F254C5F353C4F352C3F450C2F54FC1F54EC0F64CBFF74B
+BEF749BDF848BCF947BBF945BAFA44B9F847B9F74AB8F54DB7F450B7F252B6F055B5EF58
+B5ED5BB4EB5EB3EA61B3E864B2E767B1E569B1E36CB0E26FAFE072AFDE75AEDD78ADDB7B
+ADDA7EACD880ABD683ABD586AAD389A9D18CA9D08FA8CE92A7CD95A7CB97A6C99AA5C89D
+A5C6A0A4C4A3A3C3A6A2C1A9A2C0ACA1BEAEA0BCB1A0BBB49FB9B79EB7BA9EB6BD9DB4C0
+9CB3C39CB1C59BAFC89AAECB9AACCE99AAD198A9D498A7D797A6DA96A4DC96A2DF95A1E2
+949FE5949DE8939CEB929AEE9299F19197F39095F69094F98F92FC9193FA9293F79494F5
+9695F29796F09996ED9B97EB9D98E89E98E6A099E3A29AE1A39ADFA59BDCA79CDAA89DD7
+AA9DD5AC9ED2AD9FD0AF9FCDB1A0CBB2A1C8B4A1C6B6A2C4B8A3C1B9A4BFBBA4BCBDA5BA
+BEA6B7C0A6B5C2A7B2C3A8B0C5A9AEC7A9ABC8AAA9CAABA6CCABA4CDACA1CFAD9FD1AD9C
+D3AE9AD4AF97D6B095D8B093D9B190DBB28EDDB28BDEB389E0B486E2B484E3B581E5B67F
+E7B77CE8B77AEAB878ECB975EEB973EFBA70F1BB6EF3BB6BF4BC69F6BD66F8BE64F9BE61
+FBBF5FF9BF5EF7BE5CF5BE5BF3BD59F1BD58EFBC56EDBC55EBBB54E8BB52E6BA51E4BA4F
+E2B94EE0B94DDEB84BDCB84ADAB848D8B747D6B745D4B644D2B643D0B541CEB540CCB43E
+CAB43DC7B33BC5B33AC3B239C1B237BFB136BDB134BBB033B9B032B7B030B5AF2FB3AF2D
+B1AE2CAFAE2AADAD29ABAD28A9AC26A6AC25A4AB23A2AB22A0AA209EAA1F9CA91E9AA91C
+98A91B96A81994A81892A71690A7158EA6148CA6128AA51188A50F85A40E83A40D81A30B
+7FA30A7DA2087BA20779A105</palette>
+</flame>
