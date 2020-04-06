@@ -17,14 +17,15 @@ class Options:
 	def __init__(self):
 		self.verbose = False
 		self.simulate = False
-		self.flames_path = ".."
+		self.flames_path = "../"
+		self.images_path = "../images"
 		self.thumbs_path = "../thumbs"
 
-class Thumb:
+class Image:
 	def __init__(self, name, truename):
 		self.name = name
 		self.truename = truename
-		self.flame = name + ".flame" # Assume there exists a flame file
+		self.flame = truename + ".flame" # Assume there exists a flame file
 		self.has_thumb = False
 
 
@@ -68,6 +69,9 @@ Fractal LOOT
 </div>
 <div class="infobar">
 All fractals here are FREE to download, share, and modify! Credit is appreciated but not required. These fractals are created by Nic Anderson.
+<p>
+The parameters were designed in JWildfire. More fractal flame parameters can be found in <a href="https://github.com/chronologicaldot/chronologicaldot/FRACTALLOOT">the huge repository</a>.
+</p>
 </div>
 
 <div class="highslide-gallery">
@@ -79,51 +83,65 @@ site_footer = """
 
 
 # Create the website
-def create( options, thumbs ):
+def create( options, images ):
 	if options.simulate:
 		siteroot = "../"
 	else:
 		#siteroot = "https://github.com/chronologicaldot/chronologicaldot/FRACTALLOOT/master/"
 		siteroot = "https://raw.githubusercontent.com/chronologicaldot/FRACTALLOOT/master/"
+
 	mainpage = open("index.html", "w+") # Opens the file, creating it if it does not exist
 	mainpage.write(site_header)
-	for thumb in thumbs:
-		#print("Writing thumb: {thumb}".format(thumb=thumb.name))
-		flame_path = siteroot + thumb.flame
+	for image in images:
+		#print("Writing image: {image}".format(image=image.name))
+		flame_path = siteroot + image.flame
+		thumb_path = os.path.join("thumbs", image.name)
+		if image.has_thumb:
+			thumb_path = "images/" + image.name
 		mainpage.write("""
-<a href="{root}thumbs/{image_path}" class="highslide" onclick="return hs.expand(this)">
-	<img style="height:10em; width:10em;" src="{root}thumbs/{thumb_path}" alt="Fractal Image" title="Click to enlarge" />
+<a href="{root}images/{image_name}" class="highslide" onclick="return hs.expand(this)">
+	<img style="height:10em; width:10em;" src="{root}{thumb_path}" alt="Fractal Image" title="Click to enlarge" />
 </a>
 <div class="highslide-caption">
 	<a href="{params}">Download Parameters</a>
 </div>
-""".format(root=siteroot, image_path=thumb.name, thumb_path=thumb.name, params=flame_path))
+""".format(root=siteroot, image_name=image.name, thumb_path=thumb_path, params=flame_path))
 
 	mainpage.write(site_footer)
 
 
-# Process the thumbnails list
+# Process the imagenails list
 def process( options ):
-	# Collect a list of all of the .flame files.
-	# They should be in the directory parenting the one with this script.
-	# To be downloadable, each flame needs a corresponding thumbnail file.
-	# The thumbnails will be either .png or .jpg or .gif.
-	#thumbs = dict() # or {}
-	thumbs = list() # or []
+	# Collect a list of all of the imagenail files.
+	# They should be in the directory in the directory parenting the one with this script.
+	# To be downloadable, each imagenail needs a corresponding .flame file.
+	# The imagenails will be either .png or .jpg or .gif.
+	#images = dict() # or {}
+	images = list() # or []
 
-	thumbs_list = os.listdir( options.thumbs_path )
-	for thumb_name in thumbs_list:
-		thumb_path = os.path.normpath( os.path.join( options.thumbs_path, thumb_name ) )
-		#print("File: {name}, {path}".format(name=thumb_name, path=thumb_path)) # debug
+	images_list = os.listdir( options.images_path )
+	for image_name in images_list:
+		image_path = os.path.normpath( os.path.join( options.images_path, image_name ) )
+		#print("File: {name}, {path}".format(name=image_name, path=image_path)) # debug
+		if not os.path.isfile(image_path):
+			continue
+		image_truename, image_ext = os.path.splitext(image_name)
+		if image_ext == ".png" or image_ext == ".jpg" or image_ext == ".gif":
+			if options.verbose:
+				print("Found image file: {name}".format(name=image_name))
+			#images[image_truename] = Image(image_name)
+			images.append(Image(image_name, image_truename))
+
+	for image in images:
+		thumb_path = os.path.normpath( os.path.join( options.thumbs_path, image.name ) )
 		if not os.path.isfile(thumb_path):
 			continue
-		thumb_truename, thumb_ext = os.path.splitext(thumb_name)
+		thumb_truename, thumb_ext = os.path.splitext(thumb_path)
 		if thumb_ext == ".png" or thumb_ext == ".jpg" or thumb_ext == ".gif":
 			if options.verbose:
-				print("Found thumb file: {name}".format(name=thumb_name))
-			#thumbs[thumb_truename] = Thumb(thumb_name)
-			thumbs.append(Thumb(thumb_name, thumb_truename))
-	
+				print("Found thumbnail file: {name}".format(name=thumb_truename))
+			image.has_thumb = True
+
 	#file_list = os.listdir( options.flames_path )
 	#for file_name in file_list:
 	#	file_path = os.path.join( options.flames_path, file_name )
@@ -136,10 +154,10 @@ def process( options ):
 	#		#f = Flame()
 	#		#f.name = file_truename
 	#		#flames.append(f)
-	#		# Find matching thumb file
+	#		# Find matching image file
 	#		# ... not necessary
 
-	create( options, thumbs )
+	create( options, images )
 	
 
 def main( argv ):
@@ -169,7 +187,7 @@ def main( argv ):
 
 	cwd = os.getcwd()
 	options.flames_path = os.path.join(os.path.normpath(cwd), options.flames_path)
-	options.thumbs_path = os.path.join(os.path.normpath(cwd), options.thumbs_path)
+	options.images_path = os.path.join(os.path.normpath(cwd), options.images_path)
 
 	process(options)
 
