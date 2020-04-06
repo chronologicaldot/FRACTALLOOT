@@ -1,0 +1,30 @@
+body {
+	background-color: black;
+}
+
+.titlebar {
+	position: relative;
+	left: 0;
+	right: 0;
+	min-height: 2em;
+	background-image: url("header.png");
+	background-repeat: repeat-x;
+	color: white;
+	text-shadow: 2px 2px 1px black;
+	text-align: center;
+	font-size: 4em;
+	font-weight: bold;
+	margin-top: 0.1em;
+	padding-top: 0.5em;
+}
+
+.infobar {
+	position: relative;
+	left: 0;
+	right: 0;
+	min-height: 2em;
+	color: white;
+	text-align: center;
+	font-size: 1em;
+	padding-top: 0.5em;
+}
