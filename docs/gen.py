@@ -94,13 +94,13 @@ def create( options, thumbs ):
 		#print("Writing thumb: {thumb}".format(thumb=thumb.name))
 		flame_path = siteroot + thumb.flame
 		mainpage.write("""
-<a href="../thumbs/{image_path}" class="highslide" onclick="return hs.expand(this)">
-	<img style="height:10em; width:10em;" src="../thumbs/{thumb_path}" alt="Highslide JS" title="Click to enlarge" />
+<a href="{root}thumbs/{image_path}" class="highslide" onclick="return hs.expand(this)">
+	<img style="height:10em; width:10em;" src="{root}/thumbs/{thumb_path}" alt="Highslide JS" title="Click to enlarge" />
 </a>
 <div class="highslide-caption">
 	<a href="{params}">Download Parameters</a>
 </div>
-""".format(image_path=thumb.name, thumb_path=thumb.name, params=flame_path))
+""".format(root=siteroot, image_path=thumb.name, thumb_path=thumb.name, params=flame_path))
 
 	mainpage.write(site_footer)
 
