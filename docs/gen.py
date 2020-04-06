@@ -95,7 +95,7 @@ def create( options, thumbs ):
 		flame_path = siteroot + thumb.flame
 		mainpage.write("""
 <a href="{root}thumbs/{image_path}" class="highslide" onclick="return hs.expand(this)">
-	<img style="height:10em; width:10em;" src="{root}/thumbs/{thumb_path}" alt="Highslide JS" title="Click to enlarge" />
+	<img style="height:10em; width:10em;" src="{root}thumbs/{thumb_path}" alt="Highslide JS" title="Click to enlarge" />
 </a>
 <div class="highslide-caption">
 	<a href="{params}">Download Parameters</a>
