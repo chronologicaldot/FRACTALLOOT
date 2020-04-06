@@ -31,16 +31,12 @@ class Thumb:
 # The following deliberately run over several lines for formatting purposes.
 site_header = """<!DOCTYPE html>
 <html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<script type="text/javascript" src="highslide/highslide-with-gallery.js"></script>
 	<link rel="stylesheet" type="text/css" href="highslide/highslide.css" />
 
-	<!--
-		2) Optionally override the settings defined at the top
-		of the highslide.js file. The parameter hs.graphicsDir is important!
-	-->
-
 	<script type="text/javascript">
-	hs.graphicsDir = '../highslide/graphics/';
+	hs.graphicsDir = 'highslide/graphics/';
 	hs.align = 'center';
 	hs.transitions = ['expand', 'crossfade'];
 	hs.outlineType = 'glossy-dark';
