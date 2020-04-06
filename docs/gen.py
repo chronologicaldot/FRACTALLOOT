@@ -87,8 +87,8 @@ def create( options, thumbs ):
 	if options.simulate:
 		siteroot = "../"
 	else:
-		#siteroot = "https://github.com/chronologicaldot/FRACTALLOOT/blob/master/"
-		siteroot = "https://raw.githubusercontent.com/FRACTALLOOT/blob/master/"
+		#siteroot = "https://github.com/chronologicaldot/chronologicaldot/FRACTALLOOT/blob/master/"
+		siteroot = "https://raw.githubusercontent.com/chronologicaldot/FRACTALLOOT/blob/master/"
 	mainpage = open("index.html", "w+") # Opens the file, creating it if it does not exist
 	mainpage.write(site_header)
 	for thumb in thumbs:
