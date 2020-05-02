@@ -2,7 +2,8 @@
 # (C) 2020 Nic Anderson
 # Script for generating the FRACTALLOOT website.
 
-import sys, os, shutil, getopt
+import sys, os, shutil, getopt, string
+# string is imported for string.ascii_lowercase
 
 def usage():
 	print("""Generate the website
@@ -63,23 +64,66 @@ site_header = """<!DOCTYPE html>
 
 	<link rel="stylesheet" type="text/css" href="site.css" />
 </head><body>
+"""
 
+site_index_body = """
 <div class="titlebar">
 Fractal LOOT
 </div>
 <div class="infobar">
-All fractals here are FREE to download, share, and modify! Credit is appreciated but not required. These fractals are created by Nic Anderson.
+All fractals (and images) here are FREE to download, share, and modify! Credit is appreciated but not required. These fractals are created by Nic Anderson (Chronologicaldot/ABlipinTime, <a href="https://www.chronologicaldot.com">website</a>, <a href="https://ablipintime.deviantart.com">fractal art</a>). Special thanks to Michael (TheAudioMonk) for rendering the fractal previews.
 <p>
-The parameters were designed in JWildfire. More fractal flame parameters can be found in <a href="https://github.com/chronologicaldot/chronologicaldot/FRACTALLOOT">the huge repository</a>.
+PLEASE NOTE: The parameters were designed in JWildfire but the vast majority of the renders are from Chaotica. Chaotica doesn't have all the same transform variations, so some fractals may appear messed up. Also note that some parameters require custom transforms, which may require minimum versions of JWildfire. Versions of JWF 2.5 and up should suffice to render most parameters. Note further that, beginning with JWF 3, brightness calculations changed, resulting in many parameters designed in older JWF versions as appearing dark in these images, so just increase the brightness.</p>
+<p>
+PLEASE NOTE: Most of the fractals were rendered with their perspectives widened, causing round shapes to appear elliptical. Most of the fractals were rendered at only moderate resolution, so they may appear dusty.
+</p>
+<p>
+PLEASE NOTE: This is a fractal DUMP. It includes nearly every fractal parameter created over the course of 10 years, so the quality ranges from newb to boss. None of the fractals are sorted. Many appear to be duplicates but are actually progressions in the development of a final fractal form. These may be useful in tutorials.
+</p>
+<p>More fractal flame parameters can be found in <a href="https://github.com/chronologicaldot/chronologicaldot/FRACTALLOOT">the huge repository</a>.
 </p>
 </div>
+"""
 
+site_gallery_body = """
+<div class="titlebar">
+Fractal LOOT
+</div>
 <div class="highslide-gallery">
 """
 
+site_gallery_footer = """
+</div> <!-- end highslide gallery -->"""
+
 site_footer = """
-</div> <!-- end highslide gallery -->
 </body></html>"""
+
+# Create the gallery
+def createGalleryPage( page, pageprefix, siteroot, options, images ):
+	page.write(site_header)
+	page.write(site_gallery_body)
+	for image in images:
+		if len(pageprefix) > 0 and image.name[0:len(pageprefix)].lower() != pageprefix:
+			#print("Page prefix no match: ", image.name[0:len(pageprefix)].lower(), " : Seek: ", pageprefix)
+			continue
+
+		#print("Writing image: {image}".format(image=image.name))
+		flame_path = siteroot + image.flame
+		thumb_path = os.path.join("thumbs", image.name)
+		if image.has_thumb:
+			thumb_path = "images/" + image.name
+		page.write("""
+<a href="{root}images/{image_name}" class="highslide" onclick="return hs.expand(this)">
+<img style="height:10em; width:10em;" src="{root}{thumb_path}" alt="Fractal Image" title="Click to enlarge" />
+</a>
+<div class="highslide-caption">
+{image_truename} |
+<a href="{params}">Download Parameters</a>
+</div>
+""".format(root=siteroot, image_name=image.name, thumb_path=thumb_path, params=flame_path, image_truename=image.truename))
+
+	page.write(site_gallery_footer)
+	page.write(site_footer)
 
 
 # Create the website
@@ -92,20 +136,16 @@ def create( options, images ):
 
 	mainpage = open("index.html", "w+") # Opens the file, creating it if it does not exist
 	mainpage.write(site_header)
-	for image in images:
-		#print("Writing image: {image}".format(image=image.name))
-		flame_path = siteroot + image.flame
-		thumb_path = os.path.join("thumbs", image.name)
-		if image.has_thumb:
-			thumb_path = "images/" + image.name
-		mainpage.write("""
-<a href="{root}images/{image_name}" class="highslide" onclick="return hs.expand(this)">
-	<img style="height:10em; width:10em;" src="{root}{thumb_path}" alt="Fractal Image" title="Click to enlarge" />
-</a>
-<div class="highslide-caption">
-	<a href="{params}">Download Parameters</a>
-</div>
-""".format(root=siteroot, image_name=image.name, thumb_path=thumb_path, params=flame_path))
+	mainpage.write(site_index_body)
+
+	# Should include here a page for premium fractals, labeled with a star
+
+	for x in string.ascii_lowercase:
+		pagelink = "{pagename}.html".format(pagename=x)
+		page = open( pagelink, "w+" )
+		createGalleryPage(page, x, siteroot, options, images)
+		# Page link
+		mainpage.write( '<a style="font-size:2em" href="{pagelink}">{pagename}</a> '.format(pagelink=pagelink, pagename=x) )
 
 	mainpage.write(site_footer)
 
