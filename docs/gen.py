@@ -80,7 +80,7 @@ PLEASE NOTE: Most of the fractals were rendered with their perspectives widened,
 <p>
 PLEASE NOTE: This is a fractal DUMP. It includes nearly every fractal parameter created over the course of 10 years, so the quality ranges from newb to boss. None of the fractals are sorted. Many appear to be duplicates but are actually progressions in the development of a final fractal form. These may be useful in tutorials.
 </p>
-<p>More fractal flame parameters can be found in <a href="https://github.com/chronologicaldot/chronologicaldot/FRACTALLOOT">the huge repository</a>.
+<p>More fractal flame parameters can be found in <a href="https://github.com/chronologicaldot/FRACTALLOOT">the huge repository</a>.
 </p>
 </div>
 """
