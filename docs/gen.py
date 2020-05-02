@@ -145,7 +145,7 @@ def create( options, images ):
 		page = open( pagelink, "w+" )
 		createGalleryPage(page, x, siteroot, options, images)
 		# Page link
-		mainpage.write( '<a style="font-size:2em" href="{siteroot}docs/{pagelink}">{pagename}</a> '.format(siteroot=siteroot, pagelink=pagelink, pagename=x) )
+		mainpage.write( '<a style="font-size:2em" href="https://chronologicaldot.github.io/FRACTALLOOT/{pagelink}">{pagename}</a> '.format(siteroot=siteroot, pagelink=pagelink, pagename=x) )
 
 	mainpage.write(site_footer)
 
