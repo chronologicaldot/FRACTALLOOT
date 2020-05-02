@@ -145,7 +145,7 @@ def create( options, images ):
 		page = open( pagelink, "w+" )
 		createGalleryPage(page, x, siteroot, options, images)
 		# Page link
-		mainpage.write( '<a style="font-size:2em" href="{pagelink}">{pagename}</a> '.format(pagelink=pagelink, pagename=x) )
+		mainpage.write( '<a style="font-size:2em" href="{siteroot}{pagelink}">{pagename}</a> '.format(siteroot=siteroot, pagelink=pagelink, pagename=x) )
 
 	mainpage.write(site_footer)
 

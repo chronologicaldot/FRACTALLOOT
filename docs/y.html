@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<script type="text/javascript" src="highslide/highslide-with-gallery.js"></script>
+	<link rel="stylesheet" type="text/css" href="highslide/highslide.css" />
+
+	<script type="text/javascript">
+	hs.graphicsDir = 'highslide/graphics/';
+	hs.align = 'center';
+	hs.transitions = ['expand', 'crossfade'];
+	hs.outlineType = 'glossy-dark';
+	hs.wrapperClassName = 'dark';
+	hs.fadeInOut = true;
+	//hs.dimmingOpacity = 0.75;
+
+	// Add the controlbar
+	if (hs.addSlideshow) hs.addSlideshow({
+		//slideshowGroup: 'group1',
+		interval: 5000,
+		repeat: false,
+		useControls: true,
+		fixedControls: 'fit',
+		overlayOptions: {
+			opacity: .6,
+			position: 'bottom center',
+			hideOnMouseOut: true
+		}
+	});
+
+	</script>
+
+	<link rel="stylesheet" type="text/css" href="site.css" />
+</head><body>
+
+<div class="titlebar">
+Fractal LOOT
+</div>
+<div class="highslide-gallery">
+
+</div> <!-- end highslide gallery -->
+</body></html>
